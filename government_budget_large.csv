@@ -1,0 +1,5001 @@
+Year,Category,Amount,Type
+2011,Grants,18414579,Revenue
+2001,Grants,49068957,Revenue
+2014,Social Welfare,21656009,Expense
+2022,Infrastructure,9126787,Expense
+2006,Social Welfare,42723676,Expense
+2019,Defense,30010191,Expense
+2000,Defense,17610498,Expense
+2005,Defense,28905167,Expense
+2013,Defense,22221088,Expense
+2010,Defense,7004609,Expense
+2022,Infrastructure,7081424,Expense
+2011,Infrastructure,21397961,Expense
+2004,Social Welfare,3958811,Expense
+2021,Healthcare,28488931,Expense
+2007,Grants,36835496,Revenue
+2018,Defense,29573952,Expense
+2010,Healthcare,14063166,Expense
+2020,Education,49283809,Expense
+2012,Infrastructure,34732723,Expense
+2007,Foreign Aid,5279617,Revenue
+2010,Defense,31203493,Expense
+2006,Social Welfare,23215477,Expense
+2015,Infrastructure,38886329,Expense
+2003,Grants,49832274,Revenue
+2000,Natural Resources,46902740,Revenue
+2003,Defense,17481336,Expense
+2016,Healthcare,2218551,Expense
+2010,Defense,11357444,Expense
+2012,Natural Resources,28905856,Revenue
+2020,Natural Resources,40147076,Revenue
+2006,Foreign Aid,45156763,Revenue
+2000,Natural Resources,13167630,Revenue
+2001,Social Welfare,31680027,Expense
+2018,Natural Resources,18418462,Revenue
+2007,Foreign Aid,2434520,Revenue
+2001,Tax Revenue,35757809,Revenue
+2007,Social Welfare,36509403,Expense
+2019,Natural Resources,17815801,Revenue
+2010,Natural Resources,8442453,Revenue
+2000,Infrastructure,48858837,Expense
+2001,Education,28663744,Expense
+2023,Grants,18643593,Revenue
+2019,Infrastructure,48761192,Expense
+2023,Social Welfare,16407746,Expense
+2015,Education,13021658,Expense
+2009,Natural Resources,2210043,Revenue
+2022,Infrastructure,1364315,Expense
+2008,Tax Revenue,5004306,Revenue
+2022,Defense,43300254,Expense
+2001,Natural Resources,49969482,Revenue
+2011,Natural Resources,27783378,Revenue
+2011,Healthcare,32791637,Expense
+2017,Tax Revenue,42559682,Revenue
+2003,Defense,38388665,Expense
+2013,Natural Resources,14466637,Revenue
+2016,Foreign Aid,19688730,Revenue
+2001,Defense,5042811,Expense
+2012,Foreign Aid,33335092,Revenue
+2000,Education,39773445,Expense
+2002,Social Welfare,3547885,Expense
+2011,Healthcare,19605500,Expense
+2011,Education,31279856,Expense
+2006,Natural Resources,49588580,Revenue
+2022,Grants,38358109,Revenue
+2001,Grants,49523873,Revenue
+2014,Healthcare,2306121,Expense
+2004,Natural Resources,25229939,Revenue
+2000,Natural Resources,47805442,Revenue
+2021,Education,33257190,Expense
+2021,Natural Resources,18147917,Revenue
+2020,Social Welfare,10614231,Expense
+2006,Grants,8849099,Revenue
+2018,Foreign Aid,7375128,Revenue
+2000,Defense,43615464,Expense
+2022,Foreign Aid,37955707,Revenue
+2023,Education,32262659,Expense
+2020,Infrastructure,26555686,Expense
+2022,Foreign Aid,6137553,Revenue
+2002,Tax Revenue,5438747,Revenue
+2002,Education,4925555,Expense
+2008,Education,3282634,Expense
+2017,Education,26714200,Expense
+2001,Education,8471729,Expense
+2009,Healthcare,31208254,Expense
+2020,Education,21251740,Expense
+2015,Foreign Aid,37064082,Revenue
+2010,Education,2348595,Expense
+2010,Foreign Aid,34146515,Revenue
+2000,Infrastructure,19798249,Expense
+2003,Natural Resources,24860905,Revenue
+2023,Natural Resources,33204955,Revenue
+2013,Social Welfare,37027218,Expense
+2006,Education,41056831,Expense
+2006,Education,29660166,Expense
+2006,Education,45001139,Expense
+2015,Social Welfare,38606320,Expense
+2015,Education,10919530,Expense
+2003,Foreign Aid,40856514,Revenue
+2023,Grants,13213160,Revenue
+2003,Grants,44313607,Revenue
+2020,Healthcare,21102035,Expense
+2006,Natural Resources,25044248,Revenue
+2022,Grants,15828577,Revenue
+2008,Education,10172713,Expense
+2005,Social Welfare,13555101,Expense
+2004,Infrastructure,41144381,Expense
+2016,Grants,15857407,Revenue
+2022,Education,17010132,Expense
+2015,Social Welfare,6071385,Expense
+2008,Social Welfare,14160638,Expense
+2002,Tax Revenue,24790836,Revenue
+2022,Grants,38394334,Revenue
+2008,Healthcare,30018880,Expense
+2009,Grants,4353770,Revenue
+2005,Healthcare,15486271,Expense
+2022,Education,24592587,Expense
+2012,Grants,8314246,Revenue
+2005,Tax Revenue,21908348,Revenue
+2018,Grants,3229819,Revenue
+2011,Natural Resources,12347224,Revenue
+2019,Education,12007466,Expense
+2015,Education,25573418,Expense
+2010,Education,2208929,Expense
+2003,Foreign Aid,19958014,Revenue
+2007,Education,15999748,Expense
+2017,Healthcare,27106777,Expense
+2014,Defense,26125998,Expense
+2001,Grants,48991172,Revenue
+2002,Grants,38602879,Revenue
+2001,Social Welfare,35278588,Expense
+2018,Foreign Aid,44894267,Revenue
+2009,Infrastructure,6143043,Expense
+2022,Social Welfare,45250559,Expense
+2007,Defense,44847183,Expense
+2008,Social Welfare,27572411,Expense
+2019,Healthcare,15160299,Expense
+2018,Defense,41291668,Expense
+2019,Grants,32122635,Revenue
+2013,Social Welfare,14061555,Expense
+2007,Education,1863740,Expense
+2021,Tax Revenue,12662530,Revenue
+2002,Grants,21068123,Revenue
+2020,Infrastructure,28621370,Expense
+2020,Natural Resources,16968490,Revenue
+2007,Defense,41281739,Expense
+2013,Tax Revenue,35552629,Revenue
+2002,Infrastructure,34884739,Expense
+2017,Defense,2001107,Expense
+2010,Healthcare,5291332,Expense
+2018,Defense,49044240,Expense
+2013,Natural Resources,4577499,Revenue
+2012,Foreign Aid,39508468,Revenue
+2004,Defense,8772283,Expense
+2004,Foreign Aid,29927798,Revenue
+2014,Education,44800439,Expense
+2023,Foreign Aid,6174874,Revenue
+2004,Education,15549710,Expense
+2023,Infrastructure,18158591,Expense
+2009,Infrastructure,15063332,Expense
+2019,Education,8942190,Expense
+2023,Grants,39400075,Revenue
+2014,Infrastructure,37256709,Expense
+2003,Foreign Aid,14931750,Revenue
+2020,Education,10459102,Expense
+2003,Social Welfare,4747650,Expense
+2020,Grants,39840839,Revenue
+2018,Social Welfare,37630671,Expense
+2022,Healthcare,22326246,Expense
+2018,Foreign Aid,41152659,Revenue
+2013,Natural Resources,1232352,Revenue
+2002,Infrastructure,36670851,Expense
+2002,Education,28749089,Expense
+2011,Infrastructure,7120415,Expense
+2014,Infrastructure,14532513,Expense
+2000,Tax Revenue,42946420,Revenue
+2016,Healthcare,42262992,Expense
+2023,Defense,16738629,Expense
+2008,Social Welfare,7479284,Expense
+2021,Defense,46703772,Expense
+2004,Natural Resources,3001143,Revenue
+2022,Natural Resources,10265571,Revenue
+2001,Grants,13388773,Revenue
+2008,Grants,45636792,Revenue
+2020,Grants,25948374,Revenue
+2022,Infrastructure,33226148,Expense
+2022,Foreign Aid,2588561,Revenue
+2016,Healthcare,33826903,Expense
+2006,Grants,34440974,Revenue
+2020,Infrastructure,46475900,Expense
+2022,Healthcare,37703232,Expense
+2001,Infrastructure,19283672,Expense
+2012,Infrastructure,30451413,Expense
+2009,Social Welfare,15843052,Expense
+2009,Grants,38851881,Revenue
+2000,Foreign Aid,17802925,Revenue
+2005,Natural Resources,25512974,Revenue
+2013,Grants,3709620,Revenue
+2003,Healthcare,37837641,Expense
+2008,Tax Revenue,35984057,Revenue
+2012,Social Welfare,1917765,Expense
+2016,Education,36792758,Expense
+2015,Infrastructure,44588741,Expense
+2017,Natural Resources,39046522,Revenue
+2003,Education,26003764,Expense
+2001,Natural Resources,42286775,Revenue
+2019,Tax Revenue,33844312,Revenue
+2020,Infrastructure,9428955,Expense
+2001,Foreign Aid,33471186,Revenue
+2000,Tax Revenue,18866240,Revenue
+2011,Tax Revenue,2999313,Revenue
+2000,Defense,1351419,Expense
+2003,Infrastructure,20875132,Expense
+2014,Infrastructure,4977754,Expense
+2003,Foreign Aid,20347568,Revenue
+2004,Social Welfare,46606034,Expense
+2018,Education,16420161,Expense
+2013,Infrastructure,24056449,Expense
+2005,Foreign Aid,5929118,Revenue
+2005,Defense,13221667,Expense
+2019,Foreign Aid,5678633,Revenue
+2018,Natural Resources,20649166,Revenue
+2019,Infrastructure,15542911,Expense
+2008,Natural Resources,13701353,Revenue
+2007,Natural Resources,8301931,Revenue
+2018,Foreign Aid,16197906,Revenue
+2019,Foreign Aid,30380432,Revenue
+2019,Education,42274659,Expense
+2004,Healthcare,40773935,Expense
+2020,Tax Revenue,35026033,Revenue
+2016,Grants,6916628,Revenue
+2009,Grants,18961314,Revenue
+2016,Foreign Aid,23327270,Revenue
+2010,Tax Revenue,26892451,Revenue
+2003,Infrastructure,37749611,Expense
+2006,Tax Revenue,7549189,Revenue
+2016,Foreign Aid,5959936,Revenue
+2016,Social Welfare,11705359,Expense
+2005,Natural Resources,33625769,Revenue
+2022,Tax Revenue,29763600,Revenue
+2016,Infrastructure,11767568,Expense
+2009,Grants,26972907,Revenue
+2010,Healthcare,16759545,Expense
+2009,Infrastructure,2123703,Expense
+2012,Healthcare,49949082,Expense
+2012,Grants,34845466,Revenue
+2013,Infrastructure,43424964,Expense
+2002,Infrastructure,33784982,Expense
+2020,Defense,12335754,Expense
+2000,Foreign Aid,41926981,Revenue
+2001,Tax Revenue,7784688,Revenue
+2022,Healthcare,30729548,Expense
+2022,Natural Resources,24933847,Revenue
+2016,Social Welfare,33385821,Expense
+2012,Defense,1813826,Expense
+2017,Natural Resources,6738831,Revenue
+2007,Social Welfare,19513163,Expense
+2012,Natural Resources,9055393,Revenue
+2004,Defense,44249653,Expense
+2022,Education,39064208,Expense
+2003,Natural Resources,27023694,Revenue
+2010,Healthcare,36816014,Expense
+2023,Defense,46501916,Expense
+2014,Education,33147580,Expense
+2000,Social Welfare,15124089,Expense
+2005,Tax Revenue,20060427,Revenue
+2012,Grants,16587351,Revenue
+2004,Social Welfare,30813291,Expense
+2003,Natural Resources,49438972,Revenue
+2012,Infrastructure,21874860,Expense
+2005,Grants,46072393,Revenue
+2018,Education,25944697,Expense
+2015,Defense,5470062,Expense
+2002,Education,49861432,Expense
+2019,Foreign Aid,29232958,Revenue
+2020,Tax Revenue,5479292,Revenue
+2007,Education,10146294,Expense
+2014,Natural Resources,9978531,Revenue
+2022,Healthcare,46502412,Expense
+2003,Foreign Aid,33474988,Revenue
+2007,Grants,14149902,Revenue
+2012,Defense,44306842,Expense
+2014,Defense,19871352,Expense
+2005,Tax Revenue,2277029,Revenue
+2002,Healthcare,6145462,Expense
+2005,Social Welfare,7822245,Expense
+2012,Grants,45386819,Revenue
+2002,Social Welfare,7156849,Expense
+2003,Grants,8432993,Revenue
+2009,Foreign Aid,8559489,Revenue
+2012,Natural Resources,1115204,Revenue
+2002,Social Welfare,18382200,Expense
+2016,Natural Resources,10156837,Revenue
+2002,Defense,16691093,Expense
+2011,Grants,32666571,Revenue
+2020,Tax Revenue,44741221,Revenue
+2009,Foreign Aid,37389220,Revenue
+2011,Natural Resources,19323935,Revenue
+2001,Tax Revenue,12431449,Revenue
+2022,Natural Resources,34728510,Revenue
+2010,Grants,9886540,Revenue
+2009,Foreign Aid,5774151,Revenue
+2010,Defense,48413645,Expense
+2000,Natural Resources,32291302,Revenue
+2012,Healthcare,21837278,Expense
+2007,Education,28199642,Expense
+2023,Healthcare,7726037,Expense
+2017,Social Welfare,28633218,Expense
+2010,Foreign Aid,24649122,Revenue
+2002,Healthcare,12273803,Expense
+2009,Infrastructure,32091123,Expense
+2022,Natural Resources,11151218,Revenue
+2020,Social Welfare,15483873,Expense
+2010,Foreign Aid,44222474,Revenue
+2004,Healthcare,26557943,Expense
+2015,Natural Resources,5879520,Revenue
+2016,Tax Revenue,1236136,Revenue
+2011,Grants,35535815,Revenue
+2002,Social Welfare,6321581,Expense
+2023,Education,22799393,Expense
+2017,Natural Resources,9490001,Revenue
+2016,Foreign Aid,22735104,Revenue
+2016,Tax Revenue,14300021,Revenue
+2020,Education,19819912,Expense
+2018,Infrastructure,34095311,Expense
+2011,Natural Resources,27746869,Revenue
+2016,Healthcare,47729965,Expense
+2002,Social Welfare,44073552,Expense
+2001,Infrastructure,1532357,Expense
+2011,Defense,2222045,Expense
+2001,Foreign Aid,37049038,Revenue
+2008,Education,10802513,Expense
+2009,Grants,49728926,Revenue
+2019,Defense,41108751,Expense
+2003,Healthcare,12188309,Expense
+2015,Education,21763381,Expense
+2016,Social Welfare,18313035,Expense
+2016,Social Welfare,17693017,Expense
+2007,Natural Resources,42116036,Revenue
+2006,Education,46436486,Expense
+2003,Healthcare,12003804,Expense
+2011,Healthcare,8006282,Expense
+2018,Defense,17123805,Expense
+2003,Infrastructure,10472987,Expense
+2015,Education,30605052,Expense
+2017,Natural Resources,5517045,Revenue
+2008,Grants,7148395,Revenue
+2011,Social Welfare,49016362,Expense
+2012,Tax Revenue,47804974,Revenue
+2008,Natural Resources,10215623,Revenue
+2010,Grants,12601058,Revenue
+2003,Tax Revenue,1676262,Revenue
+2015,Infrastructure,7844860,Expense
+2006,Education,33542449,Expense
+2007,Education,26862151,Expense
+2006,Infrastructure,10498539,Expense
+2014,Infrastructure,44029431,Expense
+2012,Infrastructure,6032061,Expense
+2010,Infrastructure,26392647,Expense
+2003,Tax Revenue,30551926,Revenue
+2006,Defense,39228372,Expense
+2019,Foreign Aid,31198635,Revenue
+2003,Social Welfare,19587570,Expense
+2019,Healthcare,33209439,Expense
+2019,Foreign Aid,1421847,Revenue
+2012,Natural Resources,31925724,Revenue
+2007,Tax Revenue,6031954,Revenue
+2001,Education,28898983,Expense
+2019,Healthcare,11585550,Expense
+2003,Defense,1639898,Expense
+2000,Foreign Aid,23349047,Revenue
+2006,Social Welfare,28771510,Expense
+2014,Defense,4093929,Expense
+2011,Healthcare,6039313,Expense
+2002,Healthcare,22300597,Expense
+2016,Education,4550117,Expense
+2009,Grants,23792405,Revenue
+2004,Infrastructure,26065661,Expense
+2002,Social Welfare,48021696,Expense
+2016,Foreign Aid,9037445,Revenue
+2010,Grants,18453574,Revenue
+2005,Defense,22599563,Expense
+2004,Healthcare,38591252,Expense
+2017,Foreign Aid,2918443,Revenue
+2013,Tax Revenue,13597604,Revenue
+2011,Infrastructure,45487565,Expense
+2009,Foreign Aid,41921703,Revenue
+2021,Grants,28091282,Revenue
+2022,Healthcare,4514160,Expense
+2015,Infrastructure,23570609,Expense
+2023,Natural Resources,19438428,Revenue
+2021,Infrastructure,13346793,Expense
+2002,Tax Revenue,11976278,Revenue
+2010,Defense,9626011,Expense
+2020,Natural Resources,26614983,Revenue
+2000,Foreign Aid,36987454,Revenue
+2009,Tax Revenue,10106143,Revenue
+2016,Foreign Aid,38472682,Revenue
+2001,Tax Revenue,46510877,Revenue
+2011,Defense,26038304,Expense
+2014,Natural Resources,3745767,Revenue
+2018,Foreign Aid,18224474,Revenue
+2011,Foreign Aid,48633911,Revenue
+2022,Social Welfare,36889540,Expense
+2004,Healthcare,13277120,Expense
+2023,Infrastructure,12569916,Expense
+2011,Infrastructure,27309194,Expense
+2021,Healthcare,44615148,Expense
+2000,Infrastructure,33554004,Expense
+2011,Natural Resources,4900244,Revenue
+2004,Healthcare,47039210,Expense
+2021,Grants,46472826,Revenue
+2000,Infrastructure,13958473,Expense
+2017,Infrastructure,16042064,Expense
+2002,Defense,22125669,Expense
+2022,Social Welfare,19220351,Expense
+2016,Tax Revenue,38954535,Revenue
+2021,Defense,18791426,Expense
+2013,Defense,47388196,Expense
+2021,Infrastructure,31235896,Expense
+2018,Grants,15641653,Revenue
+2020,Defense,22611617,Expense
+2013,Defense,6590222,Expense
+2014,Education,34710420,Expense
+2004,Infrastructure,41313168,Expense
+2008,Natural Resources,16439988,Revenue
+2020,Foreign Aid,22771859,Revenue
+2018,Infrastructure,46753815,Expense
+2011,Grants,3387761,Revenue
+2020,Foreign Aid,13762731,Revenue
+2000,Education,43038477,Expense
+2010,Infrastructure,42070734,Expense
+2005,Infrastructure,24954242,Expense
+2003,Defense,37196450,Expense
+2021,Infrastructure,22177922,Expense
+2014,Infrastructure,46471575,Expense
+2012,Infrastructure,35362957,Expense
+2019,Grants,26312946,Revenue
+2006,Foreign Aid,3179312,Revenue
+2005,Infrastructure,44758842,Expense
+2004,Defense,19189514,Expense
+2007,Infrastructure,26375722,Expense
+2011,Grants,21128634,Revenue
+2018,Grants,23505079,Revenue
+2000,Infrastructure,23649485,Expense
+2010,Defense,34628631,Expense
+2007,Social Welfare,24846449,Expense
+2004,Tax Revenue,34219423,Revenue
+2022,Natural Resources,19649736,Revenue
+2021,Social Welfare,32910727,Expense
+2000,Grants,29578909,Revenue
+2002,Foreign Aid,17411997,Revenue
+2000,Social Welfare,20133499,Expense
+2020,Grants,3332191,Revenue
+2018,Natural Resources,12462920,Revenue
+2022,Education,40519191,Expense
+2014,Infrastructure,17905978,Expense
+2019,Infrastructure,22811796,Expense
+2011,Grants,28579336,Revenue
+2013,Infrastructure,7876477,Expense
+2020,Defense,38460862,Expense
+2020,Tax Revenue,38752823,Revenue
+2003,Social Welfare,35156779,Expense
+2020,Education,12675970,Expense
+2012,Social Welfare,17086675,Expense
+2005,Grants,29620407,Revenue
+2019,Foreign Aid,33644047,Revenue
+2010,Defense,34255019,Expense
+2005,Infrastructure,8850205,Expense
+2021,Infrastructure,3238183,Expense
+2013,Defense,32808982,Expense
+2018,Tax Revenue,29590583,Revenue
+2008,Healthcare,34309174,Expense
+2021,Foreign Aid,31082212,Revenue
+2007,Social Welfare,15779606,Expense
+2019,Defense,35334276,Expense
+2004,Education,18027736,Expense
+2010,Defense,36015720,Expense
+2023,Infrastructure,3470885,Expense
+2005,Social Welfare,18881819,Expense
+2019,Infrastructure,34246950,Expense
+2002,Healthcare,29420672,Expense
+2012,Foreign Aid,1957809,Revenue
+2021,Healthcare,31479868,Expense
+2013,Foreign Aid,21023414,Revenue
+2014,Natural Resources,34469044,Revenue
+2008,Natural Resources,3370489,Revenue
+2016,Social Welfare,39555590,Expense
+2001,Education,48053137,Expense
+2007,Foreign Aid,46578599,Revenue
+2013,Defense,36451819,Expense
+2007,Healthcare,9777411,Expense
+2018,Grants,43449147,Revenue
+2016,Natural Resources,18178494,Revenue
+2020,Tax Revenue,3033684,Revenue
+2012,Social Welfare,28159628,Expense
+2016,Natural Resources,44043168,Revenue
+2009,Grants,25744806,Revenue
+2005,Healthcare,26671192,Expense
+2013,Natural Resources,46777580,Revenue
+2007,Defense,10979794,Expense
+2000,Tax Revenue,6638310,Revenue
+2014,Grants,43147287,Revenue
+2020,Education,45341521,Expense
+2013,Infrastructure,38430398,Expense
+2009,Healthcare,9292733,Expense
+2000,Tax Revenue,44993958,Revenue
+2017,Natural Resources,44932037,Revenue
+2000,Education,43379813,Expense
+2019,Defense,15155580,Expense
+2013,Education,38449683,Expense
+2013,Social Welfare,47902950,Expense
+2003,Grants,33416900,Revenue
+2006,Healthcare,42301766,Expense
+2007,Infrastructure,34524050,Expense
+2017,Social Welfare,21597303,Expense
+2015,Defense,34652221,Expense
+2008,Education,8794702,Expense
+2013,Social Welfare,17845331,Expense
+2000,Tax Revenue,7713583,Revenue
+2011,Tax Revenue,14756696,Revenue
+2007,Foreign Aid,25757562,Revenue
+2016,Foreign Aid,34190164,Revenue
+2009,Grants,29770134,Revenue
+2000,Tax Revenue,45546206,Revenue
+2013,Social Welfare,48835704,Expense
+2012,Tax Revenue,39669965,Revenue
+2010,Education,7529594,Expense
+2011,Infrastructure,39227619,Expense
+2022,Healthcare,11441258,Expense
+2005,Foreign Aid,17022976,Revenue
+2016,Education,40310366,Expense
+2022,Defense,27919969,Expense
+2017,Natural Resources,26135849,Revenue
+2007,Healthcare,10874383,Expense
+2011,Tax Revenue,21198109,Revenue
+2007,Social Welfare,19969643,Expense
+2007,Defense,1597723,Expense
+2001,Social Welfare,28284976,Expense
+2011,Foreign Aid,4165504,Revenue
+2009,Natural Resources,35266517,Revenue
+2019,Education,28902626,Expense
+2007,Defense,16414813,Expense
+2016,Healthcare,46846285,Expense
+2009,Grants,33374003,Revenue
+2009,Infrastructure,14522911,Expense
+2015,Natural Resources,14591846,Revenue
+2008,Tax Revenue,48666752,Revenue
+2019,Foreign Aid,24005411,Revenue
+2021,Social Welfare,46294038,Expense
+2000,Infrastructure,43083067,Expense
+2014,Social Welfare,48267160,Expense
+2020,Natural Resources,22527214,Revenue
+2002,Foreign Aid,41623878,Revenue
+2004,Infrastructure,8851604,Expense
+2018,Defense,26399739,Expense
+2006,Infrastructure,24428592,Expense
+2003,Healthcare,15954305,Expense
+2000,Foreign Aid,26111157,Revenue
+2016,Infrastructure,1985086,Expense
+2016,Tax Revenue,46582408,Revenue
+2007,Foreign Aid,18953531,Revenue
+2015,Defense,25244527,Expense
+2006,Tax Revenue,47336601,Revenue
+2015,Infrastructure,34278213,Expense
+2011,Education,35998214,Expense
+2007,Healthcare,46425533,Expense
+2021,Natural Resources,7761022,Revenue
+2017,Healthcare,45660742,Expense
+2010,Healthcare,9837510,Expense
+2016,Foreign Aid,26969252,Revenue
+2000,Infrastructure,6990223,Expense
+2002,Education,31403360,Expense
+2011,Foreign Aid,9263026,Revenue
+2005,Infrastructure,9771615,Expense
+2020,Natural Resources,11684963,Revenue
+2012,Foreign Aid,10531086,Revenue
+2019,Education,35729624,Expense
+2003,Natural Resources,24383022,Revenue
+2021,Grants,43603832,Revenue
+2011,Foreign Aid,22080870,Revenue
+2002,Defense,15717963,Expense
+2018,Natural Resources,2143999,Revenue
+2000,Education,23613544,Expense
+2020,Grants,6569070,Revenue
+2012,Infrastructure,19450643,Expense
+2000,Infrastructure,32036743,Expense
+2004,Grants,10552778,Revenue
+2008,Defense,7949121,Expense
+2022,Education,21715129,Expense
+2001,Tax Revenue,2161599,Revenue
+2002,Social Welfare,16204906,Expense
+2011,Grants,40955787,Revenue
+2005,Grants,23092712,Revenue
+2011,Social Welfare,32911086,Expense
+2006,Natural Resources,19737979,Revenue
+2009,Education,19875380,Expense
+2005,Tax Revenue,33733224,Revenue
+2013,Healthcare,31774271,Expense
+2010,Defense,13974997,Expense
+2004,Natural Resources,12772815,Revenue
+2009,Defense,13328420,Expense
+2019,Defense,30227348,Expense
+2001,Defense,37550507,Expense
+2017,Tax Revenue,45164192,Revenue
+2006,Social Welfare,10780589,Expense
+2018,Infrastructure,32043761,Expense
+2019,Defense,12686871,Expense
+2021,Foreign Aid,17756542,Revenue
+2018,Grants,8393919,Revenue
+2014,Foreign Aid,30563384,Revenue
+2007,Defense,16562075,Expense
+2011,Infrastructure,8383621,Expense
+2004,Social Welfare,9858019,Expense
+2003,Education,46381089,Expense
+2017,Social Welfare,45701640,Expense
+2019,Education,24630209,Expense
+2011,Defense,49255479,Expense
+2008,Healthcare,38263566,Expense
+2002,Defense,41467380,Expense
+2015,Social Welfare,20028375,Expense
+2019,Education,27872970,Expense
+2010,Infrastructure,42002068,Expense
+2017,Infrastructure,49859335,Expense
+2020,Social Welfare,43080774,Expense
+2010,Tax Revenue,18448650,Revenue
+2006,Healthcare,6987431,Expense
+2000,Grants,24305319,Revenue
+2010,Grants,16970136,Revenue
+2015,Grants,9984064,Revenue
+2015,Education,41120277,Expense
+2011,Defense,14975469,Expense
+2020,Social Welfare,6971422,Expense
+2002,Defense,26262018,Expense
+2020,Grants,21297983,Revenue
+2006,Natural Resources,24674158,Revenue
+2006,Education,45485180,Expense
+2021,Infrastructure,18205565,Expense
+2017,Education,44754779,Expense
+2021,Natural Resources,16095017,Revenue
+2002,Natural Resources,48101776,Revenue
+2015,Defense,14251031,Expense
+2002,Infrastructure,8580640,Expense
+2002,Infrastructure,47070636,Expense
+2007,Healthcare,31746333,Expense
+2016,Healthcare,34043264,Expense
+2016,Grants,26376350,Revenue
+2016,Foreign Aid,23957028,Revenue
+2008,Grants,12036534,Revenue
+2003,Education,47114687,Expense
+2000,Social Welfare,36666725,Expense
+2018,Defense,19846730,Expense
+2010,Infrastructure,48271583,Expense
+2006,Education,17258559,Expense
+2012,Defense,49265505,Expense
+2015,Tax Revenue,21660145,Revenue
+2023,Education,44567447,Expense
+2021,Healthcare,47053456,Expense
+2012,Grants,23161593,Revenue
+2017,Infrastructure,33798809,Expense
+2009,Natural Resources,25368802,Revenue
+2012,Tax Revenue,47188595,Revenue
+2006,Social Welfare,10399404,Expense
+2021,Tax Revenue,34083611,Revenue
+2021,Social Welfare,3943521,Expense
+2014,Infrastructure,31000088,Expense
+2014,Healthcare,13059742,Expense
+2010,Foreign Aid,25970297,Revenue
+2022,Education,40301477,Expense
+2004,Foreign Aid,11132250,Revenue
+2007,Tax Revenue,16643929,Revenue
+2011,Healthcare,32544468,Expense
+2017,Social Welfare,5908109,Expense
+2003,Education,20736540,Expense
+2005,Infrastructure,1409562,Expense
+2014,Healthcare,14323921,Expense
+2009,Education,27495887,Expense
+2017,Social Welfare,17089370,Expense
+2019,Tax Revenue,15943858,Revenue
+2022,Infrastructure,43809676,Expense
+2002,Social Welfare,16805362,Expense
+2007,Education,32326581,Expense
+2003,Education,47640699,Expense
+2020,Education,44817665,Expense
+2021,Foreign Aid,48577950,Revenue
+2015,Foreign Aid,18483127,Revenue
+2014,Grants,3411858,Revenue
+2012,Grants,13865971,Revenue
+2012,Natural Resources,48372195,Revenue
+2006,Tax Revenue,15648149,Revenue
+2021,Social Welfare,15209275,Expense
+2013,Education,39802335,Expense
+2023,Education,9949964,Expense
+2011,Infrastructure,34335097,Expense
+2018,Defense,8843973,Expense
+2023,Grants,47419209,Revenue
+2019,Education,18334658,Expense
+2007,Defense,31840446,Expense
+2009,Infrastructure,13559945,Expense
+2022,Grants,17085486,Revenue
+2007,Natural Resources,4389356,Revenue
+2009,Tax Revenue,3507014,Revenue
+2023,Infrastructure,39797305,Expense
+2014,Education,26336605,Expense
+2020,Infrastructure,35035682,Expense
+2008,Healthcare,5556639,Expense
+2002,Grants,9737023,Revenue
+2020,Healthcare,2265629,Expense
+2001,Social Welfare,12639231,Expense
+2000,Tax Revenue,46079633,Revenue
+2004,Social Welfare,28988045,Expense
+2001,Tax Revenue,42211922,Revenue
+2014,Foreign Aid,1546698,Revenue
+2015,Healthcare,28061529,Expense
+2007,Natural Resources,20711273,Revenue
+2021,Tax Revenue,9283422,Revenue
+2002,Tax Revenue,12600929,Revenue
+2005,Education,40558928,Expense
+2015,Social Welfare,3633227,Expense
+2011,Healthcare,33230082,Expense
+2004,Grants,49864596,Revenue
+2004,Education,35963264,Expense
+2023,Education,13119571,Expense
+2017,Education,23775070,Expense
+2020,Education,11751827,Expense
+2019,Natural Resources,47590585,Revenue
+2004,Tax Revenue,46602247,Revenue
+2014,Grants,8191782,Revenue
+2005,Grants,48464147,Revenue
+2005,Social Welfare,44481940,Expense
+2001,Defense,38912986,Expense
+2008,Infrastructure,17438101,Expense
+2009,Infrastructure,1819223,Expense
+2012,Tax Revenue,47276632,Revenue
+2003,Grants,39755523,Revenue
+2006,Defense,4863890,Expense
+2004,Defense,3646391,Expense
+2012,Tax Revenue,15480377,Revenue
+2014,Grants,38716087,Revenue
+2011,Social Welfare,19826193,Expense
+2019,Foreign Aid,48621949,Revenue
+2021,Grants,45083835,Revenue
+2019,Tax Revenue,34457695,Revenue
+2012,Healthcare,31706222,Expense
+2018,Defense,8002485,Expense
+2013,Infrastructure,24813511,Expense
+2004,Natural Resources,23446628,Revenue
+2021,Foreign Aid,3394792,Revenue
+2017,Defense,40974307,Expense
+2015,Education,36650084,Expense
+2018,Natural Resources,38293416,Revenue
+2004,Foreign Aid,22904098,Revenue
+2009,Natural Resources,43079285,Revenue
+2003,Infrastructure,1255527,Expense
+2005,Natural Resources,36144543,Revenue
+2021,Infrastructure,17448277,Expense
+2004,Tax Revenue,2711576,Revenue
+2019,Tax Revenue,36266666,Revenue
+2005,Defense,11316214,Expense
+2022,Infrastructure,19834758,Expense
+2005,Natural Resources,17390456,Revenue
+2017,Infrastructure,36254330,Expense
+2019,Grants,5458352,Revenue
+2017,Foreign Aid,6764702,Revenue
+2023,Defense,33330531,Expense
+2002,Defense,28722826,Expense
+2013,Defense,20224190,Expense
+2014,Healthcare,34060727,Expense
+2003,Grants,30581095,Revenue
+2015,Social Welfare,24977522,Expense
+2004,Healthcare,43817066,Expense
+2023,Tax Revenue,14981697,Revenue
+2018,Tax Revenue,18697646,Revenue
+2007,Infrastructure,42619424,Expense
+2018,Healthcare,40753678,Expense
+2006,Defense,37367463,Expense
+2008,Infrastructure,19376836,Expense
+2001,Natural Resources,28080225,Revenue
+2003,Infrastructure,24386700,Expense
+2013,Tax Revenue,1499897,Revenue
+2009,Tax Revenue,12969631,Revenue
+2013,Foreign Aid,42668637,Revenue
+2004,Education,45288565,Expense
+2004,Grants,8683856,Revenue
+2015,Natural Resources,19413891,Revenue
+2010,Natural Resources,41575049,Revenue
+2017,Defense,11796114,Expense
+2019,Foreign Aid,16963146,Revenue
+2012,Natural Resources,14574270,Revenue
+2001,Healthcare,47006315,Expense
+2013,Social Welfare,4264850,Expense
+2007,Education,37329811,Expense
+2013,Healthcare,34730476,Expense
+2006,Infrastructure,27438376,Expense
+2001,Education,36920696,Expense
+2021,Social Welfare,11976800,Expense
+2016,Grants,15681467,Revenue
+2021,Grants,22875553,Revenue
+2016,Healthcare,35338708,Expense
+2010,Grants,12783385,Revenue
+2007,Healthcare,16954018,Expense
+2023,Education,48466061,Expense
+2005,Social Welfare,40520775,Expense
+2018,Foreign Aid,46772392,Revenue
+2011,Healthcare,25502762,Expense
+2002,Education,1805251,Expense
+2018,Healthcare,39357489,Expense
+2000,Healthcare,21386188,Expense
+2012,Education,20388614,Expense
+2008,Natural Resources,2347767,Revenue
+2020,Social Welfare,46133164,Expense
+2014,Social Welfare,12319121,Expense
+2016,Grants,5015765,Revenue
+2021,Healthcare,27015747,Expense
+2018,Infrastructure,36152598,Expense
+2013,Education,42762081,Expense
+2003,Education,3636631,Expense
+2019,Grants,7154277,Revenue
+2005,Healthcare,28130094,Expense
+2019,Tax Revenue,36443510,Revenue
+2019,Healthcare,31114219,Expense
+2018,Foreign Aid,49605646,Revenue
+2016,Education,36213261,Expense
+2020,Healthcare,40494170,Expense
+2010,Natural Resources,11073634,Revenue
+2011,Foreign Aid,40764791,Revenue
+2014,Tax Revenue,35717538,Revenue
+2013,Education,46762629,Expense
+2013,Healthcare,44101230,Expense
+2018,Foreign Aid,7102657,Revenue
+2000,Tax Revenue,3279432,Revenue
+2004,Foreign Aid,42930160,Revenue
+2019,Social Welfare,36277803,Expense
+2015,Social Welfare,9495157,Expense
+2023,Foreign Aid,37348004,Revenue
+2000,Tax Revenue,6885653,Revenue
+2011,Healthcare,47804442,Expense
+2014,Education,45077151,Expense
+2009,Education,26104485,Expense
+2010,Defense,44294789,Expense
+2021,Foreign Aid,8956733,Revenue
+2010,Grants,43952915,Revenue
+2021,Natural Resources,34492260,Revenue
+2009,Healthcare,18109249,Expense
+2003,Foreign Aid,39681421,Revenue
+2014,Social Welfare,32010737,Expense
+2021,Infrastructure,31798813,Expense
+2014,Foreign Aid,40640040,Revenue
+2000,Foreign Aid,28421169,Revenue
+2017,Foreign Aid,2493770,Revenue
+2017,Tax Revenue,4195511,Revenue
+2007,Education,5139455,Expense
+2020,Tax Revenue,13441751,Revenue
+2011,Tax Revenue,6163261,Revenue
+2008,Healthcare,27754871,Expense
+2021,Education,20524459,Expense
+2023,Social Welfare,40239738,Expense
+2000,Natural Resources,1511268,Revenue
+2006,Foreign Aid,13374392,Revenue
+2023,Infrastructure,47548277,Expense
+2001,Grants,11430888,Revenue
+2011,Natural Resources,40803666,Revenue
+2022,Social Welfare,47121832,Expense
+2003,Infrastructure,29206375,Expense
+2012,Defense,41008241,Expense
+2011,Healthcare,23739543,Expense
+2017,Foreign Aid,15849054,Revenue
+2013,Grants,7255226,Revenue
+2006,Social Welfare,41610007,Expense
+2000,Foreign Aid,41603222,Revenue
+2000,Tax Revenue,17394409,Revenue
+2017,Social Welfare,10895400,Expense
+2015,Grants,26941291,Revenue
+2000,Infrastructure,29992756,Expense
+2020,Education,5095484,Expense
+2000,Infrastructure,29808143,Expense
+2008,Healthcare,40043351,Expense
+2002,Social Welfare,36597228,Expense
+2022,Infrastructure,39816765,Expense
+2016,Foreign Aid,32145833,Revenue
+2019,Healthcare,2466953,Expense
+2014,Grants,6604483,Revenue
+2018,Defense,6553988,Expense
+2021,Social Welfare,18722054,Expense
+2006,Foreign Aid,20169331,Revenue
+2011,Healthcare,16131138,Expense
+2002,Foreign Aid,42513953,Revenue
+2001,Healthcare,49085165,Expense
+2012,Social Welfare,45246689,Expense
+2022,Natural Resources,49075123,Revenue
+2003,Healthcare,36149261,Expense
+2007,Healthcare,37890260,Expense
+2016,Education,49260080,Expense
+2020,Foreign Aid,3959907,Revenue
+2008,Grants,40040564,Revenue
+2009,Healthcare,10609486,Expense
+2011,Foreign Aid,1913147,Revenue
+2015,Infrastructure,15905144,Expense
+2010,Tax Revenue,26715954,Revenue
+2012,Healthcare,12781102,Expense
+2010,Defense,18287776,Expense
+2000,Defense,45232558,Expense
+2012,Tax Revenue,35177469,Revenue
+2003,Natural Resources,33278171,Revenue
+2006,Foreign Aid,31337174,Revenue
+2002,Education,15276174,Expense
+2019,Infrastructure,27745934,Expense
+2005,Foreign Aid,2971306,Revenue
+2020,Natural Resources,9010752,Revenue
+2016,Grants,45618741,Revenue
+2008,Education,41459492,Expense
+2023,Defense,3749825,Expense
+2023,Healthcare,45672743,Expense
+2000,Tax Revenue,22914905,Revenue
+2013,Foreign Aid,33990574,Revenue
+2006,Social Welfare,1350962,Expense
+2009,Natural Resources,1139445,Revenue
+2008,Grants,18201061,Revenue
+2021,Infrastructure,14665949,Expense
+2020,Defense,7766780,Expense
+2006,Natural Resources,20054396,Revenue
+2007,Defense,40038689,Expense
+2022,Grants,27463420,Revenue
+2004,Infrastructure,36334373,Expense
+2005,Natural Resources,44205605,Revenue
+2007,Tax Revenue,9941052,Revenue
+2006,Grants,49166772,Revenue
+2018,Natural Resources,31231384,Revenue
+2000,Education,30348516,Expense
+2022,Social Welfare,27690156,Expense
+2015,Tax Revenue,49929515,Revenue
+2010,Healthcare,3721225,Expense
+2005,Education,35952413,Expense
+2000,Social Welfare,33593760,Expense
+2001,Grants,35761007,Revenue
+2017,Grants,13071501,Revenue
+2010,Infrastructure,20016158,Expense
+2010,Defense,46958289,Expense
+2021,Defense,15243379,Expense
+2023,Healthcare,26956050,Expense
+2012,Tax Revenue,47357918,Revenue
+2004,Defense,25113725,Expense
+2021,Natural Resources,47338225,Revenue
+2000,Social Welfare,43385207,Expense
+2000,Defense,3167222,Expense
+2007,Grants,34649719,Revenue
+2019,Infrastructure,39691414,Expense
+2007,Grants,30122428,Revenue
+2000,Defense,26501031,Expense
+2000,Defense,32843935,Expense
+2011,Foreign Aid,27579370,Revenue
+2016,Defense,40650279,Expense
+2001,Social Welfare,43404595,Expense
+2012,Grants,14543205,Revenue
+2000,Defense,43475176,Expense
+2021,Education,24163533,Expense
+2020,Defense,27666831,Expense
+2007,Tax Revenue,30348535,Revenue
+2008,Infrastructure,32108978,Expense
+2020,Foreign Aid,13767399,Revenue
+2020,Education,41380543,Expense
+2018,Infrastructure,35068587,Expense
+2008,Healthcare,47072489,Expense
+2004,Infrastructure,42357630,Expense
+2021,Social Welfare,6131857,Expense
+2021,Natural Resources,21093197,Revenue
+2003,Education,13276529,Expense
+2010,Social Welfare,44898338,Expense
+2019,Natural Resources,39748925,Revenue
+2002,Defense,31866264,Expense
+2005,Education,13747594,Expense
+2019,Natural Resources,42526140,Revenue
+2009,Grants,32707428,Revenue
+2005,Foreign Aid,43150570,Revenue
+2014,Foreign Aid,10215393,Revenue
+2006,Foreign Aid,27841421,Revenue
+2023,Grants,33404875,Revenue
+2010,Social Welfare,44811649,Expense
+2017,Grants,5809241,Revenue
+2003,Grants,3520016,Revenue
+2017,Natural Resources,24317624,Revenue
+2018,Grants,33731003,Revenue
+2001,Healthcare,18289745,Expense
+2021,Foreign Aid,36425694,Revenue
+2021,Healthcare,49143055,Expense
+2014,Defense,30680810,Expense
+2013,Foreign Aid,45067621,Revenue
+2016,Infrastructure,47178243,Expense
+2019,Infrastructure,42749629,Expense
+2015,Foreign Aid,2466938,Revenue
+2017,Grants,2101014,Revenue
+2002,Education,33412770,Expense
+2001,Infrastructure,14458599,Expense
+2020,Foreign Aid,7716338,Revenue
+2018,Healthcare,11502207,Expense
+2009,Grants,9544259,Revenue
+2020,Healthcare,25297354,Expense
+2015,Social Welfare,30633942,Expense
+2019,Natural Resources,26065689,Revenue
+2016,Grants,5418851,Revenue
+2001,Healthcare,38403474,Expense
+2008,Education,34224100,Expense
+2007,Education,43533321,Expense
+2014,Healthcare,17475161,Expense
+2022,Infrastructure,46721643,Expense
+2015,Healthcare,26256544,Expense
+2015,Foreign Aid,46954032,Revenue
+2006,Foreign Aid,20396812,Revenue
+2020,Education,35911753,Expense
+2012,Social Welfare,12627519,Expense
+2012,Defense,34472271,Expense
+2001,Social Welfare,25548206,Expense
+2014,Healthcare,42601966,Expense
+2012,Infrastructure,37758201,Expense
+2004,Grants,5477380,Revenue
+2011,Healthcare,34244704,Expense
+2023,Foreign Aid,44955564,Revenue
+2005,Infrastructure,28988724,Expense
+2015,Tax Revenue,35511405,Revenue
+2016,Foreign Aid,25685635,Revenue
+2014,Foreign Aid,5439126,Revenue
+2005,Natural Resources,29214569,Revenue
+2006,Defense,40163040,Expense
+2008,Education,41644325,Expense
+2020,Natural Resources,21601396,Revenue
+2018,Natural Resources,10882789,Revenue
+2008,Grants,1572740,Revenue
+2022,Education,46697873,Expense
+2002,Natural Resources,21757566,Revenue
+2002,Social Welfare,30111133,Expense
+2016,Foreign Aid,36790226,Revenue
+2001,Social Welfare,17249182,Expense
+2021,Grants,21708587,Revenue
+2016,Natural Resources,25017914,Revenue
+2010,Foreign Aid,38651284,Revenue
+2019,Education,5830376,Expense
+2012,Social Welfare,25233675,Expense
+2004,Healthcare,34362438,Expense
+2012,Natural Resources,34341355,Revenue
+2004,Healthcare,47517118,Expense
+2020,Grants,29991113,Revenue
+2013,Defense,6015968,Expense
+2010,Foreign Aid,21581465,Revenue
+2012,Grants,33724305,Revenue
+2010,Education,19283220,Expense
+2019,Healthcare,6975244,Expense
+2018,Healthcare,2618355,Expense
+2014,Social Welfare,7590131,Expense
+2002,Natural Resources,44002080,Revenue
+2005,Healthcare,34895943,Expense
+2016,Grants,28360131,Revenue
+2014,Healthcare,12914816,Expense
+2016,Education,40948379,Expense
+2020,Defense,24463878,Expense
+2009,Natural Resources,31667025,Revenue
+2017,Natural Resources,33867648,Revenue
+2007,Infrastructure,26209785,Expense
+2003,Natural Resources,3633241,Revenue
+2005,Defense,44765812,Expense
+2018,Infrastructure,17673018,Expense
+2014,Defense,46914116,Expense
+2018,Grants,10028975,Revenue
+2011,Natural Resources,1353619,Revenue
+2009,Grants,12728041,Revenue
+2014,Social Welfare,44327048,Expense
+2019,Grants,21319841,Revenue
+2021,Healthcare,34000801,Expense
+2020,Natural Resources,46788638,Revenue
+2020,Education,21413982,Expense
+2022,Education,13682255,Expense
+2005,Natural Resources,30906186,Revenue
+2011,Healthcare,43844390,Expense
+2010,Defense,43244065,Expense
+2014,Tax Revenue,11594516,Revenue
+2014,Social Welfare,27112299,Expense
+2018,Defense,28107785,Expense
+2014,Grants,46439267,Revenue
+2020,Defense,34419616,Expense
+2018,Infrastructure,12086137,Expense
+2016,Healthcare,45788374,Expense
+2001,Grants,39714372,Revenue
+2006,Education,22276239,Expense
+2002,Foreign Aid,36209603,Revenue
+2007,Education,41632604,Expense
+2011,Tax Revenue,4453826,Revenue
+2006,Healthcare,25565112,Expense
+2016,Education,42152339,Expense
+2007,Infrastructure,23416972,Expense
+2011,Grants,31438198,Revenue
+2001,Infrastructure,29541251,Expense
+2010,Infrastructure,34026385,Expense
+2001,Foreign Aid,12506268,Revenue
+2014,Healthcare,7772019,Expense
+2021,Infrastructure,41028252,Expense
+2023,Education,27904118,Expense
+2008,Healthcare,33406432,Expense
+2000,Healthcare,5964063,Expense
+2001,Social Welfare,27164576,Expense
+2010,Infrastructure,42033815,Expense
+2015,Natural Resources,28414082,Revenue
+2014,Education,28655338,Expense
+2012,Foreign Aid,33775639,Revenue
+2006,Social Welfare,28571028,Expense
+2011,Natural Resources,6714085,Revenue
+2002,Education,15470743,Expense
+2008,Tax Revenue,15742762,Revenue
+2021,Infrastructure,1969518,Expense
+2013,Tax Revenue,18011277,Revenue
+2014,Social Welfare,6346533,Expense
+2005,Defense,38837184,Expense
+2004,Social Welfare,6282230,Expense
+2014,Defense,12199014,Expense
+2007,Natural Resources,10254207,Revenue
+2008,Healthcare,24021196,Expense
+2005,Grants,31713674,Revenue
+2002,Tax Revenue,35273193,Revenue
+2017,Defense,12960598,Expense
+2006,Social Welfare,45295756,Expense
+2023,Foreign Aid,44438533,Revenue
+2010,Social Welfare,48048479,Expense
+2008,Education,18279627,Expense
+2021,Education,15552274,Expense
+2008,Tax Revenue,46408523,Revenue
+2013,Foreign Aid,14170848,Revenue
+2002,Education,25778065,Expense
+2001,Healthcare,29381536,Expense
+2023,Grants,28155505,Revenue
+2016,Grants,40610333,Revenue
+2000,Tax Revenue,48945727,Revenue
+2005,Natural Resources,19193071,Revenue
+2003,Social Welfare,10909851,Expense
+2003,Natural Resources,2512116,Revenue
+2015,Healthcare,47735408,Expense
+2014,Education,29389585,Expense
+2007,Infrastructure,1761019,Expense
+2008,Defense,4193063,Expense
+2020,Natural Resources,15757064,Revenue
+2018,Natural Resources,23945761,Revenue
+2021,Natural Resources,36154070,Revenue
+2017,Grants,26123412,Revenue
+2003,Natural Resources,30527118,Revenue
+2022,Natural Resources,43075047,Revenue
+2012,Tax Revenue,19468894,Revenue
+2017,Defense,5501768,Expense
+2001,Healthcare,26643513,Expense
+2016,Infrastructure,26731363,Expense
+2018,Defense,14062025,Expense
+2009,Natural Resources,31723084,Revenue
+2015,Grants,22393748,Revenue
+2007,Foreign Aid,25840820,Revenue
+2006,Natural Resources,26825283,Revenue
+2006,Education,22752143,Expense
+2009,Defense,25515593,Expense
+2004,Grants,40348680,Revenue
+2002,Natural Resources,19159524,Revenue
+2006,Healthcare,49950194,Expense
+2001,Natural Resources,46639285,Revenue
+2016,Infrastructure,32834671,Expense
+2014,Defense,25836549,Expense
+2011,Grants,22237200,Revenue
+2010,Healthcare,40220882,Expense
+2023,Grants,33574241,Revenue
+2020,Foreign Aid,6928291,Revenue
+2022,Education,30407418,Expense
+2017,Tax Revenue,48236824,Revenue
+2002,Tax Revenue,3489743,Revenue
+2012,Social Welfare,42709826,Expense
+2021,Natural Resources,16490959,Revenue
+2009,Grants,13540795,Revenue
+2005,Natural Resources,44020686,Revenue
+2014,Healthcare,1398655,Expense
+2014,Natural Resources,38091591,Revenue
+2019,Social Welfare,11401268,Expense
+2022,Healthcare,48405749,Expense
+2012,Defense,40775308,Expense
+2006,Defense,1747631,Expense
+2007,Foreign Aid,3632931,Revenue
+2008,Tax Revenue,2943799,Revenue
+2013,Natural Resources,6696374,Revenue
+2003,Grants,28355682,Revenue
+2018,Defense,36000304,Expense
+2007,Infrastructure,47728382,Expense
+2004,Natural Resources,29698494,Revenue
+2001,Education,35338711,Expense
+2018,Grants,35173140,Revenue
+2016,Grants,49457202,Revenue
+2003,Social Welfare,35222621,Expense
+2010,Healthcare,31987146,Expense
+2011,Foreign Aid,21106506,Revenue
+2011,Natural Resources,27816086,Revenue
+2017,Social Welfare,48224222,Expense
+2020,Tax Revenue,15885657,Revenue
+2020,Natural Resources,38939118,Revenue
+2021,Infrastructure,3987878,Expense
+2007,Natural Resources,4475666,Revenue
+2016,Foreign Aid,9406163,Revenue
+2011,Natural Resources,27085910,Revenue
+2008,Tax Revenue,48730883,Revenue
+2020,Foreign Aid,29058411,Revenue
+2015,Healthcare,35772730,Expense
+2005,Social Welfare,12088795,Expense
+2010,Social Welfare,18910703,Expense
+2013,Tax Revenue,38324854,Revenue
+2000,Defense,7878062,Expense
+2023,Defense,29241556,Expense
+2019,Natural Resources,21411593,Revenue
+2010,Foreign Aid,41484480,Revenue
+2016,Infrastructure,33159893,Expense
+2022,Healthcare,3001859,Expense
+2000,Natural Resources,14712726,Revenue
+2001,Social Welfare,27021988,Expense
+2014,Tax Revenue,7137874,Revenue
+2017,Tax Revenue,5704829,Revenue
+2007,Natural Resources,43374827,Revenue
+2003,Natural Resources,12363266,Revenue
+2009,Healthcare,1720622,Expense
+2000,Grants,4926639,Revenue
+2018,Social Welfare,45521657,Expense
+2008,Defense,17337780,Expense
+2000,Natural Resources,8000592,Revenue
+2023,Tax Revenue,42296902,Revenue
+2005,Infrastructure,15753139,Expense
+2003,Foreign Aid,26208151,Revenue
+2012,Grants,42024095,Revenue
+2019,Grants,41351150,Revenue
+2007,Education,34129476,Expense
+2005,Tax Revenue,35176105,Revenue
+2001,Education,18475617,Expense
+2023,Infrastructure,6252076,Expense
+2003,Tax Revenue,30894935,Revenue
+2017,Healthcare,4418046,Expense
+2003,Foreign Aid,31226340,Revenue
+2002,Tax Revenue,21165964,Revenue
+2011,Tax Revenue,26434453,Revenue
+2006,Natural Resources,4920673,Revenue
+2011,Social Welfare,4905324,Expense
+2013,Foreign Aid,23038109,Revenue
+2003,Infrastructure,30065474,Expense
+2019,Social Welfare,24389980,Expense
+2021,Tax Revenue,46128989,Revenue
+2018,Healthcare,5671942,Expense
+2004,Tax Revenue,6321799,Revenue
+2005,Foreign Aid,13753941,Revenue
+2021,Healthcare,41455195,Expense
+2016,Foreign Aid,28313965,Revenue
+2005,Tax Revenue,14890339,Revenue
+2021,Foreign Aid,1436238,Revenue
+2000,Foreign Aid,35476916,Revenue
+2022,Education,31545370,Expense
+2006,Education,31313769,Expense
+2018,Healthcare,17713526,Expense
+2013,Foreign Aid,37660575,Revenue
+2000,Education,4186156,Expense
+2005,Infrastructure,20583881,Expense
+2010,Defense,47620838,Expense
+2005,Tax Revenue,20120994,Revenue
+2020,Foreign Aid,26628980,Revenue
+2007,Foreign Aid,14787761,Revenue
+2000,Tax Revenue,21701916,Revenue
+2012,Education,38168861,Expense
+2010,Defense,23659916,Expense
+2001,Healthcare,7264471,Expense
+2014,Grants,24894774,Revenue
+2013,Infrastructure,16893801,Expense
+2006,Foreign Aid,7426628,Revenue
+2003,Foreign Aid,36480221,Revenue
+2008,Defense,38368138,Expense
+2006,Social Welfare,42626515,Expense
+2019,Natural Resources,21152862,Revenue
+2001,Grants,31300867,Revenue
+2008,Social Welfare,15879648,Expense
+2000,Natural Resources,49684682,Revenue
+2015,Infrastructure,35450672,Expense
+2008,Tax Revenue,48857506,Revenue
+2021,Defense,1629664,Expense
+2012,Infrastructure,1638904,Expense
+2012,Foreign Aid,48283716,Revenue
+2015,Social Welfare,8507654,Expense
+2013,Defense,48966158,Expense
+2012,Foreign Aid,8395815,Revenue
+2023,Social Welfare,44430995,Expense
+2001,Natural Resources,8476397,Revenue
+2012,Healthcare,18580819,Expense
+2004,Grants,25130832,Revenue
+2003,Healthcare,3052201,Expense
+2023,Natural Resources,13873061,Revenue
+2021,Natural Resources,49177041,Revenue
+2010,Natural Resources,37623316,Revenue
+2005,Social Welfare,17872535,Expense
+2001,Natural Resources,45448091,Revenue
+2013,Defense,41690216,Expense
+2016,Healthcare,11891285,Expense
+2003,Healthcare,20012800,Expense
+2011,Infrastructure,4141154,Expense
+2010,Natural Resources,24965887,Revenue
+2018,Defense,26600476,Expense
+2021,Natural Resources,26792103,Revenue
+2013,Defense,14855693,Expense
+2001,Natural Resources,42332904,Revenue
+2001,Foreign Aid,6038222,Revenue
+2004,Grants,29897747,Revenue
+2022,Social Welfare,36420446,Expense
+2021,Natural Resources,19575983,Revenue
+2009,Tax Revenue,33300187,Revenue
+2013,Healthcare,9358681,Expense
+2002,Infrastructure,44425210,Expense
+2021,Healthcare,21113678,Expense
+2023,Infrastructure,23487167,Expense
+2020,Tax Revenue,48950872,Revenue
+2023,Infrastructure,28107403,Expense
+2015,Tax Revenue,44481844,Revenue
+2019,Social Welfare,46843142,Expense
+2000,Defense,40409328,Expense
+2019,Defense,25658824,Expense
+2021,Tax Revenue,41668865,Revenue
+2005,Education,32713723,Expense
+2015,Healthcare,32763816,Expense
+2006,Grants,36976882,Revenue
+2009,Grants,44882206,Revenue
+2002,Social Welfare,23765210,Expense
+2020,Grants,6544885,Revenue
+2012,Social Welfare,31953123,Expense
+2021,Social Welfare,5005234,Expense
+2020,Natural Resources,26555357,Revenue
+2023,Tax Revenue,4591537,Revenue
+2009,Defense,9196674,Expense
+2007,Grants,43557797,Revenue
+2023,Tax Revenue,41345275,Revenue
+2007,Social Welfare,7580245,Expense
+2023,Social Welfare,33762532,Expense
+2003,Social Welfare,36934393,Expense
+2023,Infrastructure,37756757,Expense
+2009,Healthcare,9820038,Expense
+2010,Education,43231212,Expense
+2014,Foreign Aid,44222367,Revenue
+2013,Grants,24288424,Revenue
+2010,Tax Revenue,17389189,Revenue
+2017,Defense,30913792,Expense
+2014,Healthcare,17808620,Expense
+2017,Social Welfare,41767550,Expense
+2017,Education,42293371,Expense
+2021,Social Welfare,28099814,Expense
+2013,Tax Revenue,6161915,Revenue
+2016,Tax Revenue,33002146,Revenue
+2009,Healthcare,18704376,Expense
+2012,Grants,47744856,Revenue
+2017,Healthcare,20901532,Expense
+2011,Foreign Aid,47208875,Revenue
+2018,Social Welfare,16572883,Expense
+2012,Education,22896384,Expense
+2013,Defense,6422120,Expense
+2007,Social Welfare,30755190,Expense
+2015,Foreign Aid,24919337,Revenue
+2008,Education,31644412,Expense
+2003,Social Welfare,13447559,Expense
+2007,Education,29193003,Expense
+2001,Healthcare,32396995,Expense
+2001,Social Welfare,7082369,Expense
+2014,Defense,14445445,Expense
+2013,Education,15868915,Expense
+2002,Foreign Aid,28161405,Revenue
+2009,Tax Revenue,18008529,Revenue
+2005,Infrastructure,31765124,Expense
+2016,Healthcare,2270464,Expense
+2007,Natural Resources,40778757,Revenue
+2010,Foreign Aid,46564403,Revenue
+2013,Education,32412284,Expense
+2015,Healthcare,48369470,Expense
+2007,Defense,16938073,Expense
+2020,Grants,14098997,Revenue
+2003,Healthcare,1260165,Expense
+2012,Natural Resources,37680388,Revenue
+2014,Healthcare,29976703,Expense
+2001,Grants,28204005,Revenue
+2013,Infrastructure,9208614,Expense
+2008,Natural Resources,18073781,Revenue
+2010,Defense,1698175,Expense
+2015,Tax Revenue,24516537,Revenue
+2016,Education,40718085,Expense
+2021,Healthcare,22100608,Expense
+2011,Natural Resources,38262909,Revenue
+2001,Tax Revenue,19803880,Revenue
+2003,Social Welfare,30861477,Expense
+2018,Foreign Aid,40996704,Revenue
+2013,Natural Resources,21348597,Revenue
+2016,Grants,19387617,Revenue
+2021,Social Welfare,14798110,Expense
+2016,Infrastructure,3188312,Expense
+2018,Healthcare,24435534,Expense
+2020,Defense,18683840,Expense
+2004,Education,12478749,Expense
+2008,Healthcare,30474780,Expense
+2005,Education,1582543,Expense
+2018,Healthcare,7161993,Expense
+2004,Natural Resources,30421847,Revenue
+2004,Infrastructure,20095892,Expense
+2005,Grants,1521896,Revenue
+2000,Healthcare,23352936,Expense
+2003,Tax Revenue,44950156,Revenue
+2014,Grants,45185888,Revenue
+2010,Tax Revenue,41766324,Revenue
+2005,Grants,16264367,Revenue
+2014,Foreign Aid,14610886,Revenue
+2007,Social Welfare,27728987,Expense
+2011,Natural Resources,7738391,Revenue
+2001,Education,26888623,Expense
+2001,Education,40943153,Expense
+2004,Tax Revenue,38257645,Revenue
+2007,Social Welfare,48112516,Expense
+2017,Grants,5249905,Revenue
+2011,Healthcare,31229030,Expense
+2017,Natural Resources,38619971,Revenue
+2011,Foreign Aid,11145363,Revenue
+2020,Grants,35855775,Revenue
+2008,Foreign Aid,21172241,Revenue
+2003,Natural Resources,39190767,Revenue
+2015,Tax Revenue,6168867,Revenue
+2019,Social Welfare,1532040,Expense
+2017,Healthcare,45911694,Expense
+2008,Defense,44128121,Expense
+2021,Tax Revenue,31305348,Revenue
+2018,Defense,14763340,Expense
+2004,Grants,1460456,Revenue
+2013,Natural Resources,33311313,Revenue
+2001,Healthcare,22353030,Expense
+2007,Social Welfare,47128176,Expense
+2013,Healthcare,30537857,Expense
+2018,Healthcare,30645882,Expense
+2012,Grants,2126365,Revenue
+2008,Social Welfare,35563461,Expense
+2022,Defense,7776031,Expense
+2016,Grants,7164040,Revenue
+2013,Infrastructure,11088072,Expense
+2016,Defense,18584081,Expense
+2020,Foreign Aid,20049953,Revenue
+2016,Defense,49828789,Expense
+2016,Grants,9111559,Revenue
+2015,Grants,2834542,Revenue
+2000,Tax Revenue,42774508,Revenue
+2023,Tax Revenue,7734695,Revenue
+2018,Tax Revenue,1044789,Revenue
+2011,Infrastructure,30171886,Expense
+2011,Social Welfare,36467067,Expense
+2017,Grants,18317674,Revenue
+2010,Foreign Aid,32171314,Revenue
+2002,Social Welfare,36599179,Expense
+2001,Education,41635543,Expense
+2020,Grants,8671158,Revenue
+2002,Education,43828710,Expense
+2007,Grants,24679517,Revenue
+2003,Tax Revenue,3796407,Revenue
+2022,Social Welfare,24332042,Expense
+2023,Grants,27874111,Revenue
+2023,Foreign Aid,36730367,Revenue
+2008,Healthcare,13119381,Expense
+2011,Grants,23547407,Revenue
+2005,Education,36611221,Expense
+2009,Grants,49574457,Revenue
+2022,Social Welfare,39633970,Expense
+2000,Infrastructure,6271279,Expense
+2003,Tax Revenue,39004637,Revenue
+2000,Natural Resources,9449568,Revenue
+2000,Tax Revenue,6745279,Revenue
+2009,Defense,5727306,Expense
+2011,Education,27813952,Expense
+2007,Tax Revenue,45197689,Revenue
+2015,Education,48662400,Expense
+2015,Defense,29199605,Expense
+2001,Natural Resources,19185496,Revenue
+2011,Social Welfare,28370222,Expense
+2015,Tax Revenue,44488549,Revenue
+2018,Infrastructure,5970939,Expense
+2001,Infrastructure,1239698,Expense
+2001,Tax Revenue,17737424,Revenue
+2006,Social Welfare,46571527,Expense
+2005,Education,35523508,Expense
+2012,Tax Revenue,35806014,Revenue
+2015,Grants,17045457,Revenue
+2021,Infrastructure,45857355,Expense
+2003,Foreign Aid,30352060,Revenue
+2002,Defense,37177550,Expense
+2018,Grants,15584096,Revenue
+2003,Natural Resources,10706526,Revenue
+2017,Social Welfare,47923134,Expense
+2020,Tax Revenue,32177826,Revenue
+2002,Defense,29774178,Expense
+2006,Education,9040399,Expense
+2005,Tax Revenue,24267895,Revenue
+2023,Infrastructure,21154316,Expense
+2009,Defense,49613775,Expense
+2001,Infrastructure,49244380,Expense
+2004,Social Welfare,3034898,Expense
+2023,Natural Resources,22558320,Revenue
+2001,Foreign Aid,46544149,Revenue
+2007,Grants,26563923,Revenue
+2013,Social Welfare,31920105,Expense
+2009,Foreign Aid,26050891,Revenue
+2023,Defense,10288910,Expense
+2008,Tax Revenue,35502436,Revenue
+2016,Infrastructure,23164757,Expense
+2022,Education,42734241,Expense
+2002,Social Welfare,31856644,Expense
+2013,Natural Resources,22764065,Revenue
+2002,Social Welfare,23286880,Expense
+2011,Tax Revenue,23688061,Revenue
+2009,Education,31500240,Expense
+2004,Natural Resources,46695701,Revenue
+2008,Defense,26265780,Expense
+2008,Education,46426132,Expense
+2011,Grants,15771335,Revenue
+2003,Foreign Aid,11737892,Revenue
+2010,Infrastructure,18401883,Expense
+2008,Foreign Aid,39800076,Revenue
+2017,Education,24510580,Expense
+2009,Grants,46255435,Revenue
+2017,Foreign Aid,31015925,Revenue
+2020,Grants,33733505,Revenue
+2023,Tax Revenue,35430883,Revenue
+2007,Foreign Aid,11847446,Revenue
+2005,Tax Revenue,38371888,Revenue
+2005,Education,42425317,Expense
+2012,Infrastructure,7251502,Expense
+2022,Tax Revenue,40034699,Revenue
+2001,Natural Resources,46398834,Revenue
+2015,Social Welfare,17940211,Expense
+2014,Foreign Aid,36810176,Revenue
+2022,Foreign Aid,44988133,Revenue
+2015,Defense,45040124,Expense
+2022,Tax Revenue,27661140,Revenue
+2023,Foreign Aid,40229279,Revenue
+2023,Education,37602165,Expense
+2021,Defense,9611341,Expense
+2013,Education,39878331,Expense
+2006,Social Welfare,10726584,Expense
+2014,Foreign Aid,27944524,Revenue
+2004,Foreign Aid,32097882,Revenue
+2014,Social Welfare,37034632,Expense
+2002,Tax Revenue,9452440,Revenue
+2008,Natural Resources,7263175,Revenue
+2003,Tax Revenue,18472722,Revenue
+2007,Infrastructure,23610909,Expense
+2020,Foreign Aid,42438136,Revenue
+2009,Foreign Aid,34452911,Revenue
+2016,Tax Revenue,39531634,Revenue
+2009,Grants,44809259,Revenue
+2015,Natural Resources,32443795,Revenue
+2001,Foreign Aid,22193905,Revenue
+2005,Defense,10328357,Expense
+2000,Tax Revenue,6191826,Revenue
+2003,Healthcare,38786908,Expense
+2023,Grants,12843667,Revenue
+2010,Social Welfare,34986807,Expense
+2011,Education,40005845,Expense
+2008,Infrastructure,33441603,Expense
+2013,Tax Revenue,29494728,Revenue
+2011,Infrastructure,11559610,Expense
+2020,Defense,45226439,Expense
+2013,Social Welfare,42394418,Expense
+2015,Education,16644700,Expense
+2003,Social Welfare,35495717,Expense
+2019,Foreign Aid,36304286,Revenue
+2007,Education,40965775,Expense
+2023,Tax Revenue,27899787,Revenue
+2009,Education,23172037,Expense
+2006,Natural Resources,32718984,Revenue
+2015,Grants,21170945,Revenue
+2016,Infrastructure,32875123,Expense
+2006,Tax Revenue,45634727,Revenue
+2017,Tax Revenue,40623315,Revenue
+2015,Defense,29475533,Expense
+2015,Healthcare,31024734,Expense
+2005,Foreign Aid,8671871,Revenue
+2022,Healthcare,31880898,Expense
+2020,Tax Revenue,13604430,Revenue
+2008,Foreign Aid,1005808,Revenue
+2017,Tax Revenue,13718869,Revenue
+2011,Infrastructure,35835095,Expense
+2013,Foreign Aid,38247064,Revenue
+2000,Healthcare,8528192,Expense
+2000,Education,37079843,Expense
+2010,Tax Revenue,2866949,Revenue
+2015,Social Welfare,34449816,Expense
+2002,Defense,20504503,Expense
+2007,Infrastructure,30090881,Expense
+2016,Grants,40905455,Revenue
+2023,Education,14142892,Expense
+2007,Foreign Aid,37201884,Revenue
+2013,Healthcare,49122006,Expense
+2020,Grants,44944255,Revenue
+2015,Foreign Aid,39444791,Revenue
+2008,Healthcare,42975733,Expense
+2011,Healthcare,35652786,Expense
+2016,Foreign Aid,32726816,Revenue
+2014,Defense,34291498,Expense
+2019,Healthcare,3221598,Expense
+2018,Foreign Aid,20929974,Revenue
+2005,Foreign Aid,38960885,Revenue
+2000,Defense,29509324,Expense
+2016,Grants,9026340,Revenue
+2023,Infrastructure,47666296,Expense
+2021,Infrastructure,15992564,Expense
+2021,Grants,44972797,Revenue
+2013,Healthcare,10479608,Expense
+2004,Social Welfare,39225371,Expense
+2003,Foreign Aid,28632248,Revenue
+2017,Natural Resources,18919245,Revenue
+2005,Foreign Aid,20498667,Revenue
+2016,Grants,42606127,Revenue
+2008,Healthcare,1346022,Expense
+2022,Tax Revenue,18569315,Revenue
+2000,Defense,32921750,Expense
+2012,Education,18316445,Expense
+2007,Tax Revenue,5574270,Revenue
+2008,Foreign Aid,11643506,Revenue
+2007,Grants,27172192,Revenue
+2015,Foreign Aid,21629509,Revenue
+2016,Tax Revenue,25865431,Revenue
+2020,Tax Revenue,24834519,Revenue
+2008,Healthcare,1573478,Expense
+2020,Infrastructure,44547500,Expense
+2012,Education,47119557,Expense
+2006,Healthcare,42516574,Expense
+2017,Natural Resources,39304873,Revenue
+2010,Infrastructure,4107894,Expense
+2017,Foreign Aid,18214684,Revenue
+2019,Social Welfare,43677616,Expense
+2007,Healthcare,13784045,Expense
+2023,Foreign Aid,49351157,Revenue
+2016,Social Welfare,21250980,Expense
+2015,Defense,5921687,Expense
+2020,Natural Resources,44262808,Revenue
+2002,Foreign Aid,3654541,Revenue
+2010,Defense,6298294,Expense
+2011,Defense,11115549,Expense
+2021,Defense,35965378,Expense
+2010,Healthcare,37096312,Expense
+2005,Tax Revenue,11316382,Revenue
+2012,Social Welfare,22649895,Expense
+2011,Infrastructure,22535088,Expense
+2000,Infrastructure,5608991,Expense
+2010,Grants,25683616,Revenue
+2007,Grants,29652596,Revenue
+2015,Defense,32861425,Expense
+2003,Infrastructure,16307744,Expense
+2018,Tax Revenue,15288465,Revenue
+2008,Foreign Aid,31447036,Revenue
+2001,Defense,9797767,Expense
+2023,Natural Resources,12714168,Revenue
+2002,Healthcare,3049115,Expense
+2009,Healthcare,2013106,Expense
+2005,Education,13103598,Expense
+2019,Education,48783675,Expense
+2018,Natural Resources,9868657,Revenue
+2006,Tax Revenue,31269159,Revenue
+2009,Grants,14950523,Revenue
+2006,Foreign Aid,14209973,Revenue
+2018,Healthcare,21364181,Expense
+2023,Natural Resources,25894801,Revenue
+2014,Social Welfare,26582904,Expense
+2007,Social Welfare,12360775,Expense
+2021,Healthcare,49791325,Expense
+2005,Tax Revenue,27243722,Revenue
+2006,Natural Resources,3485878,Revenue
+2006,Tax Revenue,34654493,Revenue
+2003,Foreign Aid,27830246,Revenue
+2006,Infrastructure,1216041,Expense
+2020,Natural Resources,40336885,Revenue
+2008,Defense,10483956,Expense
+2004,Healthcare,41271698,Expense
+2001,Defense,16219879,Expense
+2022,Infrastructure,32347256,Expense
+2015,Grants,19439003,Revenue
+2015,Healthcare,45255133,Expense
+2016,Tax Revenue,28433318,Revenue
+2008,Healthcare,35890150,Expense
+2022,Foreign Aid,26429451,Revenue
+2021,Natural Resources,23805312,Revenue
+2000,Infrastructure,37118520,Expense
+2022,Defense,43069910,Expense
+2016,Tax Revenue,45494804,Revenue
+2019,Healthcare,46071230,Expense
+2011,Healthcare,41387935,Expense
+2005,Infrastructure,35191470,Expense
+2009,Tax Revenue,37315759,Revenue
+2000,Natural Resources,11245232,Revenue
+2019,Natural Resources,21217136,Revenue
+2014,Social Welfare,14035307,Expense
+2016,Social Welfare,45408748,Expense
+2005,Social Welfare,6872514,Expense
+2020,Natural Resources,17497105,Revenue
+2017,Foreign Aid,15240093,Revenue
+2005,Foreign Aid,19367744,Revenue
+2016,Grants,42201711,Revenue
+2004,Defense,25992435,Expense
+2022,Defense,42170391,Expense
+2009,Grants,42971947,Revenue
+2012,Social Welfare,17087500,Expense
+2011,Foreign Aid,25524478,Revenue
+2021,Grants,15433545,Revenue
+2012,Infrastructure,18453184,Expense
+2021,Tax Revenue,41736817,Revenue
+2022,Infrastructure,40462014,Expense
+2017,Education,29560826,Expense
+2003,Social Welfare,11575543,Expense
+2005,Natural Resources,5575725,Revenue
+2009,Education,41471258,Expense
+2011,Tax Revenue,24253905,Revenue
+2012,Natural Resources,41179306,Revenue
+2011,Tax Revenue,31158385,Revenue
+2015,Foreign Aid,15691388,Revenue
+2022,Defense,23235263,Expense
+2007,Education,34990282,Expense
+2022,Social Welfare,14541712,Expense
+2004,Social Welfare,9491215,Expense
+2009,Defense,17283227,Expense
+2023,Grants,6666790,Revenue
+2023,Tax Revenue,34740822,Revenue
+2011,Tax Revenue,11198210,Revenue
+2000,Social Welfare,47058577,Expense
+2011,Education,16114505,Expense
+2016,Grants,43436991,Revenue
+2023,Grants,19875754,Revenue
+2002,Education,29108501,Expense
+2009,Defense,40509200,Expense
+2007,Education,41888235,Expense
+2001,Healthcare,27602105,Expense
+2017,Natural Resources,31153740,Revenue
+2007,Infrastructure,39558396,Expense
+2009,Infrastructure,21517352,Expense
+2005,Tax Revenue,47263150,Revenue
+2018,Education,23922897,Expense
+2004,Healthcare,27247743,Expense
+2007,Healthcare,22172850,Expense
+2023,Natural Resources,9882611,Revenue
+2005,Natural Resources,11907679,Revenue
+2007,Defense,26461590,Expense
+2015,Defense,37628184,Expense
+2000,Foreign Aid,45713191,Revenue
+2017,Tax Revenue,38602106,Revenue
+2008,Infrastructure,22603527,Expense
+2020,Healthcare,5014379,Expense
+2006,Grants,2464127,Revenue
+2015,Natural Resources,28302439,Revenue
+2009,Foreign Aid,47587416,Revenue
+2006,Defense,47648902,Expense
+2016,Grants,49718602,Revenue
+2004,Grants,36977149,Revenue
+2011,Tax Revenue,35058708,Revenue
+2020,Natural Resources,38117517,Revenue
+2004,Natural Resources,49183528,Revenue
+2018,Defense,8401728,Expense
+2000,Grants,25129968,Revenue
+2014,Education,18895097,Expense
+2000,Social Welfare,39661548,Expense
+2012,Healthcare,16774094,Expense
+2002,Education,39919822,Expense
+2017,Grants,45530915,Revenue
+2001,Natural Resources,23568913,Revenue
+2020,Natural Resources,17781701,Revenue
+2012,Healthcare,16721528,Expense
+2007,Natural Resources,29275188,Revenue
+2000,Healthcare,14357219,Expense
+2019,Foreign Aid,49844585,Revenue
+2013,Grants,26483545,Revenue
+2013,Healthcare,11819816,Expense
+2016,Grants,6247378,Revenue
+2009,Foreign Aid,11786830,Revenue
+2009,Grants,46488993,Revenue
+2019,Foreign Aid,11685409,Revenue
+2016,Healthcare,35916705,Expense
+2001,Defense,13990514,Expense
+2020,Tax Revenue,12297390,Revenue
+2005,Natural Resources,18776427,Revenue
+2007,Healthcare,21451861,Expense
+2015,Education,27093719,Expense
+2020,Tax Revenue,1810934,Revenue
+2020,Foreign Aid,11943261,Revenue
+2006,Healthcare,4507528,Expense
+2014,Infrastructure,22313759,Expense
+2022,Healthcare,31229527,Expense
+2021,Natural Resources,5615975,Revenue
+2002,Defense,20346843,Expense
+2001,Grants,45975419,Revenue
+2023,Tax Revenue,5771615,Revenue
+2016,Defense,2068190,Expense
+2006,Healthcare,9942187,Expense
+2002,Natural Resources,9636312,Revenue
+2019,Foreign Aid,4532964,Revenue
+2002,Natural Resources,30920775,Revenue
+2012,Healthcare,4439066,Expense
+2012,Tax Revenue,35119165,Revenue
+2005,Tax Revenue,24418395,Revenue
+2010,Healthcare,47190248,Expense
+2006,Grants,27052133,Revenue
+2021,Natural Resources,24329876,Revenue
+2006,Grants,15221450,Revenue
+2005,Education,17548389,Expense
+2010,Tax Revenue,18615539,Revenue
+2015,Defense,45480164,Expense
+2021,Tax Revenue,2594357,Revenue
+2021,Defense,30466528,Expense
+2011,Natural Resources,46232623,Revenue
+2007,Grants,15068250,Revenue
+2016,Healthcare,46122453,Expense
+2006,Foreign Aid,27924071,Revenue
+2002,Foreign Aid,6133285,Revenue
+2015,Defense,28651212,Expense
+2010,Tax Revenue,7621193,Revenue
+2023,Grants,22910144,Revenue
+2012,Tax Revenue,46311078,Revenue
+2022,Education,22436545,Expense
+2006,Tax Revenue,18814286,Revenue
+2002,Infrastructure,24553547,Expense
+2003,Education,36682571,Expense
+2001,Tax Revenue,35091752,Revenue
+2012,Tax Revenue,30520008,Revenue
+2015,Tax Revenue,2842406,Revenue
+2015,Natural Resources,38120459,Revenue
+2022,Natural Resources,4909923,Revenue
+2006,Social Welfare,27602311,Expense
+2001,Social Welfare,39016164,Expense
+2000,Education,40905094,Expense
+2018,Natural Resources,21293155,Revenue
+2020,Grants,48041482,Revenue
+2022,Foreign Aid,19274235,Revenue
+2000,Infrastructure,43318197,Expense
+2019,Education,40900078,Expense
+2002,Defense,49051365,Expense
+2003,Natural Resources,22548912,Revenue
+2007,Grants,17949219,Revenue
+2007,Grants,33084844,Revenue
+2000,Education,22201413,Expense
+2001,Grants,38285738,Revenue
+2022,Natural Resources,35783893,Revenue
+2008,Foreign Aid,4060543,Revenue
+2005,Foreign Aid,6095742,Revenue
+2015,Infrastructure,15320858,Expense
+2018,Defense,7698416,Expense
+2000,Social Welfare,6429707,Expense
+2001,Education,14166033,Expense
+2019,Defense,13062901,Expense
+2023,Education,26875897,Expense
+2019,Tax Revenue,17915063,Revenue
+2016,Infrastructure,47560250,Expense
+2007,Education,43930393,Expense
+2013,Education,1938465,Expense
+2003,Defense,15491392,Expense
+2022,Healthcare,17002770,Expense
+2022,Infrastructure,39330084,Expense
+2009,Healthcare,24034555,Expense
+2012,Tax Revenue,28091379,Revenue
+2009,Healthcare,6240321,Expense
+2004,Healthcare,47602754,Expense
+2005,Education,5749954,Expense
+2007,Tax Revenue,8392960,Revenue
+2003,Social Welfare,23564201,Expense
+2002,Social Welfare,41217182,Expense
+2011,Natural Resources,43054977,Revenue
+2023,Natural Resources,3295450,Revenue
+2009,Social Welfare,38842712,Expense
+2004,Social Welfare,6047417,Expense
+2013,Social Welfare,46091381,Expense
+2005,Natural Resources,1861138,Revenue
+2000,Foreign Aid,19886873,Revenue
+2012,Infrastructure,19705319,Expense
+2021,Social Welfare,21963344,Expense
+2000,Defense,37575614,Expense
+2015,Defense,40047481,Expense
+2011,Foreign Aid,32560398,Revenue
+2009,Defense,46437557,Expense
+2006,Natural Resources,36103125,Revenue
+2019,Natural Resources,31202794,Revenue
+2016,Education,30374380,Expense
+2019,Infrastructure,31420389,Expense
+2008,Tax Revenue,37087560,Revenue
+2018,Grants,32837494,Revenue
+2017,Tax Revenue,22511432,Revenue
+2009,Foreign Aid,5062094,Revenue
+2012,Healthcare,11581008,Expense
+2016,Social Welfare,5751660,Expense
+2020,Education,32725739,Expense
+2021,Social Welfare,1089114,Expense
+2017,Tax Revenue,41004028,Revenue
+2012,Foreign Aid,17433336,Revenue
+2021,Tax Revenue,15972138,Revenue
+2010,Infrastructure,44300073,Expense
+2021,Healthcare,6089772,Expense
+2001,Healthcare,39782932,Expense
+2013,Healthcare,10898198,Expense
+2006,Natural Resources,20779772,Revenue
+2009,Natural Resources,19472324,Revenue
+2023,Education,33243750,Expense
+2005,Infrastructure,14321983,Expense
+2012,Tax Revenue,12828438,Revenue
+2001,Infrastructure,11801632,Expense
+2018,Infrastructure,18267340,Expense
+2013,Natural Resources,1393747,Revenue
+2023,Foreign Aid,45967744,Revenue
+2011,Defense,17518326,Expense
+2005,Social Welfare,10738651,Expense
+2019,Grants,31351761,Revenue
+2000,Natural Resources,3605413,Revenue
+2002,Foreign Aid,33090316,Revenue
+2008,Social Welfare,23573544,Expense
+2014,Natural Resources,23359192,Revenue
+2011,Foreign Aid,14281257,Revenue
+2010,Natural Resources,16341558,Revenue
+2021,Tax Revenue,6526100,Revenue
+2009,Infrastructure,43557047,Expense
+2005,Grants,19873012,Revenue
+2022,Tax Revenue,4841827,Revenue
+2017,Infrastructure,20385111,Expense
+2014,Foreign Aid,7019083,Revenue
+2003,Infrastructure,1466905,Expense
+2022,Infrastructure,45954406,Expense
+2006,Natural Resources,39965736,Revenue
+2015,Education,22473910,Expense
+2021,Education,45071991,Expense
+2018,Foreign Aid,14122031,Revenue
+2002,Natural Resources,15075622,Revenue
+2009,Grants,21343564,Revenue
+2007,Grants,46765180,Revenue
+2015,Education,9225827,Expense
+2000,Defense,13398877,Expense
+2004,Education,41112990,Expense
+2007,Infrastructure,40097470,Expense
+2010,Infrastructure,41550548,Expense
+2011,Foreign Aid,13484996,Revenue
+2010,Infrastructure,32807509,Expense
+2002,Natural Resources,48083279,Revenue
+2007,Education,9474241,Expense
+2015,Foreign Aid,21391178,Revenue
+2000,Foreign Aid,48807620,Revenue
+2002,Healthcare,23991727,Expense
+2009,Education,26019811,Expense
+2019,Foreign Aid,26310144,Revenue
+2021,Grants,32591008,Revenue
+2023,Defense,20980963,Expense
+2005,Defense,25104082,Expense
+2020,Defense,24903357,Expense
+2000,Education,29695647,Expense
+2006,Natural Resources,1071524,Revenue
+2016,Infrastructure,35239600,Expense
+2007,Infrastructure,38357724,Expense
+2002,Education,39401920,Expense
+2021,Grants,27647497,Revenue
+2016,Tax Revenue,22555681,Revenue
+2000,Tax Revenue,47197667,Revenue
+2011,Defense,39115245,Expense
+2006,Education,47073228,Expense
+2003,Foreign Aid,44752962,Revenue
+2012,Defense,13217887,Expense
+2001,Infrastructure,42169393,Expense
+2009,Grants,18253621,Revenue
+2019,Grants,14543086,Revenue
+2005,Foreign Aid,29485469,Revenue
+2019,Tax Revenue,3450697,Revenue
+2006,Foreign Aid,8280571,Revenue
+2008,Foreign Aid,1842260,Revenue
+2019,Defense,47765584,Expense
+2000,Defense,25836592,Expense
+2004,Social Welfare,29933880,Expense
+2015,Natural Resources,2657548,Revenue
+2011,Grants,20519985,Revenue
+2003,Tax Revenue,13846601,Revenue
+2015,Healthcare,11061118,Expense
+2013,Tax Revenue,28714579,Revenue
+2002,Foreign Aid,27219273,Revenue
+2021,Social Welfare,24149129,Expense
+2003,Natural Resources,25777791,Revenue
+2007,Tax Revenue,15561347,Revenue
+2023,Natural Resources,4214757,Revenue
+2015,Grants,21143733,Revenue
+2015,Infrastructure,26088271,Expense
+2020,Social Welfare,39382879,Expense
+2007,Defense,10424373,Expense
+2018,Healthcare,43463797,Expense
+2001,Natural Resources,45561516,Revenue
+2021,Healthcare,2772084,Expense
+2019,Infrastructure,47901413,Expense
+2000,Grants,48422864,Revenue
+2017,Foreign Aid,23205120,Revenue
+2004,Foreign Aid,45468530,Revenue
+2023,Foreign Aid,44539552,Revenue
+2003,Foreign Aid,19222914,Revenue
+2005,Infrastructure,18046421,Expense
+2022,Tax Revenue,38762112,Revenue
+2016,Defense,19916161,Expense
+2022,Tax Revenue,25628858,Revenue
+2023,Infrastructure,41184026,Expense
+2022,Natural Resources,34576219,Revenue
+2002,Defense,6025718,Expense
+2011,Foreign Aid,24885033,Revenue
+2009,Foreign Aid,18451537,Revenue
+2001,Healthcare,7790083,Expense
+2002,Defense,19092275,Expense
+2022,Education,32878263,Expense
+2016,Social Welfare,5514575,Expense
+2013,Healthcare,45334657,Expense
+2019,Education,38732185,Expense
+2008,Tax Revenue,9136899,Revenue
+2023,Foreign Aid,24610436,Revenue
+2016,Natural Resources,8496878,Revenue
+2001,Foreign Aid,38604180,Revenue
+2020,Foreign Aid,45511419,Revenue
+2001,Foreign Aid,32652794,Revenue
+2011,Foreign Aid,6159740,Revenue
+2016,Social Welfare,19680206,Expense
+2015,Foreign Aid,46821248,Revenue
+2019,Grants,37449428,Revenue
+2021,Education,40738824,Expense
+2019,Tax Revenue,18673269,Revenue
+2019,Education,19401852,Expense
+2000,Healthcare,8778194,Expense
+2019,Education,12283003,Expense
+2014,Natural Resources,40609436,Revenue
+2015,Grants,19610404,Revenue
+2023,Defense,11902951,Expense
+2020,Tax Revenue,17059086,Revenue
+2023,Healthcare,40279108,Expense
+2017,Foreign Aid,17639809,Revenue
+2004,Natural Resources,14671791,Revenue
+2006,Defense,40603671,Expense
+2020,Defense,35712110,Expense
+2023,Grants,23151584,Revenue
+2005,Education,1034602,Expense
+2000,Infrastructure,20143417,Expense
+2010,Defense,9825544,Expense
+2018,Grants,47959545,Revenue
+2019,Tax Revenue,38524564,Revenue
+2004,Grants,43710467,Revenue
+2008,Social Welfare,4668159,Expense
+2016,Grants,15799317,Revenue
+2002,Tax Revenue,34396249,Revenue
+2011,Defense,17704785,Expense
+2019,Healthcare,20493309,Expense
+2021,Healthcare,8417310,Expense
+2003,Natural Resources,7900181,Revenue
+2021,Defense,21516386,Expense
+2016,Tax Revenue,4722202,Revenue
+2013,Foreign Aid,26391424,Revenue
+2008,Healthcare,34295684,Expense
+2012,Infrastructure,46707334,Expense
+2009,Natural Resources,14526259,Revenue
+2010,Education,48863326,Expense
+2001,Grants,12999325,Revenue
+2003,Infrastructure,8070611,Expense
+2011,Foreign Aid,47696982,Revenue
+2001,Defense,37592640,Expense
+2011,Defense,42940518,Expense
+2007,Natural Resources,9736504,Revenue
+2002,Natural Resources,46051821,Revenue
+2005,Infrastructure,45919515,Expense
+2006,Defense,11552975,Expense
+2000,Foreign Aid,41979249,Revenue
+2016,Tax Revenue,41249972,Revenue
+2018,Defense,1996019,Expense
+2005,Grants,31817028,Revenue
+2005,Healthcare,25276402,Expense
+2019,Education,8832629,Expense
+2019,Social Welfare,3482893,Expense
+2016,Grants,13155651,Revenue
+2007,Foreign Aid,36989402,Revenue
+2008,Infrastructure,30904279,Expense
+2009,Foreign Aid,8380934,Revenue
+2005,Grants,46603218,Revenue
+2007,Grants,4132435,Revenue
+2013,Healthcare,2350441,Expense
+2002,Grants,21864840,Revenue
+2004,Foreign Aid,20395181,Revenue
+2012,Infrastructure,12887194,Expense
+2014,Defense,40487957,Expense
+2017,Education,47098156,Expense
+2006,Social Welfare,23385604,Expense
+2023,Infrastructure,23925376,Expense
+2006,Defense,22820865,Expense
+2017,Tax Revenue,33813771,Revenue
+2020,Infrastructure,24357096,Expense
+2019,Grants,14241882,Revenue
+2011,Defense,41195129,Expense
+2016,Tax Revenue,31076559,Revenue
+2013,Defense,38745860,Expense
+2014,Education,35992186,Expense
+2000,Healthcare,12554929,Expense
+2018,Tax Revenue,42538469,Revenue
+2006,Grants,6883418,Revenue
+2006,Natural Resources,29696761,Revenue
+2015,Foreign Aid,36744258,Revenue
+2000,Tax Revenue,48783621,Revenue
+2001,Infrastructure,21397983,Expense
+2023,Healthcare,34742153,Expense
+2020,Foreign Aid,6600599,Revenue
+2022,Infrastructure,41774131,Expense
+2005,Education,29470793,Expense
+2005,Social Welfare,15156862,Expense
+2003,Infrastructure,19930306,Expense
+2016,Defense,48555770,Expense
+2021,Natural Resources,29872157,Revenue
+2014,Education,15416844,Expense
+2019,Grants,24974057,Revenue
+2016,Defense,46370289,Expense
+2014,Foreign Aid,20032602,Revenue
+2022,Grants,42302646,Revenue
+2021,Grants,9913098,Revenue
+2015,Natural Resources,8860849,Revenue
+2011,Foreign Aid,38238382,Revenue
+2011,Natural Resources,16639542,Revenue
+2021,Defense,42630335,Expense
+2004,Education,11052513,Expense
+2017,Healthcare,37745208,Expense
+2010,Infrastructure,33521987,Expense
+2002,Natural Resources,42489294,Revenue
+2014,Grants,26482706,Revenue
+2020,Education,16032296,Expense
+2008,Education,3285669,Expense
+2015,Natural Resources,4172608,Revenue
+2007,Tax Revenue,48616326,Revenue
+2008,Healthcare,21329693,Expense
+2000,Foreign Aid,31662928,Revenue
+2011,Defense,35728814,Expense
+2001,Healthcare,12139333,Expense
+2020,Healthcare,30448910,Expense
+2022,Education,18099799,Expense
+2010,Infrastructure,26113996,Expense
+2014,Infrastructure,6715811,Expense
+2020,Infrastructure,38878492,Expense
+2007,Natural Resources,20957287,Revenue
+2004,Tax Revenue,17896077,Revenue
+2008,Foreign Aid,48388170,Revenue
+2000,Education,23475678,Expense
+2016,Grants,27922946,Revenue
+2010,Tax Revenue,4646654,Revenue
+2012,Grants,6014767,Revenue
+2010,Defense,31022165,Expense
+2005,Foreign Aid,31153497,Revenue
+2007,Defense,18232745,Expense
+2014,Defense,35568627,Expense
+2001,Education,26841340,Expense
+2009,Foreign Aid,36322149,Revenue
+2010,Infrastructure,38783310,Expense
+2010,Grants,14861030,Revenue
+2007,Education,9382869,Expense
+2003,Healthcare,42266240,Expense
+2002,Infrastructure,12261730,Expense
+2017,Infrastructure,15080282,Expense
+2005,Grants,35091402,Revenue
+2022,Grants,17261860,Revenue
+2015,Infrastructure,16532840,Expense
+2000,Defense,20254965,Expense
+2014,Foreign Aid,8004835,Revenue
+2015,Grants,31998637,Revenue
+2019,Tax Revenue,26129957,Revenue
+2019,Infrastructure,26027936,Expense
+2012,Healthcare,47042318,Expense
+2016,Defense,22144840,Expense
+2018,Natural Resources,41623576,Revenue
+2013,Defense,22088466,Expense
+2005,Defense,36362312,Expense
+2008,Healthcare,1543616,Expense
+2021,Education,18060324,Expense
+2009,Grants,31264637,Revenue
+2023,Education,40635393,Expense
+2017,Healthcare,43126580,Expense
+2015,Tax Revenue,36725254,Revenue
+2003,Healthcare,15789568,Expense
+2007,Social Welfare,15890625,Expense
+2009,Infrastructure,3088508,Expense
+2010,Infrastructure,8616858,Expense
+2018,Defense,39810769,Expense
+2020,Healthcare,26404175,Expense
+2001,Infrastructure,46208389,Expense
+2016,Social Welfare,1706622,Expense
+2009,Grants,29419188,Revenue
+2012,Infrastructure,17823171,Expense
+2023,Defense,4359870,Expense
+2002,Natural Resources,1841623,Revenue
+2008,Grants,13873178,Revenue
+2011,Grants,34219114,Revenue
+2005,Grants,17081969,Revenue
+2023,Grants,5727116,Revenue
+2006,Infrastructure,30620977,Expense
+2020,Grants,10100956,Revenue
+2013,Education,10927488,Expense
+2012,Education,15591356,Expense
+2014,Social Welfare,4540723,Expense
+2011,Infrastructure,42754695,Expense
+2020,Defense,29819717,Expense
+2015,Grants,6699162,Revenue
+2009,Tax Revenue,44685163,Revenue
+2010,Defense,2732300,Expense
+2018,Education,31103426,Expense
+2003,Grants,11125112,Revenue
+2002,Grants,40686710,Revenue
+2009,Infrastructure,4026799,Expense
+2017,Healthcare,44633920,Expense
+2003,Tax Revenue,19433422,Revenue
+2009,Healthcare,44556987,Expense
+2021,Healthcare,11062359,Expense
+2015,Healthcare,34137712,Expense
+2001,Grants,46211719,Revenue
+2005,Tax Revenue,35423887,Revenue
+2004,Defense,48908472,Expense
+2002,Healthcare,2467592,Expense
+2019,Defense,34352769,Expense
+2018,Natural Resources,12544186,Revenue
+2001,Education,30991541,Expense
+2007,Social Welfare,38823753,Expense
+2008,Foreign Aid,4791956,Revenue
+2001,Social Welfare,26771070,Expense
+2012,Natural Resources,31911220,Revenue
+2021,Foreign Aid,37525914,Revenue
+2008,Grants,27428807,Revenue
+2006,Social Welfare,6375616,Expense
+2008,Healthcare,5707975,Expense
+2015,Natural Resources,46262809,Revenue
+2004,Tax Revenue,13799678,Revenue
+2007,Education,6888668,Expense
+2017,Social Welfare,10794790,Expense
+2000,Infrastructure,28307008,Expense
+2001,Infrastructure,47764139,Expense
+2004,Natural Resources,38432917,Revenue
+2001,Defense,23320202,Expense
+2000,Natural Resources,19857680,Revenue
+2016,Healthcare,7524216,Expense
+2020,Natural Resources,29977075,Revenue
+2017,Foreign Aid,39688910,Revenue
+2020,Foreign Aid,23569338,Revenue
+2013,Infrastructure,36362372,Expense
+2005,Education,1438679,Expense
+2001,Education,30171936,Expense
+2016,Healthcare,22980697,Expense
+2008,Infrastructure,49485048,Expense
+2005,Foreign Aid,45728359,Revenue
+2017,Natural Resources,15770248,Revenue
+2020,Education,39881877,Expense
+2022,Healthcare,33049971,Expense
+2000,Education,3026786,Expense
+2010,Natural Resources,18973010,Revenue
+2002,Foreign Aid,25893455,Revenue
+2010,Social Welfare,33639479,Expense
+2006,Education,49875985,Expense
+2021,Grants,11709860,Revenue
+2015,Foreign Aid,3290342,Revenue
+2000,Infrastructure,42064857,Expense
+2006,Foreign Aid,7975597,Revenue
+2005,Social Welfare,16668214,Expense
+2010,Tax Revenue,45960057,Revenue
+2022,Natural Resources,27491726,Revenue
+2008,Grants,7914065,Revenue
+2010,Foreign Aid,3826351,Revenue
+2003,Social Welfare,24485762,Expense
+2023,Infrastructure,18650200,Expense
+2023,Tax Revenue,35495592,Revenue
+2012,Foreign Aid,31827126,Revenue
+2005,Tax Revenue,33778009,Revenue
+2003,Social Welfare,24641374,Expense
+2013,Healthcare,10103862,Expense
+2015,Social Welfare,15055578,Expense
+2010,Grants,36704101,Revenue
+2003,Social Welfare,5581543,Expense
+2018,Social Welfare,22006509,Expense
+2014,Foreign Aid,4892790,Revenue
+2020,Natural Resources,16005311,Revenue
+2007,Natural Resources,19491542,Revenue
+2022,Social Welfare,42825694,Expense
+2019,Foreign Aid,33073851,Revenue
+2010,Foreign Aid,22547363,Revenue
+2003,Foreign Aid,39543929,Revenue
+2019,Grants,48274555,Revenue
+2006,Social Welfare,21593672,Expense
+2010,Healthcare,22820710,Expense
+2013,Social Welfare,21997773,Expense
+2001,Natural Resources,11352924,Revenue
+2014,Foreign Aid,32197481,Revenue
+2000,Infrastructure,19709903,Expense
+2020,Natural Resources,20868966,Revenue
+2002,Education,17272821,Expense
+2000,Infrastructure,2141414,Expense
+2002,Infrastructure,11948414,Expense
+2012,Foreign Aid,2916546,Revenue
+2018,Grants,18468272,Revenue
+2017,Tax Revenue,24970474,Revenue
+2009,Defense,22703391,Expense
+2019,Healthcare,36776696,Expense
+2020,Tax Revenue,26307312,Revenue
+2005,Infrastructure,23614773,Expense
+2001,Infrastructure,49756488,Expense
+2013,Tax Revenue,46110489,Revenue
+2012,Grants,4801455,Revenue
+2006,Infrastructure,14395948,Expense
+2013,Education,18217576,Expense
+2000,Infrastructure,9223485,Expense
+2007,Foreign Aid,9326046,Revenue
+2003,Defense,34919750,Expense
+2000,Education,42199246,Expense
+2007,Social Welfare,14277377,Expense
+2009,Foreign Aid,32926243,Revenue
+2002,Grants,6962983,Revenue
+2023,Natural Resources,37562137,Revenue
+2015,Defense,26167786,Expense
+2000,Infrastructure,7274089,Expense
+2017,Grants,46895669,Revenue
+2007,Education,39610989,Expense
+2007,Education,47107696,Expense
+2023,Grants,20137207,Revenue
+2020,Defense,4669245,Expense
+2003,Natural Resources,24153285,Revenue
+2011,Foreign Aid,4496996,Revenue
+2015,Natural Resources,20711003,Revenue
+2022,Defense,47247468,Expense
+2012,Infrastructure,1974286,Expense
+2007,Foreign Aid,36650508,Revenue
+2021,Education,36992536,Expense
+2013,Tax Revenue,8619090,Revenue
+2018,Social Welfare,5896678,Expense
+2002,Defense,45206803,Expense
+2010,Healthcare,43616095,Expense
+2020,Grants,27364439,Revenue
+2002,Defense,13220305,Expense
+2004,Infrastructure,41504852,Expense
+2020,Foreign Aid,6750294,Revenue
+2004,Foreign Aid,37971090,Revenue
+2005,Education,35672828,Expense
+2011,Foreign Aid,11191910,Revenue
+2012,Natural Resources,16348322,Revenue
+2008,Defense,7278649,Expense
+2007,Healthcare,18305582,Expense
+2015,Natural Resources,34036219,Revenue
+2000,Natural Resources,45338674,Revenue
+2011,Healthcare,2545256,Expense
+2018,Natural Resources,3757773,Revenue
+2006,Natural Resources,1337608,Revenue
+2001,Natural Resources,17707413,Revenue
+2020,Healthcare,45229677,Expense
+2013,Defense,45719324,Expense
+2018,Grants,7508285,Revenue
+2015,Social Welfare,11231739,Expense
+2015,Defense,12550769,Expense
+2019,Tax Revenue,40710785,Revenue
+2002,Infrastructure,37112422,Expense
+2017,Tax Revenue,46120441,Revenue
+2007,Foreign Aid,13739860,Revenue
+2001,Foreign Aid,3755931,Revenue
+2015,Defense,49632755,Expense
+2021,Social Welfare,14344329,Expense
+2002,Tax Revenue,20176980,Revenue
+2015,Infrastructure,36040184,Expense
+2018,Defense,9556780,Expense
+2010,Tax Revenue,4119821,Revenue
+2000,Infrastructure,37527585,Expense
+2005,Grants,26508044,Revenue
+2022,Education,25870577,Expense
+2006,Infrastructure,12718265,Expense
+2017,Tax Revenue,5147225,Revenue
+2007,Infrastructure,45830001,Expense
+2002,Foreign Aid,45008735,Revenue
+2005,Natural Resources,47859074,Revenue
+2006,Defense,9874796,Expense
+2021,Education,26324112,Expense
+2006,Grants,34227122,Revenue
+2009,Natural Resources,20333863,Revenue
+2021,Tax Revenue,18727483,Revenue
+2014,Grants,6742409,Revenue
+2007,Infrastructure,12987313,Expense
+2014,Foreign Aid,3280183,Revenue
+2001,Tax Revenue,27603063,Revenue
+2007,Education,28291213,Expense
+2013,Tax Revenue,19436064,Revenue
+2009,Grants,11617618,Revenue
+2002,Social Welfare,48441828,Expense
+2022,Social Welfare,2556832,Expense
+2003,Grants,28704824,Revenue
+2004,Tax Revenue,21137734,Revenue
+2007,Natural Resources,31428441,Revenue
+2023,Education,34553463,Expense
+2003,Healthcare,47188256,Expense
+2006,Tax Revenue,38153992,Revenue
+2013,Healthcare,13042369,Expense
+2014,Foreign Aid,19094472,Revenue
+2010,Foreign Aid,13486420,Revenue
+2011,Healthcare,45025380,Expense
+2023,Grants,34081825,Revenue
+2014,Tax Revenue,2845849,Revenue
+2018,Healthcare,19151488,Expense
+2021,Infrastructure,42257868,Expense
+2016,Social Welfare,3634894,Expense
+2001,Infrastructure,45984434,Expense
+2022,Tax Revenue,43220879,Revenue
+2019,Natural Resources,12727419,Revenue
+2023,Natural Resources,48942632,Revenue
+2008,Social Welfare,30086524,Expense
+2018,Tax Revenue,23128458,Revenue
+2015,Grants,42381924,Revenue
+2023,Social Welfare,4149768,Expense
+2019,Defense,12751382,Expense
+2011,Tax Revenue,27260256,Revenue
+2002,Education,1316134,Expense
+2021,Grants,24379362,Revenue
+2008,Education,43694772,Expense
+2013,Defense,20996147,Expense
+2010,Social Welfare,20869510,Expense
+2008,Tax Revenue,28486941,Revenue
+2012,Natural Resources,14099868,Revenue
+2003,Tax Revenue,15077704,Revenue
+2005,Healthcare,48116195,Expense
+2009,Infrastructure,11980928,Expense
+2013,Defense,32016648,Expense
+2002,Social Welfare,38265425,Expense
+2004,Social Welfare,11770512,Expense
+2020,Social Welfare,37742650,Expense
+2018,Defense,25870762,Expense
+2013,Healthcare,14919413,Expense
+2022,Defense,18871207,Expense
+2011,Infrastructure,45628310,Expense
+2020,Foreign Aid,39402010,Revenue
+2010,Healthcare,37606254,Expense
+2000,Infrastructure,18133680,Expense
+2020,Defense,12833600,Expense
+2011,Infrastructure,1724002,Expense
+2005,Education,46516122,Expense
+2006,Tax Revenue,17657520,Revenue
+2005,Social Welfare,17992555,Expense
+2019,Natural Resources,29638083,Revenue
+2007,Social Welfare,18105891,Expense
+2001,Healthcare,44154749,Expense
+2016,Education,19210090,Expense
+2019,Social Welfare,35615915,Expense
+2016,Foreign Aid,30410120,Revenue
+2018,Defense,10324006,Expense
+2016,Tax Revenue,3639936,Revenue
+2011,Tax Revenue,34129903,Revenue
+2002,Infrastructure,45298807,Expense
+2006,Social Welfare,38790103,Expense
+2020,Education,22596414,Expense
+2014,Grants,30980964,Revenue
+2001,Foreign Aid,18652300,Revenue
+2022,Natural Resources,20034745,Revenue
+2006,Healthcare,4357299,Expense
+2008,Healthcare,32525717,Expense
+2007,Infrastructure,12333250,Expense
+2005,Tax Revenue,44520278,Revenue
+2009,Infrastructure,25930462,Expense
+2022,Infrastructure,1875700,Expense
+2008,Foreign Aid,23768342,Revenue
+2011,Tax Revenue,13745245,Revenue
+2020,Grants,5144114,Revenue
+2010,Tax Revenue,2416929,Revenue
+2010,Foreign Aid,46296556,Revenue
+2004,Tax Revenue,14344790,Revenue
+2012,Tax Revenue,21742613,Revenue
+2008,Healthcare,44866569,Expense
+2018,Grants,33250412,Revenue
+2017,Defense,41859895,Expense
+2013,Defense,46950287,Expense
+2009,Tax Revenue,11130393,Revenue
+2002,Education,41515843,Expense
+2022,Infrastructure,39452698,Expense
+2001,Healthcare,16339355,Expense
+2001,Tax Revenue,35329260,Revenue
+2008,Healthcare,29623033,Expense
+2005,Foreign Aid,20075105,Revenue
+2003,Natural Resources,38392664,Revenue
+2015,Defense,17365536,Expense
+2014,Infrastructure,27120173,Expense
+2016,Healthcare,43009443,Expense
+2013,Healthcare,22061621,Expense
+2022,Tax Revenue,17967126,Revenue
+2013,Healthcare,44166677,Expense
+2020,Natural Resources,18750101,Revenue
+2022,Defense,14664884,Expense
+2003,Tax Revenue,17356446,Revenue
+2013,Social Welfare,34748133,Expense
+2018,Grants,38371652,Revenue
+2019,Foreign Aid,34956399,Revenue
+2001,Healthcare,28614449,Expense
+2009,Infrastructure,21284939,Expense
+2003,Defense,14463014,Expense
+2015,Healthcare,39109249,Expense
+2007,Tax Revenue,8985527,Revenue
+2015,Natural Resources,9433658,Revenue
+2006,Education,46928206,Expense
+2017,Natural Resources,25197535,Revenue
+2016,Tax Revenue,49540318,Revenue
+2020,Tax Revenue,3258607,Revenue
+2011,Education,7439200,Expense
+2006,Healthcare,31046178,Expense
+2005,Social Welfare,16206494,Expense
+2003,Social Welfare,34031022,Expense
+2000,Social Welfare,3903195,Expense
+2001,Foreign Aid,41619863,Revenue
+2008,Tax Revenue,34859957,Revenue
+2017,Natural Resources,18061350,Revenue
+2020,Healthcare,5033373,Expense
+2011,Social Welfare,31412343,Expense
+2000,Defense,30247232,Expense
+2007,Education,27023835,Expense
+2002,Education,36889293,Expense
+2019,Infrastructure,19020777,Expense
+2014,Healthcare,4138144,Expense
+2011,Defense,33677169,Expense
+2012,Natural Resources,16419342,Revenue
+2011,Foreign Aid,35627395,Revenue
+2010,Grants,46932101,Revenue
+2018,Healthcare,5000522,Expense
+2023,Foreign Aid,10941752,Revenue
+2006,Defense,34883341,Expense
+2003,Defense,21642939,Expense
+2003,Infrastructure,4572819,Expense
+2006,Grants,1370345,Revenue
+2011,Defense,8827809,Expense
+2004,Social Welfare,49819939,Expense
+2019,Foreign Aid,34911343,Revenue
+2022,Foreign Aid,31891744,Revenue
+2007,Healthcare,18346476,Expense
+2006,Defense,3721938,Expense
+2017,Defense,14300854,Expense
+2002,Healthcare,35654778,Expense
+2013,Natural Resources,37181792,Revenue
+2009,Grants,20841029,Revenue
+2023,Tax Revenue,13307179,Revenue
+2002,Tax Revenue,30095485,Revenue
+2023,Infrastructure,47942887,Expense
+2019,Education,15816117,Expense
+2003,Natural Resources,39044909,Revenue
+2005,Foreign Aid,7797711,Revenue
+2020,Social Welfare,48363026,Expense
+2020,Education,20599524,Expense
+2004,Healthcare,3435586,Expense
+2012,Social Welfare,40370523,Expense
+2010,Foreign Aid,6312673,Revenue
+2006,Natural Resources,18724013,Revenue
+2008,Social Welfare,49027407,Expense
+2022,Natural Resources,25392004,Revenue
+2022,Social Welfare,5363998,Expense
+2005,Foreign Aid,3043937,Revenue
+2009,Foreign Aid,19531858,Revenue
+2003,Defense,2595084,Expense
+2016,Foreign Aid,5687779,Revenue
+2006,Tax Revenue,19159631,Revenue
+2004,Defense,36778451,Expense
+2017,Healthcare,39108377,Expense
+2020,Social Welfare,10914782,Expense
+2011,Defense,11532456,Expense
+2009,Foreign Aid,28171981,Revenue
+2013,Healthcare,27496297,Expense
+2017,Healthcare,4815088,Expense
+2018,Healthcare,8924872,Expense
+2003,Infrastructure,36573793,Expense
+2004,Healthcare,13670289,Expense
+2016,Grants,27426782,Revenue
+2009,Infrastructure,10547954,Expense
+2020,Tax Revenue,27584247,Revenue
+2005,Defense,13846536,Expense
+2013,Social Welfare,36556600,Expense
+2019,Education,29308980,Expense
+2002,Foreign Aid,47404535,Revenue
+2023,Natural Resources,5443054,Revenue
+2019,Social Welfare,24310575,Expense
+2009,Foreign Aid,13472296,Revenue
+2018,Defense,2020197,Expense
+2020,Infrastructure,36517074,Expense
+2009,Social Welfare,9890459,Expense
+2005,Grants,34725381,Revenue
+2023,Natural Resources,36812350,Revenue
+2004,Tax Revenue,10455191,Revenue
+2009,Tax Revenue,42956888,Revenue
+2016,Natural Resources,42367145,Revenue
+2013,Healthcare,6678712,Expense
+2013,Grants,33294613,Revenue
+2011,Natural Resources,10035670,Revenue
+2006,Education,30740764,Expense
+2003,Grants,8785064,Revenue
+2008,Infrastructure,16954026,Expense
+2019,Tax Revenue,12586535,Revenue
+2006,Education,24626816,Expense
+2010,Education,4877542,Expense
+2010,Defense,42821365,Expense
+2009,Tax Revenue,36983083,Revenue
+2006,Grants,13495405,Revenue
+2020,Natural Resources,46698362,Revenue
+2022,Tax Revenue,26572665,Revenue
+2019,Foreign Aid,25244526,Revenue
+2023,Social Welfare,8351146,Expense
+2010,Education,3051073,Expense
+2015,Education,48350975,Expense
+2012,Tax Revenue,29498668,Revenue
+2005,Grants,8506977,Revenue
+2003,Grants,14038224,Revenue
+2018,Social Welfare,42614405,Expense
+2008,Infrastructure,24813484,Expense
+2008,Tax Revenue,4034948,Revenue
+2018,Healthcare,37163546,Expense
+2014,Healthcare,2089996,Expense
+2005,Natural Resources,11876093,Revenue
+2007,Tax Revenue,47716911,Revenue
+2008,Defense,18564545,Expense
+2008,Healthcare,40517616,Expense
+2002,Defense,18457843,Expense
+2005,Tax Revenue,40365534,Revenue
+2005,Tax Revenue,47219412,Revenue
+2022,Defense,20735356,Expense
+2012,Natural Resources,42060300,Revenue
+2007,Foreign Aid,39673177,Revenue
+2002,Education,25130766,Expense
+2007,Healthcare,38027866,Expense
+2004,Grants,12011808,Revenue
+2010,Education,10383728,Expense
+2017,Grants,29339475,Revenue
+2000,Foreign Aid,21843242,Revenue
+2015,Natural Resources,32647341,Revenue
+2022,Infrastructure,28865461,Expense
+2018,Tax Revenue,4579230,Revenue
+2017,Foreign Aid,19215562,Revenue
+2010,Defense,17194657,Expense
+2002,Social Welfare,16718413,Expense
+2006,Social Welfare,46220952,Expense
+2020,Defense,35543440,Expense
+2012,Grants,32006285,Revenue
+2014,Social Welfare,46496769,Expense
+2001,Foreign Aid,37943327,Revenue
+2018,Foreign Aid,31573658,Revenue
+2020,Social Welfare,1702512,Expense
+2002,Education,12056088,Expense
+2015,Infrastructure,36216702,Expense
+2018,Defense,18523753,Expense
+2008,Tax Revenue,11060220,Revenue
+2020,Infrastructure,20403155,Expense
+2014,Infrastructure,5221297,Expense
+2014,Education,23380549,Expense
+2010,Tax Revenue,10784977,Revenue
+2023,Social Welfare,41803854,Expense
+2007,Education,27645323,Expense
+2015,Infrastructure,3132837,Expense
+2007,Healthcare,7963565,Expense
+2000,Natural Resources,25333071,Revenue
+2018,Defense,25827256,Expense
+2020,Natural Resources,7115067,Revenue
+2022,Defense,35720642,Expense
+2005,Education,4931643,Expense
+2004,Healthcare,6102884,Expense
+2013,Education,11418985,Expense
+2004,Social Welfare,4350774,Expense
+2015,Healthcare,22231333,Expense
+2006,Defense,2790156,Expense
+2007,Defense,29925049,Expense
+2009,Infrastructure,12310854,Expense
+2018,Grants,15662035,Revenue
+2005,Tax Revenue,2148753,Revenue
+2009,Infrastructure,47435833,Expense
+2022,Tax Revenue,18063060,Revenue
+2012,Infrastructure,6351384,Expense
+2010,Grants,20847120,Revenue
+2011,Defense,30049924,Expense
+2005,Social Welfare,12537791,Expense
+2021,Grants,15613337,Revenue
+2006,Grants,11899988,Revenue
+2006,Tax Revenue,25971168,Revenue
+2010,Defense,35733559,Expense
+2020,Foreign Aid,21829509,Revenue
+2008,Defense,47741977,Expense
+2014,Natural Resources,13020291,Revenue
+2018,Defense,47137442,Expense
+2016,Healthcare,5563425,Expense
+2013,Social Welfare,4893850,Expense
+2006,Healthcare,30777966,Expense
+2000,Education,8751694,Expense
+2008,Infrastructure,28971628,Expense
+2003,Education,15089039,Expense
+2004,Infrastructure,6008697,Expense
+2011,Infrastructure,24460960,Expense
+2002,Social Welfare,15761788,Expense
+2023,Foreign Aid,12477565,Revenue
+2018,Grants,44580646,Revenue
+2011,Defense,28905991,Expense
+2013,Natural Resources,48096198,Revenue
+2022,Social Welfare,26857783,Expense
+2001,Education,26001183,Expense
+2008,Grants,35364390,Revenue
+2022,Infrastructure,7365120,Expense
+2010,Tax Revenue,37855740,Revenue
+2009,Social Welfare,10951919,Expense
+2010,Natural Resources,11216812,Revenue
+2012,Natural Resources,47930360,Revenue
+2015,Education,39725952,Expense
+2010,Tax Revenue,12180475,Revenue
+2008,Tax Revenue,18716218,Revenue
+2012,Grants,32494186,Revenue
+2001,Grants,49287561,Revenue
+2018,Defense,10881279,Expense
+2022,Defense,45644704,Expense
+2012,Foreign Aid,49823864,Revenue
+2017,Tax Revenue,3021941,Revenue
+2014,Foreign Aid,47398059,Revenue
+2000,Natural Resources,16129826,Revenue
+2018,Social Welfare,6873178,Expense
+2012,Foreign Aid,44973861,Revenue
+2019,Defense,3366154,Expense
+2008,Defense,1894029,Expense
+2010,Natural Resources,8422069,Revenue
+2020,Healthcare,1963817,Expense
+2009,Healthcare,32806902,Expense
+2017,Defense,25268724,Expense
+2000,Healthcare,33227676,Expense
+2017,Infrastructure,46207778,Expense
+2013,Natural Resources,46270517,Revenue
+2012,Social Welfare,1238842,Expense
+2001,Natural Resources,17466354,Revenue
+2015,Social Welfare,27289257,Expense
+2009,Social Welfare,18518988,Expense
+2020,Natural Resources,28236815,Revenue
+2013,Defense,47934381,Expense
+2005,Social Welfare,4184579,Expense
+2006,Natural Resources,43051795,Revenue
+2017,Natural Resources,30847637,Revenue
+2007,Healthcare,2024852,Expense
+2008,Foreign Aid,29271956,Revenue
+2022,Tax Revenue,3803582,Revenue
+2017,Natural Resources,15139007,Revenue
+2000,Social Welfare,4053554,Expense
+2003,Infrastructure,22862952,Expense
+2005,Education,33372155,Expense
+2021,Social Welfare,47990984,Expense
+2020,Social Welfare,4460463,Expense
+2009,Tax Revenue,33947462,Revenue
+2015,Foreign Aid,42067832,Revenue
+2022,Education,8068221,Expense
+2000,Infrastructure,19275684,Expense
+2012,Social Welfare,2925280,Expense
+2009,Grants,37801529,Revenue
+2020,Infrastructure,2109512,Expense
+2018,Tax Revenue,29161690,Revenue
+2018,Healthcare,7991177,Expense
+2000,Healthcare,27405377,Expense
+2009,Infrastructure,41205390,Expense
+2011,Foreign Aid,41422121,Revenue
+2020,Healthcare,45529444,Expense
+2016,Education,1901013,Expense
+2016,Healthcare,49248478,Expense
+2002,Social Welfare,49343353,Expense
+2013,Defense,10023509,Expense
+2011,Grants,8552966,Revenue
+2008,Defense,49924340,Expense
+2022,Tax Revenue,40804932,Revenue
+2008,Infrastructure,8850218,Expense
+2006,Foreign Aid,21859344,Revenue
+2003,Education,46775042,Expense
+2006,Education,39118918,Expense
+2011,Social Welfare,20767874,Expense
+2008,Healthcare,17631798,Expense
+2014,Infrastructure,26329480,Expense
+2003,Defense,44725235,Expense
+2009,Foreign Aid,32113842,Revenue
+2013,Defense,9705093,Expense
+2000,Foreign Aid,8480442,Revenue
+2013,Foreign Aid,47198536,Revenue
+2020,Social Welfare,23218633,Expense
+2020,Infrastructure,48151827,Expense
+2010,Education,25325312,Expense
+2020,Infrastructure,49430207,Expense
+2010,Defense,48902770,Expense
+2013,Grants,20678978,Revenue
+2023,Foreign Aid,49101285,Revenue
+2014,Natural Resources,31414618,Revenue
+2004,Education,24567572,Expense
+2021,Defense,8370964,Expense
+2018,Infrastructure,35196369,Expense
+2020,Tax Revenue,37658910,Revenue
+2020,Education,20832499,Expense
+2016,Defense,11872266,Expense
+2021,Natural Resources,37023061,Revenue
+2001,Social Welfare,27056385,Expense
+2009,Healthcare,48236566,Expense
+2003,Infrastructure,29763080,Expense
+2016,Tax Revenue,13331174,Revenue
+2011,Defense,4758782,Expense
+2005,Social Welfare,3208269,Expense
+2002,Defense,16010000,Expense
+2017,Natural Resources,21832286,Revenue
+2023,Defense,28194911,Expense
+2001,Defense,2786184,Expense
+2008,Social Welfare,31387205,Expense
+2013,Infrastructure,43538482,Expense
+2007,Foreign Aid,23676847,Revenue
+2005,Healthcare,32594749,Expense
+2011,Defense,25845372,Expense
+2022,Healthcare,35195312,Expense
+2012,Infrastructure,24927233,Expense
+2018,Defense,4700549,Expense
+2005,Defense,26364847,Expense
+2004,Defense,36877701,Expense
+2009,Grants,36974992,Revenue
+2004,Foreign Aid,41375443,Revenue
+2003,Infrastructure,45876671,Expense
+2020,Grants,43192666,Revenue
+2020,Social Welfare,3612905,Expense
+2004,Foreign Aid,44175693,Revenue
+2000,Tax Revenue,39851228,Revenue
+2004,Infrastructure,16883680,Expense
+2018,Grants,21566953,Revenue
+2006,Social Welfare,16613728,Expense
+2018,Infrastructure,45656771,Expense
+2019,Healthcare,20091231,Expense
+2011,Natural Resources,18835157,Revenue
+2020,Natural Resources,33184834,Revenue
+2022,Infrastructure,29137829,Expense
+2010,Foreign Aid,39160757,Revenue
+2002,Infrastructure,38594728,Expense
+2017,Healthcare,10689882,Expense
+2014,Tax Revenue,2461014,Revenue
+2018,Tax Revenue,6289883,Revenue
+2011,Defense,2079305,Expense
+2000,Infrastructure,35049211,Expense
+2020,Grants,17064817,Revenue
+2008,Natural Resources,34254765,Revenue
+2023,Tax Revenue,3774409,Revenue
+2001,Natural Resources,26942558,Revenue
+2023,Infrastructure,27116747,Expense
+2013,Healthcare,38845836,Expense
+2001,Social Welfare,10844985,Expense
+2001,Tax Revenue,26455636,Revenue
+2016,Grants,44634516,Revenue
+2018,Foreign Aid,44080179,Revenue
+2004,Social Welfare,13886809,Expense
+2004,Education,17657407,Expense
+2023,Education,43493393,Expense
+2013,Foreign Aid,27098973,Revenue
+2020,Infrastructure,31179478,Expense
+2004,Social Welfare,47629690,Expense
+2021,Grants,28582961,Revenue
+2015,Natural Resources,40370977,Revenue
+2018,Grants,19104232,Revenue
+2009,Social Welfare,29765356,Expense
+2007,Healthcare,38299767,Expense
+2022,Social Welfare,41198439,Expense
+2012,Defense,44388260,Expense
+2015,Foreign Aid,30330484,Revenue
+2002,Social Welfare,22164041,Expense
+2019,Social Welfare,47566538,Expense
+2020,Foreign Aid,17808974,Revenue
+2013,Defense,19566965,Expense
+2008,Healthcare,29386093,Expense
+2002,Defense,7941440,Expense
+2005,Natural Resources,7298985,Revenue
+2011,Healthcare,48858628,Expense
+2002,Foreign Aid,49873669,Revenue
+2000,Education,29201853,Expense
+2015,Infrastructure,6780952,Expense
+2021,Healthcare,13578638,Expense
+2010,Grants,10639761,Revenue
+2010,Defense,7871617,Expense
+2018,Social Welfare,29852595,Expense
+2010,Natural Resources,22840492,Revenue
+2021,Natural Resources,37473705,Revenue
+2012,Defense,7245023,Expense
+2002,Healthcare,44374322,Expense
+2012,Defense,14200286,Expense
+2020,Foreign Aid,7392617,Revenue
+2000,Social Welfare,4679607,Expense
+2022,Social Welfare,41551597,Expense
+2003,Foreign Aid,27163264,Revenue
+2015,Healthcare,27238847,Expense
+2001,Social Welfare,22885545,Expense
+2007,Foreign Aid,8313750,Revenue
+2021,Natural Resources,13836651,Revenue
+2010,Foreign Aid,8338386,Revenue
+2012,Grants,30423183,Revenue
+2021,Social Welfare,3933663,Expense
+2001,Natural Resources,5683813,Revenue
+2015,Healthcare,12736468,Expense
+2023,Grants,2041542,Revenue
+2014,Infrastructure,10545876,Expense
+2013,Social Welfare,47621034,Expense
+2004,Infrastructure,4581834,Expense
+2014,Education,19677256,Expense
+2006,Grants,2074507,Revenue
+2015,Grants,20704349,Revenue
+2006,Foreign Aid,22050659,Revenue
+2010,Tax Revenue,13471128,Revenue
+2008,Natural Resources,44962955,Revenue
+2023,Healthcare,43159280,Expense
+2019,Healthcare,4522344,Expense
+2002,Social Welfare,32134547,Expense
+2015,Foreign Aid,24416360,Revenue
+2023,Infrastructure,18454230,Expense
+2001,Natural Resources,14280655,Revenue
+2002,Education,45137957,Expense
+2004,Defense,10658509,Expense
+2008,Healthcare,28737757,Expense
+2017,Foreign Aid,34132164,Revenue
+2007,Foreign Aid,13035951,Revenue
+2013,Natural Resources,35971864,Revenue
+2003,Social Welfare,36219882,Expense
+2000,Education,15362426,Expense
+2017,Defense,23267060,Expense
+2020,Grants,16574615,Revenue
+2012,Tax Revenue,45168709,Revenue
+2003,Education,28039913,Expense
+2017,Tax Revenue,38366341,Revenue
+2014,Grants,3220014,Revenue
+2009,Education,39530719,Expense
+2006,Infrastructure,7203045,Expense
+2002,Infrastructure,6688236,Expense
+2013,Infrastructure,21829354,Expense
+2019,Healthcare,37012751,Expense
+2003,Grants,26861925,Revenue
+2002,Foreign Aid,46942471,Revenue
+2003,Social Welfare,15486738,Expense
+2017,Natural Resources,41671365,Revenue
+2023,Grants,44590490,Revenue
+2007,Grants,13484681,Revenue
+2000,Social Welfare,37627887,Expense
+2007,Defense,21907694,Expense
+2003,Tax Revenue,2866965,Revenue
+2008,Education,48141119,Expense
+2013,Education,32788321,Expense
+2016,Tax Revenue,32556073,Revenue
+2011,Social Welfare,30463784,Expense
+2012,Social Welfare,19077405,Expense
+2012,Tax Revenue,35894927,Revenue
+2014,Healthcare,11469888,Expense
+2017,Social Welfare,25313097,Expense
+2021,Grants,37201392,Revenue
+2021,Social Welfare,5942824,Expense
+2006,Infrastructure,21474677,Expense
+2018,Education,29523423,Expense
+2000,Infrastructure,6605933,Expense
+2022,Foreign Aid,23366799,Revenue
+2014,Healthcare,8541920,Expense
+2002,Foreign Aid,5373321,Revenue
+2017,Healthcare,35360446,Expense
+2003,Foreign Aid,36371161,Revenue
+2008,Infrastructure,31421815,Expense
+2012,Grants,36525273,Revenue
+2016,Grants,20017424,Revenue
+2020,Infrastructure,35509990,Expense
+2016,Natural Resources,7634103,Revenue
+2003,Healthcare,1165937,Expense
+2012,Education,37513066,Expense
+2009,Tax Revenue,13294894,Revenue
+2005,Infrastructure,42737678,Expense
+2023,Foreign Aid,8675050,Revenue
+2010,Natural Resources,32252552,Revenue
+2016,Defense,2334662,Expense
+2012,Grants,46511024,Revenue
+2019,Infrastructure,11027302,Expense
+2016,Social Welfare,2029456,Expense
+2014,Foreign Aid,26903986,Revenue
+2009,Infrastructure,23926535,Expense
+2002,Infrastructure,13749618,Expense
+2023,Social Welfare,16211532,Expense
+2022,Education,14123570,Expense
+2001,Education,16067284,Expense
+2013,Healthcare,27146197,Expense
+2012,Defense,22983157,Expense
+2000,Foreign Aid,39171844,Revenue
+2019,Infrastructure,31865466,Expense
+2001,Infrastructure,16249783,Expense
+2009,Social Welfare,42487064,Expense
+2005,Education,30961121,Expense
+2021,Defense,8910753,Expense
+2021,Social Welfare,8977844,Expense
+2016,Education,42545703,Expense
+2011,Healthcare,36261486,Expense
+2005,Healthcare,18755738,Expense
+2010,Foreign Aid,27412609,Revenue
+2014,Tax Revenue,31326829,Revenue
+2018,Tax Revenue,2118828,Revenue
+2007,Grants,38992026,Revenue
+2011,Foreign Aid,23574619,Revenue
+2002,Social Welfare,1944552,Expense
+2016,Education,30121888,Expense
+2019,Social Welfare,8228136,Expense
+2015,Grants,3019409,Revenue
+2021,Defense,36427058,Expense
+2017,Foreign Aid,3746292,Revenue
+2015,Healthcare,19016117,Expense
+2009,Grants,28851608,Revenue
+2000,Tax Revenue,28511602,Revenue
+2008,Infrastructure,36163536,Expense
+2019,Social Welfare,21055180,Expense
+2004,Tax Revenue,41618483,Revenue
+2017,Infrastructure,5813199,Expense
+2020,Foreign Aid,15776738,Revenue
+2023,Defense,16592314,Expense
+2009,Education,11930822,Expense
+2018,Defense,49203745,Expense
+2019,Healthcare,18583205,Expense
+2009,Healthcare,19223868,Expense
+2015,Defense,43976631,Expense
+2020,Tax Revenue,49414938,Revenue
+2015,Natural Resources,49634028,Revenue
+2008,Education,25531506,Expense
+2015,Foreign Aid,49653763,Revenue
+2021,Healthcare,17207219,Expense
+2003,Education,17326673,Expense
+2009,Natural Resources,25093194,Revenue
+2007,Defense,49884879,Expense
+2003,Infrastructure,20295093,Expense
+2008,Natural Resources,40433233,Revenue
+2017,Education,8288780,Expense
+2010,Defense,4045671,Expense
+2010,Grants,48470492,Revenue
+2003,Natural Resources,38818843,Revenue
+2023,Infrastructure,21503994,Expense
+2014,Infrastructure,27561890,Expense
+2022,Defense,48256498,Expense
+2002,Grants,20691530,Revenue
+2001,Infrastructure,41907564,Expense
+2000,Education,35680707,Expense
+2010,Natural Resources,28833897,Revenue
+2013,Infrastructure,30205516,Expense
+2022,Infrastructure,1095246,Expense
+2010,Defense,19024926,Expense
+2009,Tax Revenue,26109982,Revenue
+2000,Natural Resources,18834013,Revenue
+2017,Foreign Aid,29283100,Revenue
+2017,Foreign Aid,1782285,Revenue
+2014,Tax Revenue,26551155,Revenue
+2008,Grants,18570251,Revenue
+2002,Tax Revenue,46301271,Revenue
+2014,Defense,6226860,Expense
+2022,Education,25452841,Expense
+2020,Natural Resources,3347357,Revenue
+2002,Social Welfare,30936200,Expense
+2002,Social Welfare,32836184,Expense
+2001,Tax Revenue,44670861,Revenue
+2003,Natural Resources,30102242,Revenue
+2003,Tax Revenue,24385452,Revenue
+2001,Foreign Aid,41278526,Revenue
+2016,Tax Revenue,40329422,Revenue
+2005,Healthcare,5533827,Expense
+2009,Foreign Aid,26463106,Revenue
+2007,Natural Resources,28575506,Revenue
+2011,Natural Resources,43116963,Revenue
+2021,Foreign Aid,21794524,Revenue
+2004,Infrastructure,25053177,Expense
+2020,Defense,33778481,Expense
+2014,Healthcare,38581052,Expense
+2012,Social Welfare,46778190,Expense
+2020,Foreign Aid,2613892,Revenue
+2014,Grants,23602591,Revenue
+2021,Grants,19853637,Revenue
+2001,Natural Resources,10992963,Revenue
+2020,Natural Resources,48963251,Revenue
+2012,Social Welfare,32301856,Expense
+2023,Tax Revenue,16326041,Revenue
+2016,Tax Revenue,4648024,Revenue
+2020,Infrastructure,37755581,Expense
+2012,Natural Resources,17039549,Revenue
+2013,Tax Revenue,4056692,Revenue
+2020,Social Welfare,37930164,Expense
+2014,Healthcare,29265972,Expense
+2007,Defense,49088208,Expense
+2022,Education,11901076,Expense
+2015,Defense,19870080,Expense
+2018,Foreign Aid,35077688,Revenue
+2023,Foreign Aid,47881182,Revenue
+2017,Infrastructure,18200813,Expense
+2015,Natural Resources,30564535,Revenue
+2006,Grants,39789504,Revenue
+2000,Tax Revenue,6584455,Revenue
+2012,Natural Resources,25857571,Revenue
+2021,Education,42867175,Expense
+2022,Natural Resources,30434007,Revenue
+2005,Infrastructure,44113372,Expense
+2017,Foreign Aid,33882100,Revenue
+2020,Grants,11560986,Revenue
+2004,Education,35408596,Expense
+2018,Defense,28882037,Expense
+2003,Social Welfare,28712468,Expense
+2006,Defense,17067483,Expense
+2018,Natural Resources,26865952,Revenue
+2005,Natural Resources,32571013,Revenue
+2019,Foreign Aid,12908021,Revenue
+2022,Healthcare,41077349,Expense
+2005,Grants,27490727,Revenue
+2023,Infrastructure,42452784,Expense
+2015,Infrastructure,17122059,Expense
+2012,Social Welfare,1956135,Expense
+2018,Infrastructure,1778677,Expense
+2022,Social Welfare,27090265,Expense
+2013,Social Welfare,38674217,Expense
+2008,Healthcare,16718261,Expense
+2014,Defense,8362808,Expense
+2004,Grants,45626627,Revenue
+2001,Infrastructure,13528936,Expense
+2001,Social Welfare,18935107,Expense
+2012,Natural Resources,42830099,Revenue
+2018,Infrastructure,26511850,Expense
+2012,Foreign Aid,14298900,Revenue
+2009,Foreign Aid,12559149,Revenue
+2010,Natural Resources,15696820,Revenue
+2011,Healthcare,8301882,Expense
+2012,Infrastructure,40809818,Expense
+2010,Infrastructure,40999468,Expense
+2020,Infrastructure,28720587,Expense
+2001,Social Welfare,33333624,Expense
+2005,Natural Resources,39077395,Revenue
+2008,Foreign Aid,27450165,Revenue
+2023,Natural Resources,3620191,Revenue
+2012,Tax Revenue,1792659,Revenue
+2005,Social Welfare,4217755,Expense
+2002,Foreign Aid,8409125,Revenue
+2014,Social Welfare,6602435,Expense
+2018,Healthcare,5569407,Expense
+2017,Grants,30832641,Revenue
+2017,Education,36374573,Expense
+2012,Education,32171687,Expense
+2016,Healthcare,19653382,Expense
+2008,Tax Revenue,40499664,Revenue
+2004,Education,4744483,Expense
+2009,Infrastructure,48902940,Expense
+2014,Foreign Aid,34039875,Revenue
+2009,Social Welfare,19788881,Expense
+2006,Tax Revenue,38618685,Revenue
+2023,Social Welfare,22473687,Expense
+2012,Infrastructure,41235914,Expense
+2001,Foreign Aid,1962105,Revenue
+2006,Tax Revenue,36149778,Revenue
+2014,Education,35483705,Expense
+2020,Healthcare,9273676,Expense
+2022,Education,7083212,Expense
+2006,Education,43009798,Expense
+2011,Healthcare,37807111,Expense
+2015,Defense,47700673,Expense
+2011,Natural Resources,13913984,Revenue
+2014,Foreign Aid,43895834,Revenue
+2021,Defense,14849345,Expense
+2014,Defense,40240435,Expense
+2013,Infrastructure,48986024,Expense
+2022,Education,48614567,Expense
+2006,Tax Revenue,20543030,Revenue
+2007,Infrastructure,39103340,Expense
+2018,Healthcare,45907139,Expense
+2014,Grants,10178847,Revenue
+2022,Tax Revenue,20187798,Revenue
+2009,Defense,49848936,Expense
+2011,Healthcare,1594478,Expense
+2005,Defense,25142391,Expense
+2017,Grants,39128386,Revenue
+2023,Healthcare,37136496,Expense
+2014,Social Welfare,44785357,Expense
+2005,Education,18086549,Expense
+2016,Grants,45189260,Revenue
+2002,Infrastructure,14923076,Expense
+2010,Social Welfare,47375447,Expense
+2017,Social Welfare,14019846,Expense
+2010,Natural Resources,38440264,Revenue
+2003,Natural Resources,7867859,Revenue
+2004,Education,32251118,Expense
+2015,Defense,39007601,Expense
+2000,Healthcare,44884759,Expense
+2005,Infrastructure,17492837,Expense
+2001,Social Welfare,25376379,Expense
+2018,Infrastructure,27849702,Expense
+2022,Tax Revenue,44378907,Revenue
+2015,Healthcare,8619207,Expense
+2005,Natural Resources,5954667,Revenue
+2019,Social Welfare,6305943,Expense
+2008,Education,2708552,Expense
+2008,Grants,6956667,Revenue
+2019,Healthcare,38808726,Expense
+2017,Education,48929183,Expense
+2008,Infrastructure,5319313,Expense
+2002,Education,40285286,Expense
+2023,Natural Resources,5612775,Revenue
+2004,Defense,23191596,Expense
+2010,Social Welfare,9899659,Expense
+2021,Healthcare,22460673,Expense
+2006,Social Welfare,37497255,Expense
+2001,Education,11915360,Expense
+2007,Education,13781766,Expense
+2020,Defense,16370516,Expense
+2022,Social Welfare,13411119,Expense
+2010,Grants,18430920,Revenue
+2003,Healthcare,31637789,Expense
+2003,Grants,32008631,Revenue
+2002,Infrastructure,35192608,Expense
+2013,Foreign Aid,19405584,Revenue
+2009,Infrastructure,20345124,Expense
+2009,Grants,43671717,Revenue
+2010,Healthcare,9872159,Expense
+2019,Natural Resources,29250897,Revenue
+2009,Foreign Aid,16378959,Revenue
+2022,Social Welfare,25889280,Expense
+2018,Infrastructure,30125684,Expense
+2012,Defense,49053618,Expense
+2014,Healthcare,22854660,Expense
+2022,Tax Revenue,14914013,Revenue
+2007,Tax Revenue,15658621,Revenue
+2011,Defense,33551222,Expense
+2015,Education,29324429,Expense
+2016,Education,28912067,Expense
+2019,Foreign Aid,11573974,Revenue
+2016,Grants,11038212,Revenue
+2004,Social Welfare,45253586,Expense
+2003,Natural Resources,21784315,Revenue
+2009,Defense,6609490,Expense
+2021,Grants,1162411,Revenue
+2007,Natural Resources,4135635,Revenue
+2022,Social Welfare,42673671,Expense
+2016,Foreign Aid,47625507,Revenue
+2020,Infrastructure,37091717,Expense
+2001,Natural Resources,32493166,Revenue
+2019,Foreign Aid,48207316,Revenue
+2013,Foreign Aid,28062999,Revenue
+2002,Infrastructure,36165155,Expense
+2019,Tax Revenue,8476905,Revenue
+2023,Defense,9424298,Expense
+2005,Tax Revenue,18111183,Revenue
+2010,Defense,4516259,Expense
+2011,Social Welfare,8681935,Expense
+2005,Infrastructure,14090920,Expense
+2001,Education,8584118,Expense
+2004,Tax Revenue,46154830,Revenue
+2016,Tax Revenue,25837873,Revenue
+2001,Education,40980813,Expense
+2015,Infrastructure,13332762,Expense
+2011,Defense,41619335,Expense
+2013,Natural Resources,26634453,Revenue
+2023,Grants,42264976,Revenue
+2016,Healthcare,31955528,Expense
+2023,Foreign Aid,34612413,Revenue
+2018,Defense,43903964,Expense
+2011,Grants,22845113,Revenue
+2023,Education,31661926,Expense
+2005,Social Welfare,21008532,Expense
+2006,Foreign Aid,47392527,Revenue
+2018,Social Welfare,15010763,Expense
+2021,Foreign Aid,39366568,Revenue
+2013,Foreign Aid,34312980,Revenue
+2001,Infrastructure,22823155,Expense
+2011,Infrastructure,37770804,Expense
+2006,Infrastructure,44735213,Expense
+2019,Healthcare,23391142,Expense
+2015,Social Welfare,18946044,Expense
+2020,Grants,15739940,Revenue
+2001,Infrastructure,34656402,Expense
+2007,Foreign Aid,18280782,Revenue
+2017,Social Welfare,20370251,Expense
+2014,Healthcare,19067007,Expense
+2003,Healthcare,44358330,Expense
+2017,Defense,30099024,Expense
+2023,Defense,40849197,Expense
+2001,Social Welfare,14328658,Expense
+2012,Infrastructure,11356561,Expense
+2022,Social Welfare,7301985,Expense
+2007,Grants,26236721,Revenue
+2012,Foreign Aid,40385974,Revenue
+2006,Foreign Aid,40720611,Revenue
+2014,Education,19240793,Expense
+2010,Infrastructure,47034656,Expense
+2014,Defense,10957563,Expense
+2007,Infrastructure,25324161,Expense
+2007,Healthcare,20261992,Expense
+2018,Defense,44902111,Expense
+2009,Infrastructure,11542377,Expense
+2022,Social Welfare,13117412,Expense
+2012,Tax Revenue,11541787,Revenue
+2017,Infrastructure,9513555,Expense
+2021,Social Welfare,6609154,Expense
+2013,Defense,31582675,Expense
+2000,Foreign Aid,19098369,Revenue
+2018,Social Welfare,40680127,Expense
+2023,Foreign Aid,2313376,Revenue
+2004,Defense,30978133,Expense
+2022,Defense,43993809,Expense
+2022,Healthcare,21484861,Expense
+2002,Foreign Aid,37810748,Revenue
+2011,Natural Resources,43290572,Revenue
+2018,Education,13460619,Expense
+2010,Tax Revenue,46062085,Revenue
+2010,Grants,16642953,Revenue
+2011,Natural Resources,47558079,Revenue
+2006,Defense,6451767,Expense
+2020,Tax Revenue,23597789,Revenue
+2018,Tax Revenue,28862306,Revenue
+2009,Tax Revenue,24508290,Revenue
+2023,Natural Resources,15726576,Revenue
+2008,Defense,36932868,Expense
+2008,Tax Revenue,12933405,Revenue
+2020,Foreign Aid,21521458,Revenue
+2007,Education,13528267,Expense
+2004,Social Welfare,3901800,Expense
+2008,Education,39619679,Expense
+2010,Education,24159250,Expense
+2006,Education,41271950,Expense
+2003,Education,42854581,Expense
+2003,Foreign Aid,13248192,Revenue
+2017,Healthcare,6247360,Expense
+2002,Defense,19772427,Expense
+2020,Tax Revenue,17901452,Revenue
+2020,Grants,48907568,Revenue
+2000,Social Welfare,33666750,Expense
+2008,Foreign Aid,35362624,Revenue
+2005,Tax Revenue,29469328,Revenue
+2015,Infrastructure,3015043,Expense
+2007,Infrastructure,8276499,Expense
+2009,Natural Resources,23703222,Revenue
+2020,Grants,45149179,Revenue
+2012,Education,30549355,Expense
+2000,Education,29109827,Expense
+2010,Natural Resources,29123959,Revenue
+2019,Social Welfare,32470714,Expense
+2014,Grants,45561585,Revenue
+2011,Natural Resources,48246722,Revenue
+2002,Infrastructure,30625777,Expense
+2013,Healthcare,22228099,Expense
+2002,Defense,26376447,Expense
+2007,Healthcare,23858190,Expense
+2004,Grants,20611801,Revenue
+2004,Healthcare,39874127,Expense
+2021,Grants,16752822,Revenue
+2011,Infrastructure,33383667,Expense
+2011,Grants,27468233,Revenue
+2002,Tax Revenue,32739379,Revenue
+2008,Tax Revenue,14259181,Revenue
+2010,Social Welfare,8852331,Expense
+2015,Social Welfare,2862848,Expense
+2011,Tax Revenue,45575805,Revenue
+2009,Infrastructure,35186974,Expense
+2001,Education,45798364,Expense
+2015,Defense,19797888,Expense
+2005,Education,38944571,Expense
+2012,Foreign Aid,42831334,Revenue
+2001,Natural Resources,40021265,Revenue
+2015,Natural Resources,20477769,Revenue
+2012,Tax Revenue,10170915,Revenue
+2023,Defense,9945878,Expense
+2008,Defense,11712997,Expense
+2015,Social Welfare,40000833,Expense
+2014,Infrastructure,31326786,Expense
+2007,Foreign Aid,46891042,Revenue
+2018,Defense,36002875,Expense
+2020,Defense,45763357,Expense
+2006,Healthcare,3114154,Expense
+2015,Grants,6587463,Revenue
+2021,Education,49839847,Expense
+2005,Grants,19952136,Revenue
+2014,Social Welfare,21978004,Expense
+2015,Infrastructure,22810171,Expense
+2006,Defense,24545705,Expense
+2023,Healthcare,23002259,Expense
+2008,Tax Revenue,28469111,Revenue
+2013,Education,38973310,Expense
+2005,Defense,21897731,Expense
+2023,Foreign Aid,21985884,Revenue
+2021,Education,22324274,Expense
+2022,Natural Resources,36283095,Revenue
+2010,Infrastructure,35506027,Expense
+2012,Tax Revenue,35923674,Revenue
+2011,Foreign Aid,46638213,Revenue
+2002,Grants,29498116,Revenue
+2009,Foreign Aid,7596506,Revenue
+2021,Defense,3152380,Expense
+2010,Education,33018776,Expense
+2018,Healthcare,21969161,Expense
+2010,Natural Resources,49676168,Revenue
+2011,Natural Resources,41209400,Revenue
+2022,Healthcare,41780233,Expense
+2002,Foreign Aid,11108759,Revenue
+2013,Grants,24272627,Revenue
+2009,Foreign Aid,9184463,Revenue
+2009,Infrastructure,45286154,Expense
+2019,Healthcare,8634198,Expense
+2013,Natural Resources,13834018,Revenue
+2006,Natural Resources,39363365,Revenue
+2014,Education,37017117,Expense
+2009,Grants,24633660,Revenue
+2015,Defense,28148720,Expense
+2010,Healthcare,47412955,Expense
+2003,Tax Revenue,47339875,Revenue
+2007,Natural Resources,13891879,Revenue
+2008,Defense,10453851,Expense
+2010,Defense,43784041,Expense
+2002,Foreign Aid,16738173,Revenue
+2013,Tax Revenue,36760902,Revenue
+2018,Education,47843071,Expense
+2001,Tax Revenue,1710278,Revenue
+2018,Grants,33272929,Revenue
+2003,Healthcare,18357456,Expense
+2008,Tax Revenue,6775440,Revenue
+2004,Grants,43267136,Revenue
+2022,Foreign Aid,9476356,Revenue
+2017,Foreign Aid,48555707,Revenue
+2002,Healthcare,47084251,Expense
+2016,Defense,21498175,Expense
+2022,Education,41408714,Expense
+2019,Defense,7453482,Expense
+2009,Healthcare,41583533,Expense
+2007,Tax Revenue,41964159,Revenue
+2006,Natural Resources,30274829,Revenue
+2006,Natural Resources,15696111,Revenue
+2009,Infrastructure,27678364,Expense
+2005,Natural Resources,20399711,Revenue
+2020,Infrastructure,8746703,Expense
+2018,Social Welfare,9152465,Expense
+2012,Defense,47970076,Expense
+2010,Grants,37032090,Revenue
+2014,Tax Revenue,26999399,Revenue
+2018,Grants,21556385,Revenue
+2019,Tax Revenue,23894745,Revenue
+2016,Infrastructure,42308148,Expense
+2012,Social Welfare,8099810,Expense
+2021,Natural Resources,22926638,Revenue
+2004,Defense,43731468,Expense
+2015,Foreign Aid,17368751,Revenue
+2018,Defense,34778235,Expense
+2018,Natural Resources,49823016,Revenue
+2003,Education,7879385,Expense
+2010,Social Welfare,47439562,Expense
+2010,Natural Resources,30665807,Revenue
+2008,Grants,29353823,Revenue
+2009,Tax Revenue,6279242,Revenue
+2004,Healthcare,12273005,Expense
+2017,Tax Revenue,8872805,Revenue
+2000,Grants,22193706,Revenue
+2009,Defense,9330518,Expense
+2023,Tax Revenue,44343577,Revenue
+2021,Natural Resources,18098674,Revenue
+2019,Education,6052718,Expense
+2013,Grants,23501043,Revenue
+2001,Defense,36542217,Expense
+2002,Education,27599614,Expense
+2019,Natural Resources,12434916,Revenue
+2000,Defense,28559889,Expense
+2009,Defense,36965686,Expense
+2011,Natural Resources,11542454,Revenue
+2015,Foreign Aid,42274792,Revenue
+2014,Tax Revenue,17496172,Revenue
+2010,Natural Resources,38989226,Revenue
+2012,Infrastructure,16110070,Expense
+2012,Education,13475131,Expense
+2023,Social Welfare,49998835,Expense
+2019,Education,6368181,Expense
+2004,Defense,43115748,Expense
+2000,Infrastructure,12521918,Expense
+2004,Healthcare,5130847,Expense
+2021,Defense,35171308,Expense
+2012,Tax Revenue,37929052,Revenue
+2006,Social Welfare,23067558,Expense
+2006,Natural Resources,37980841,Revenue
+2008,Defense,27836366,Expense
+2004,Social Welfare,15175568,Expense
+2021,Tax Revenue,46147087,Revenue
+2010,Social Welfare,21215183,Expense
+2000,Tax Revenue,18932751,Revenue
+2012,Tax Revenue,35246299,Revenue
+2000,Defense,5145664,Expense
+2012,Healthcare,13426265,Expense
+2011,Education,37046851,Expense
+2023,Tax Revenue,31586057,Revenue
+2014,Infrastructure,1745705,Expense
+2021,Healthcare,41250873,Expense
+2004,Defense,34534531,Expense
+2014,Tax Revenue,39281879,Revenue
+2005,Foreign Aid,22736260,Revenue
+2005,Natural Resources,42552307,Revenue
+2013,Natural Resources,28448564,Revenue
+2020,Grants,12435890,Revenue
+2002,Social Welfare,28047975,Expense
+2004,Infrastructure,22576261,Expense
+2021,Foreign Aid,42876623,Revenue
+2022,Natural Resources,20819208,Revenue
+2013,Tax Revenue,38790032,Revenue
+2007,Tax Revenue,25716734,Revenue
+2005,Grants,35378713,Revenue
+2011,Healthcare,3085627,Expense
+2011,Foreign Aid,5965230,Revenue
+2002,Natural Resources,18519215,Revenue
+2005,Grants,37274782,Revenue
+2012,Natural Resources,15484192,Revenue
+2001,Education,16847560,Expense
+2022,Grants,2801233,Revenue
+2007,Tax Revenue,39060510,Revenue
+2000,Infrastructure,13313465,Expense
+2011,Foreign Aid,7033994,Revenue
+2000,Social Welfare,41441389,Expense
+2002,Grants,14490709,Revenue
+2010,Natural Resources,33269222,Revenue
+2002,Education,29820709,Expense
+2018,Defense,24907140,Expense
+2008,Healthcare,24169213,Expense
+2005,Defense,25405119,Expense
+2017,Education,34640100,Expense
+2001,Education,23163071,Expense
+2020,Infrastructure,18108891,Expense
+2015,Education,6912901,Expense
+2005,Natural Resources,15015056,Revenue
+2005,Social Welfare,15015265,Expense
+2014,Education,46442965,Expense
+2002,Social Welfare,7782230,Expense
+2013,Natural Resources,43890062,Revenue
+2010,Social Welfare,17544653,Expense
+2007,Healthcare,30902760,Expense
+2006,Defense,2725472,Expense
+2023,Natural Resources,19310285,Revenue
+2013,Infrastructure,16897266,Expense
+2010,Infrastructure,47797136,Expense
+2001,Infrastructure,28828556,Expense
+2023,Foreign Aid,43593728,Revenue
+2021,Natural Resources,22358536,Revenue
+2014,Infrastructure,49791586,Expense
+2016,Foreign Aid,2861801,Revenue
+2017,Healthcare,28192723,Expense
+2015,Education,26849450,Expense
+2010,Tax Revenue,8525337,Revenue
+2003,Social Welfare,47527343,Expense
+2000,Education,30707696,Expense
+2014,Defense,34091529,Expense
+2019,Social Welfare,28744712,Expense
+2023,Education,38672063,Expense
+2007,Defense,25706984,Expense
+2014,Grants,3678896,Revenue
+2021,Education,38841108,Expense
+2021,Natural Resources,42526771,Revenue
+2015,Infrastructure,5428172,Expense
+2023,Healthcare,15075000,Expense
+2017,Social Welfare,11009232,Expense
+2005,Foreign Aid,23010269,Revenue
+2015,Education,17879502,Expense
+2008,Foreign Aid,19891825,Revenue
+2014,Defense,8087670,Expense
+2000,Infrastructure,7149031,Expense
+2020,Infrastructure,16095016,Expense
+2006,Natural Resources,36295262,Revenue
+2009,Tax Revenue,37033734,Revenue
+2020,Grants,6138594,Revenue
+2010,Tax Revenue,1374059,Revenue
+2022,Social Welfare,45274265,Expense
+2008,Tax Revenue,17789894,Revenue
+2013,Social Welfare,9013478,Expense
+2007,Grants,24007278,Revenue
+2012,Grants,23112278,Revenue
+2020,Education,35988476,Expense
+2005,Healthcare,7920197,Expense
+2016,Foreign Aid,5374896,Revenue
+2013,Healthcare,4755209,Expense
+2001,Social Welfare,18959670,Expense
+2012,Tax Revenue,41983024,Revenue
+2012,Foreign Aid,41677399,Revenue
+2007,Defense,29253095,Expense
+2014,Defense,2309976,Expense
+2010,Education,5111126,Expense
+2016,Natural Resources,13970646,Revenue
+2009,Tax Revenue,31023048,Revenue
+2002,Education,3432493,Expense
+2013,Social Welfare,42302778,Expense
+2022,Defense,32434418,Expense
+2017,Education,1140780,Expense
+2002,Social Welfare,14444495,Expense
+2018,Grants,8444455,Revenue
+2002,Tax Revenue,30176598,Revenue
+2016,Grants,1776995,Revenue
+2000,Social Welfare,46464761,Expense
+2012,Infrastructure,10182690,Expense
+2006,Education,18822985,Expense
+2011,Healthcare,3376458,Expense
+2002,Social Welfare,33735535,Expense
+2004,Natural Resources,8209529,Revenue
+2009,Social Welfare,25806878,Expense
+2003,Natural Resources,8020373,Revenue
+2000,Tax Revenue,6206826,Revenue
+2017,Foreign Aid,29332225,Revenue
+2017,Social Welfare,36270933,Expense
+2005,Infrastructure,6035716,Expense
+2012,Foreign Aid,46363932,Revenue
+2017,Social Welfare,26129486,Expense
+2011,Defense,47795818,Expense
+2018,Social Welfare,33425419,Expense
+2013,Foreign Aid,20504042,Revenue
+2015,Healthcare,9813389,Expense
+2016,Grants,48025853,Revenue
+2017,Education,31073025,Expense
+2021,Foreign Aid,19991558,Revenue
+2022,Defense,33424357,Expense
+2012,Defense,43348089,Expense
+2002,Natural Resources,6444467,Revenue
+2010,Grants,45269922,Revenue
+2021,Defense,34146799,Expense
+2000,Defense,4204179,Expense
+2013,Infrastructure,4857032,Expense
+2013,Social Welfare,16134410,Expense
+2007,Social Welfare,25923105,Expense
+2014,Healthcare,40948350,Expense
+2015,Foreign Aid,1093920,Revenue
+2000,Education,37636424,Expense
+2016,Infrastructure,36329488,Expense
+2001,Foreign Aid,48997025,Revenue
+2013,Foreign Aid,35397437,Revenue
+2023,Natural Resources,48872633,Revenue
+2018,Natural Resources,12997367,Revenue
+2001,Natural Resources,11397777,Revenue
+2017,Grants,20430974,Revenue
+2018,Foreign Aid,9406091,Revenue
+2005,Tax Revenue,22650904,Revenue
+2012,Tax Revenue,31394071,Revenue
+2021,Tax Revenue,1655501,Revenue
+2007,Social Welfare,34395163,Expense
+2001,Defense,43878110,Expense
+2001,Education,23039602,Expense
+2008,Tax Revenue,49145343,Revenue
+2000,Foreign Aid,30820590,Revenue
+2022,Natural Resources,11285174,Revenue
+2013,Social Welfare,11628728,Expense
+2023,Grants,1273809,Revenue
+2022,Infrastructure,23736158,Expense
+2000,Tax Revenue,3235964,Revenue
+2018,Grants,36383618,Revenue
+2013,Defense,22476233,Expense
+2010,Education,44884109,Expense
+2000,Foreign Aid,23291920,Revenue
+2010,Infrastructure,32757456,Expense
+2020,Social Welfare,20634151,Expense
+2007,Infrastructure,20879829,Expense
+2002,Defense,20706616,Expense
+2010,Healthcare,20454671,Expense
+2009,Grants,12009557,Revenue
+2008,Natural Resources,40425359,Revenue
+2003,Education,11180561,Expense
+2007,Natural Resources,35865108,Revenue
+2008,Grants,12911843,Revenue
+2007,Education,35372655,Expense
+2010,Natural Resources,35664496,Revenue
+2009,Social Welfare,35426480,Expense
+2021,Tax Revenue,42297739,Revenue
+2017,Healthcare,44314896,Expense
+2020,Education,19483114,Expense
+2017,Healthcare,43024827,Expense
+2007,Foreign Aid,28062222,Revenue
+2015,Infrastructure,45636476,Expense
+2016,Infrastructure,30680621,Expense
+2000,Defense,36979205,Expense
+2013,Grants,2761677,Revenue
+2000,Tax Revenue,20751154,Revenue
+2015,Social Welfare,10996622,Expense
+2023,Tax Revenue,8539338,Revenue
+2015,Tax Revenue,35896469,Revenue
+2011,Tax Revenue,6939427,Revenue
+2004,Natural Resources,12311006,Revenue
+2004,Tax Revenue,4969387,Revenue
+2005,Defense,28782934,Expense
+2016,Natural Resources,14954144,Revenue
+2009,Healthcare,21976384,Expense
+2007,Education,5514448,Expense
+2006,Healthcare,39071267,Expense
+2009,Grants,26386083,Revenue
+2020,Natural Resources,42585026,Revenue
+2006,Education,3559100,Expense
+2008,Foreign Aid,36429881,Revenue
+2012,Education,18282787,Expense
+2008,Education,13333066,Expense
+2016,Infrastructure,12038418,Expense
+2023,Healthcare,49265930,Expense
+2011,Education,2637442,Expense
+2012,Foreign Aid,18282307,Revenue
+2021,Foreign Aid,42384232,Revenue
+2008,Education,44621637,Expense
+2021,Tax Revenue,16233121,Revenue
+2015,Defense,24079506,Expense
+2009,Natural Resources,3790085,Revenue
+2013,Healthcare,20001979,Expense
+2000,Healthcare,17086549,Expense
+2005,Foreign Aid,44789620,Revenue
+2010,Foreign Aid,24191881,Revenue
+2009,Grants,9705779,Revenue
+2015,Foreign Aid,43393446,Revenue
+2000,Foreign Aid,2984957,Revenue
+2002,Infrastructure,37023627,Expense
+2000,Healthcare,17333462,Expense
+2000,Defense,4423932,Expense
+2016,Natural Resources,2316123,Revenue
+2010,Foreign Aid,27561699,Revenue
+2010,Education,13493665,Expense
+2022,Natural Resources,33495703,Revenue
+2018,Foreign Aid,5145397,Revenue
+2014,Healthcare,12877654,Expense
+2020,Education,21698124,Expense
+2021,Tax Revenue,5950978,Revenue
+2018,Education,5327338,Expense
+2019,Foreign Aid,7050026,Revenue
+2019,Healthcare,41995602,Expense
+2016,Grants,11182656,Revenue
+2010,Tax Revenue,15970669,Revenue
+2012,Defense,44729821,Expense
+2023,Healthcare,38267912,Expense
+2022,Grants,15803091,Revenue
+2009,Infrastructure,28586219,Expense
+2008,Foreign Aid,49708941,Revenue
+2004,Grants,11416893,Revenue
+2021,Infrastructure,37386288,Expense
+2013,Grants,26988836,Revenue
+2006,Defense,17261003,Expense
+2019,Infrastructure,44670415,Expense
+2007,Tax Revenue,35614544,Revenue
+2009,Infrastructure,35761042,Expense
+2004,Social Welfare,16315992,Expense
+2012,Healthcare,16423873,Expense
+2023,Foreign Aid,26638723,Revenue
+2023,Social Welfare,41664912,Expense
+2020,Infrastructure,41932265,Expense
+2007,Social Welfare,23086953,Expense
+2010,Defense,8273693,Expense
+2004,Infrastructure,42088161,Expense
+2011,Healthcare,29389733,Expense
+2003,Tax Revenue,45548139,Revenue
+2009,Foreign Aid,32664955,Revenue
+2010,Foreign Aid,25075436,Revenue
+2017,Defense,44218226,Expense
+2022,Natural Resources,27949553,Revenue
+2007,Natural Resources,43460509,Revenue
+2007,Defense,2522290,Expense
+2009,Education,47302742,Expense
+2005,Healthcare,11792729,Expense
+2004,Grants,17306911,Revenue
+2021,Defense,24864595,Expense
+2007,Tax Revenue,39268757,Revenue
+2007,Infrastructure,8384506,Expense
+2013,Foreign Aid,6415825,Revenue
+2000,Natural Resources,45116683,Revenue
+2006,Tax Revenue,37759854,Revenue
+2004,Defense,9288768,Expense
+2004,Social Welfare,15010567,Expense
+2007,Grants,10524840,Revenue
+2022,Natural Resources,33901785,Revenue
+2004,Foreign Aid,47935739,Revenue
+2006,Natural Resources,25224662,Revenue
+2021,Foreign Aid,17283356,Revenue
+2018,Healthcare,13386732,Expense
+2014,Defense,10491529,Expense
+2012,Defense,35146119,Expense
+2019,Education,24529525,Expense
+2013,Foreign Aid,24357427,Revenue
+2014,Defense,30227528,Expense
+2000,Grants,38442180,Revenue
+2002,Natural Resources,20748095,Revenue
+2012,Grants,45090156,Revenue
+2004,Defense,23873080,Expense
+2003,Healthcare,28979730,Expense
+2004,Foreign Aid,13445284,Revenue
+2006,Healthcare,43142675,Expense
+2021,Social Welfare,5276364,Expense
+2019,Defense,42469959,Expense
+2010,Education,30926457,Expense
+2004,Natural Resources,16047124,Revenue
+2019,Natural Resources,18266823,Revenue
+2013,Healthcare,35331620,Expense
+2020,Social Welfare,35574220,Expense
+2004,Healthcare,10866548,Expense
+2016,Infrastructure,20496074,Expense
+2020,Infrastructure,27350373,Expense
+2013,Infrastructure,14339343,Expense
+2007,Tax Revenue,37755665,Revenue
+2006,Infrastructure,9212696,Expense
+2022,Natural Resources,40632140,Revenue
+2003,Social Welfare,7747063,Expense
+2018,Foreign Aid,33589901,Revenue
+2010,Healthcare,8765648,Expense
+2001,Defense,14276218,Expense
+2012,Tax Revenue,1922859,Revenue
+2014,Tax Revenue,12480030,Revenue
+2005,Healthcare,13942464,Expense
+2015,Healthcare,39456543,Expense
+2003,Education,43204805,Expense
+2002,Foreign Aid,20568463,Revenue
+2004,Tax Revenue,24923758,Revenue
+2020,Defense,46930294,Expense
+2006,Education,17650119,Expense
+2016,Defense,46940425,Expense
+2011,Infrastructure,40198431,Expense
+2003,Tax Revenue,46044969,Revenue
+2013,Healthcare,37921795,Expense
+2019,Social Welfare,37150779,Expense
+2001,Natural Resources,44289552,Revenue
+2007,Healthcare,41642666,Expense
+2001,Defense,44589615,Expense
+2013,Foreign Aid,37640685,Revenue
+2003,Tax Revenue,46552169,Revenue
+2021,Grants,27948154,Revenue
+2010,Education,20163488,Expense
+2001,Natural Resources,27301654,Revenue
+2021,Tax Revenue,2408980,Revenue
+2001,Grants,40179338,Revenue
+2001,Defense,38153862,Expense
+2011,Foreign Aid,25672983,Revenue
+2019,Natural Resources,19015995,Revenue
+2015,Grants,43641463,Revenue
+2010,Infrastructure,47348820,Expense
+2000,Social Welfare,49911768,Expense
+2023,Education,44950629,Expense
+2007,Infrastructure,40664019,Expense
+2000,Tax Revenue,4434608,Revenue
+2017,Healthcare,21998084,Expense
+2001,Education,19295234,Expense
+2008,Grants,29386419,Revenue
+2007,Healthcare,6703250,Expense
+2014,Foreign Aid,12925741,Revenue
+2015,Social Welfare,22640526,Expense
+2006,Grants,14435250,Revenue
+2019,Education,28933746,Expense
+2022,Education,36019591,Expense
+2000,Grants,21352647,Revenue
+2018,Grants,48919469,Revenue
+2002,Tax Revenue,38307028,Revenue
+2023,Social Welfare,19696440,Expense
+2010,Healthcare,43497489,Expense
+2023,Healthcare,33538328,Expense
+2021,Natural Resources,30081300,Revenue
+2005,Education,32793611,Expense
+2002,Education,45668755,Expense
+2023,Infrastructure,22777345,Expense
+2014,Tax Revenue,35762581,Revenue
+2000,Foreign Aid,39363822,Revenue
+2005,Defense,27942812,Expense
+2009,Defense,8673124,Expense
+2001,Healthcare,4184725,Expense
+2014,Social Welfare,49534682,Expense
+2004,Natural Resources,38525699,Revenue
+2010,Infrastructure,2992394,Expense
+2014,Tax Revenue,32625250,Revenue
+2019,Defense,14198924,Expense
+2013,Natural Resources,31353586,Revenue
+2023,Natural Resources,31328146,Revenue
+2000,Tax Revenue,44243273,Revenue
+2011,Social Welfare,31978290,Expense
+2017,Infrastructure,1736865,Expense
+2012,Education,45101553,Expense
+2008,Infrastructure,21110501,Expense
+2000,Tax Revenue,49465233,Revenue
+2017,Education,9289591,Expense
+2001,Tax Revenue,27166285,Revenue
+2002,Healthcare,11705703,Expense
+2022,Foreign Aid,4927437,Revenue
+2010,Social Welfare,5856737,Expense
+2003,Foreign Aid,22249312,Revenue
+2019,Tax Revenue,24021481,Revenue
+2011,Defense,41569409,Expense
+2004,Healthcare,5580788,Expense
+2018,Natural Resources,17356900,Revenue
+2018,Defense,25032623,Expense
+2017,Foreign Aid,3092531,Revenue
+2000,Grants,46716172,Revenue
+2020,Natural Resources,26539365,Revenue
+2020,Education,33343604,Expense
+2021,Tax Revenue,2898392,Revenue
+2022,Natural Resources,35611278,Revenue
+2006,Natural Resources,39525602,Revenue
+2018,Education,11272268,Expense
+2001,Foreign Aid,22682347,Revenue
+2002,Tax Revenue,17376627,Revenue
+2021,Natural Resources,25058236,Revenue
+2020,Grants,28967359,Revenue
+2017,Infrastructure,3619227,Expense
+2022,Healthcare,29454436,Expense
+2004,Education,7463355,Expense
+2016,Social Welfare,49318584,Expense
+2004,Defense,42091550,Expense
+2005,Healthcare,1055665,Expense
+2019,Grants,3220453,Revenue
+2011,Tax Revenue,30295797,Revenue
+2000,Natural Resources,30086320,Revenue
+2008,Social Welfare,26412162,Expense
+2018,Tax Revenue,46516205,Revenue
+2013,Infrastructure,17781599,Expense
+2017,Grants,20590079,Revenue
+2018,Education,44786130,Expense
+2012,Tax Revenue,7275727,Revenue
+2014,Defense,20606600,Expense
+2002,Education,33929091,Expense
+2007,Healthcare,36542563,Expense
+2005,Defense,48060521,Expense
+2013,Tax Revenue,37268810,Revenue
+2023,Grants,49369279,Revenue
+2011,Natural Resources,47129718,Revenue
+2003,Healthcare,34559152,Expense
+2022,Healthcare,35336718,Expense
+2009,Healthcare,1931360,Expense
+2014,Social Welfare,15583812,Expense
+2007,Infrastructure,48150193,Expense
+2003,Healthcare,21426163,Expense
+2014,Social Welfare,33492698,Expense
+2005,Social Welfare,21071327,Expense
+2020,Social Welfare,23747414,Expense
+2013,Education,43950743,Expense
+2005,Foreign Aid,7615910,Revenue
+2009,Education,15289022,Expense
+2013,Infrastructure,7641150,Expense
+2006,Infrastructure,17636456,Expense
+2019,Natural Resources,20201520,Revenue
+2010,Foreign Aid,39348219,Revenue
+2016,Defense,1108875,Expense
+2005,Education,47035824,Expense
+2000,Social Welfare,49450375,Expense
+2001,Tax Revenue,29477732,Revenue
+2001,Tax Revenue,1841666,Revenue
+2001,Infrastructure,27201520,Expense
+2021,Social Welfare,48715040,Expense
+2007,Education,36944557,Expense
+2022,Infrastructure,44528908,Expense
+2013,Natural Resources,8114525,Revenue
+2007,Education,18223243,Expense
+2011,Defense,47226580,Expense
+2017,Natural Resources,47194209,Revenue
+2010,Infrastructure,6059203,Expense
+2000,Natural Resources,12519100,Revenue
+2016,Healthcare,41912076,Expense
+2006,Defense,38975118,Expense
+2010,Grants,29464677,Revenue
+2010,Tax Revenue,47049196,Revenue
+2022,Education,4897691,Expense
+2019,Social Welfare,16335293,Expense
+2014,Tax Revenue,33662834,Revenue
+2020,Foreign Aid,4054274,Revenue
+2014,Social Welfare,39524926,Expense
+2007,Infrastructure,34084502,Expense
+2011,Healthcare,30743081,Expense
+2016,Tax Revenue,46591539,Revenue
+2014,Tax Revenue,29793935,Revenue
+2014,Tax Revenue,47124821,Revenue
+2013,Grants,13707304,Revenue
+2017,Grants,21428675,Revenue
+2017,Infrastructure,35622781,Expense
+2020,Defense,38550905,Expense
+2016,Infrastructure,11784517,Expense
+2015,Tax Revenue,15972552,Revenue
+2011,Infrastructure,48914119,Expense
+2002,Defense,17876669,Expense
+2011,Healthcare,18672239,Expense
+2018,Social Welfare,21269694,Expense
+2003,Defense,41349792,Expense
+2022,Education,9645748,Expense
+2022,Defense,27075754,Expense
+2023,Natural Resources,23726182,Revenue
+2010,Tax Revenue,35155079,Revenue
+2014,Natural Resources,15967615,Revenue
+2002,Grants,43019384,Revenue
+2011,Social Welfare,8675999,Expense
+2004,Foreign Aid,33049747,Revenue
+2022,Healthcare,34030200,Expense
+2009,Healthcare,26483864,Expense
+2006,Natural Resources,43415458,Revenue
+2008,Education,3002889,Expense
+2010,Infrastructure,26603207,Expense
+2001,Grants,24087154,Revenue
+2000,Grants,18541936,Revenue
+2014,Healthcare,24386940,Expense
+2015,Social Welfare,21990942,Expense
+2010,Tax Revenue,49503566,Revenue
+2023,Foreign Aid,22130059,Revenue
+2018,Defense,38892493,Expense
+2010,Education,30353873,Expense
+2021,Infrastructure,14548800,Expense
+2012,Tax Revenue,32527712,Revenue
+2022,Tax Revenue,23266341,Revenue
+2007,Tax Revenue,36023175,Revenue
+2004,Education,40785505,Expense
+2005,Social Welfare,49255866,Expense
+2004,Education,10512003,Expense
+2001,Defense,46674551,Expense
+2021,Social Welfare,36706258,Expense
+2023,Defense,33527320,Expense
+2017,Social Welfare,19380906,Expense
+2004,Healthcare,10215290,Expense
+2005,Social Welfare,6779229,Expense
+2010,Foreign Aid,10216416,Revenue
+2011,Grants,39813004,Revenue
+2008,Education,38780470,Expense
+2020,Natural Resources,8304964,Revenue
+2012,Defense,2490453,Expense
+2011,Natural Resources,33100595,Revenue
+2006,Grants,1466072,Revenue
+2004,Grants,19469665,Revenue
+2006,Grants,46293276,Revenue
+2015,Infrastructure,9382897,Expense
+2014,Tax Revenue,8341073,Revenue
+2000,Foreign Aid,39396466,Revenue
+2018,Natural Resources,6155984,Revenue
+2014,Natural Resources,14240736,Revenue
+2016,Defense,29628718,Expense
+2004,Healthcare,49856197,Expense
+2019,Grants,12765161,Revenue
+2021,Social Welfare,26027994,Expense
+2019,Infrastructure,31982350,Expense
+2020,Healthcare,34160951,Expense
+2015,Grants,5020923,Revenue
+2019,Healthcare,10460022,Expense
+2011,Foreign Aid,13910913,Revenue
+2007,Healthcare,6582032,Expense
+2012,Social Welfare,33518468,Expense
+2001,Natural Resources,16605386,Revenue
+2012,Defense,5785988,Expense
+2020,Infrastructure,39342545,Expense
+2016,Healthcare,43173761,Expense
+2022,Infrastructure,43358563,Expense
+2019,Defense,38801722,Expense
+2015,Tax Revenue,9023259,Revenue
+2017,Defense,29615957,Expense
+2007,Grants,24168093,Revenue
+2013,Infrastructure,4950082,Expense
+2004,Tax Revenue,41820144,Revenue
+2014,Social Welfare,21515823,Expense
+2001,Grants,47988028,Revenue
+2022,Defense,48856503,Expense
+2014,Tax Revenue,23448547,Revenue
+2018,Foreign Aid,43554754,Revenue
+2020,Tax Revenue,16297254,Revenue
+2014,Social Welfare,44054585,Expense
+2017,Social Welfare,44474030,Expense
+2015,Infrastructure,29521542,Expense
+2000,Infrastructure,15425418,Expense
+2010,Natural Resources,35355855,Revenue
+2020,Social Welfare,18998321,Expense
+2023,Natural Resources,25710455,Revenue
+2002,Healthcare,36685696,Expense
+2018,Education,7085663,Expense
+2023,Tax Revenue,21003871,Revenue
+2010,Tax Revenue,11702831,Revenue
+2009,Social Welfare,27096897,Expense
+2021,Social Welfare,28527948,Expense
+2017,Foreign Aid,12814741,Revenue
+2020,Natural Resources,4484627,Revenue
+2004,Defense,20790733,Expense
+2007,Infrastructure,1851177,Expense
+2006,Healthcare,27101298,Expense
+2017,Foreign Aid,45229502,Revenue
+2006,Natural Resources,38404971,Revenue
+2001,Natural Resources,34481090,Revenue
+2005,Natural Resources,41033922,Revenue
+2008,Natural Resources,36379595,Revenue
+2010,Natural Resources,31607027,Revenue
+2015,Natural Resources,8814404,Revenue
+2011,Infrastructure,1246458,Expense
+2006,Defense,5962015,Expense
+2022,Foreign Aid,12353298,Revenue
+2016,Healthcare,23980906,Expense
+2015,Education,3588892,Expense
+2018,Education,20010884,Expense
+2003,Education,47227805,Expense
+2013,Grants,28319976,Revenue
+2014,Education,46275792,Expense
+2023,Healthcare,7497644,Expense
+2006,Infrastructure,37731173,Expense
+2011,Defense,44267460,Expense
+2003,Education,42738335,Expense
+2004,Education,23330298,Expense
+2018,Tax Revenue,14963548,Revenue
+2011,Tax Revenue,19456207,Revenue
+2004,Tax Revenue,39140321,Revenue
+2009,Social Welfare,42531657,Expense
+2013,Education,45927407,Expense
+2022,Infrastructure,6620998,Expense
+2017,Infrastructure,39420544,Expense
+2003,Education,37589774,Expense
+2012,Foreign Aid,2537037,Revenue
+2016,Defense,12495625,Expense
+2009,Healthcare,33722313,Expense
+2018,Defense,4652217,Expense
+2023,Natural Resources,3820862,Revenue
+2011,Healthcare,17582971,Expense
+2001,Grants,28805442,Revenue
+2007,Infrastructure,30561386,Expense
+2003,Education,49152538,Expense
+2012,Grants,28420154,Revenue
+2019,Defense,45620534,Expense
+2008,Social Welfare,1162784,Expense
+2022,Foreign Aid,35260758,Revenue
+2015,Natural Resources,25689157,Revenue
+2017,Grants,23973401,Revenue
+2019,Education,35674446,Expense
+2021,Education,38038122,Expense
+2019,Foreign Aid,8838600,Revenue
+2013,Healthcare,39077545,Expense
+2010,Tax Revenue,24498471,Revenue
+2016,Tax Revenue,17812008,Revenue
+2002,Foreign Aid,11826679,Revenue
+2006,Defense,47540195,Expense
+2023,Natural Resources,12155854,Revenue
+2014,Infrastructure,22012994,Expense
+2010,Grants,19627123,Revenue
+2017,Social Welfare,43970447,Expense
+2008,Natural Resources,14837415,Revenue
+2010,Defense,30583323,Expense
+2006,Defense,40981360,Expense
+2016,Social Welfare,32655042,Expense
+2014,Tax Revenue,32421033,Revenue
+2013,Infrastructure,23027728,Expense
+2021,Defense,30753993,Expense
+2003,Infrastructure,36570532,Expense
+2022,Foreign Aid,36425139,Revenue
+2019,Infrastructure,46167584,Expense
+2005,Education,25221338,Expense
+2008,Grants,10797320,Revenue
+2020,Infrastructure,31849387,Expense
+2005,Education,15439856,Expense
+2015,Education,25697603,Expense
+2001,Tax Revenue,33711411,Revenue
+2010,Defense,1363888,Expense
+2014,Tax Revenue,2019916,Revenue
+2010,Social Welfare,27253941,Expense
+2009,Education,20430730,Expense
+2012,Social Welfare,31750090,Expense
+2012,Grants,30103696,Revenue
+2004,Healthcare,48520049,Expense
+2011,Natural Resources,38070540,Revenue
+2021,Healthcare,38124421,Expense
+2006,Natural Resources,25010525,Revenue
+2007,Grants,37123260,Revenue
+2015,Tax Revenue,18577567,Revenue
+2012,Social Welfare,26000394,Expense
+2012,Education,28513492,Expense
+2007,Natural Resources,42262693,Revenue
+2002,Social Welfare,10365592,Expense
+2003,Tax Revenue,30265925,Revenue
+2007,Foreign Aid,16831140,Revenue
+2022,Social Welfare,11749349,Expense
+2005,Defense,34079477,Expense
+2001,Tax Revenue,48325863,Revenue
+2016,Tax Revenue,4385136,Revenue
+2023,Infrastructure,34818372,Expense
+2016,Infrastructure,7382865,Expense
+2003,Natural Resources,30219154,Revenue
+2022,Healthcare,21045166,Expense
+2012,Natural Resources,1396655,Revenue
+2014,Healthcare,26527772,Expense
+2003,Infrastructure,31368701,Expense
+2021,Education,30458809,Expense
+2016,Natural Resources,24694710,Revenue
+2018,Tax Revenue,10169716,Revenue
+2002,Infrastructure,44315499,Expense
+2002,Defense,8568532,Expense
+2014,Infrastructure,10410123,Expense
+2016,Natural Resources,25583767,Revenue
+2020,Healthcare,48399657,Expense
+2023,Tax Revenue,27353750,Revenue
+2014,Education,3438832,Expense
+2010,Defense,30911430,Expense
+2019,Natural Resources,13891343,Revenue
+2011,Natural Resources,45779265,Revenue
+2014,Education,5767505,Expense
+2019,Social Welfare,21410074,Expense
+2021,Education,25273690,Expense
+2018,Social Welfare,44570162,Expense
+2018,Tax Revenue,26419245,Revenue
+2019,Healthcare,49120959,Expense
+2015,Education,32981009,Expense
+2000,Tax Revenue,30536976,Revenue
+2019,Grants,11912341,Revenue
+2002,Tax Revenue,34262624,Revenue
+2019,Defense,32791563,Expense
+2012,Defense,34338900,Expense
+2012,Tax Revenue,1538163,Revenue
+2000,Defense,39623610,Expense
+2017,Education,25923331,Expense
+2020,Grants,7968106,Revenue
+2020,Education,49780570,Expense
+2013,Defense,15532089,Expense
+2009,Infrastructure,35587190,Expense
+2013,Grants,27417152,Revenue
+2012,Infrastructure,32093993,Expense
+2011,Foreign Aid,10779271,Revenue
+2005,Social Welfare,28326382,Expense
+2005,Infrastructure,28080919,Expense
+2021,Education,37422323,Expense
+2003,Defense,5266939,Expense
+2013,Infrastructure,12319627,Expense
+2007,Tax Revenue,41395701,Revenue
+2010,Grants,12871236,Revenue
+2012,Social Welfare,17877223,Expense
+2014,Foreign Aid,29815764,Revenue
+2005,Natural Resources,26512591,Revenue
+2023,Natural Resources,19733845,Revenue
+2012,Tax Revenue,15427692,Revenue
+2008,Foreign Aid,23896288,Revenue
+2000,Defense,19540891,Expense
+2010,Healthcare,27767641,Expense
+2001,Tax Revenue,21342150,Revenue
+2018,Education,48309311,Expense
+2016,Infrastructure,29223426,Expense
+2013,Foreign Aid,41302910,Revenue
+2012,Natural Resources,14893190,Revenue
+2023,Education,38036205,Expense
+2007,Natural Resources,20516326,Revenue
+2002,Healthcare,41117228,Expense
+2008,Grants,12802825,Revenue
+2001,Foreign Aid,20626308,Revenue
+2011,Healthcare,32081109,Expense
+2005,Natural Resources,20187970,Revenue
+2014,Foreign Aid,36241226,Revenue
+2009,Infrastructure,30556282,Expense
+2005,Foreign Aid,38607625,Revenue
+2011,Infrastructure,14872870,Expense
+2017,Natural Resources,8438107,Revenue
+2001,Healthcare,5560723,Expense
+2018,Defense,26266846,Expense
+2000,Social Welfare,33006792,Expense
+2000,Tax Revenue,24524628,Revenue
+2010,Defense,8749275,Expense
+2012,Natural Resources,23667768,Revenue
+2003,Social Welfare,10310820,Expense
+2007,Foreign Aid,8404526,Revenue
+2013,Defense,35993356,Expense
+2017,Foreign Aid,38659782,Revenue
+2007,Infrastructure,40678264,Expense
+2017,Tax Revenue,39827267,Revenue
+2016,Tax Revenue,1555668,Revenue
+2003,Tax Revenue,48807520,Revenue
+2014,Natural Resources,40911123,Revenue
+2010,Foreign Aid,45843554,Revenue
+2006,Infrastructure,26735468,Expense
+2006,Education,3783000,Expense
+2003,Grants,41928848,Revenue
+2016,Natural Resources,48252022,Revenue
+2007,Defense,36388916,Expense
+2016,Grants,36471973,Revenue
+2007,Grants,7036365,Revenue
+2019,Healthcare,48444999,Expense
+2014,Foreign Aid,30681241,Revenue
+2008,Defense,12412197,Expense
+2021,Grants,46341742,Revenue
+2012,Education,8645454,Expense
+2018,Tax Revenue,36538560,Revenue
+2009,Defense,30128520,Expense
+2008,Social Welfare,12876702,Expense
+2021,Social Welfare,1928098,Expense
+2007,Social Welfare,16091144,Expense
+2015,Grants,18897872,Revenue
+2000,Natural Resources,26927565,Revenue
+2010,Grants,13954268,Revenue
+2019,Infrastructure,15140797,Expense
+2005,Foreign Aid,47396576,Revenue
+2005,Social Welfare,21664534,Expense
+2009,Education,29580784,Expense
+2006,Natural Resources,28822620,Revenue
+2013,Grants,48868444,Revenue
+2010,Healthcare,39360401,Expense
+2005,Healthcare,5572764,Expense
+2004,Foreign Aid,28506315,Revenue
+2004,Education,7702396,Expense
+2021,Education,4182846,Expense
+2015,Infrastructure,20236005,Expense
+2005,Infrastructure,35970818,Expense
+2010,Grants,5302959,Revenue
+2010,Education,34984741,Expense
+2001,Social Welfare,32718042,Expense
+2012,Grants,31594354,Revenue
+2017,Foreign Aid,17663045,Revenue
+2018,Grants,9593834,Revenue
+2017,Infrastructure,2335508,Expense
+2009,Tax Revenue,28227870,Revenue
+2002,Grants,46146771,Revenue
+2000,Education,22661210,Expense
+2019,Tax Revenue,48051912,Revenue
+2002,Natural Resources,35546874,Revenue
+2019,Natural Resources,24375525,Revenue
+2011,Healthcare,18354764,Expense
+2018,Defense,35707607,Expense
+2018,Tax Revenue,24467852,Revenue
+2011,Foreign Aid,26419641,Revenue
+2023,Social Welfare,11194185,Expense
+2006,Healthcare,26964225,Expense
+2006,Healthcare,33409326,Expense
+2010,Tax Revenue,35435013,Revenue
+2017,Grants,21945705,Revenue
+2013,Foreign Aid,11942917,Revenue
+2008,Defense,32264610,Expense
+2020,Tax Revenue,46617665,Revenue
+2006,Education,3152949,Expense
+2009,Tax Revenue,9708739,Revenue
+2009,Grants,29477786,Revenue
+2023,Defense,47797476,Expense
+2015,Education,40912325,Expense
+2000,Defense,19689507,Expense
+2003,Foreign Aid,32650937,Revenue
+2006,Education,45307867,Expense
+2019,Infrastructure,43618165,Expense
+2015,Education,23285211,Expense
+2009,Education,12120066,Expense
+2021,Social Welfare,28202311,Expense
+2023,Infrastructure,46771540,Expense
+2010,Tax Revenue,10266889,Revenue
+2002,Tax Revenue,12323400,Revenue
+2000,Education,25173464,Expense
+2014,Foreign Aid,26697109,Revenue
+2011,Defense,42821861,Expense
+2009,Natural Resources,1551492,Revenue
+2006,Grants,5626582,Revenue
+2004,Social Welfare,4844714,Expense
+2001,Social Welfare,44989260,Expense
+2012,Education,42309586,Expense
+2023,Foreign Aid,44725947,Revenue
+2020,Education,49866575,Expense
+2003,Tax Revenue,25126535,Revenue
+2002,Healthcare,33150926,Expense
+2005,Foreign Aid,30212604,Revenue
+2019,Healthcare,5753755,Expense
+2007,Foreign Aid,12479410,Revenue
+2004,Foreign Aid,33464104,Revenue
+2011,Infrastructure,30014730,Expense
+2001,Social Welfare,43887376,Expense
+2020,Grants,9658819,Revenue
+2013,Defense,49929829,Expense
+2015,Natural Resources,35503191,Revenue
+2010,Healthcare,2997171,Expense
+2004,Defense,39525317,Expense
+2004,Education,23370229,Expense
+2007,Tax Revenue,2101858,Revenue
+2006,Tax Revenue,22088000,Revenue
+2016,Infrastructure,12529199,Expense
+2001,Tax Revenue,2717908,Revenue
+2012,Defense,42542854,Expense
+2021,Tax Revenue,46746728,Revenue
+2000,Grants,47790848,Revenue
+2015,Grants,12680634,Revenue
+2011,Tax Revenue,34570869,Revenue
+2014,Defense,44829316,Expense
+2009,Infrastructure,30072380,Expense
+2019,Infrastructure,11257919,Expense
+2016,Defense,8309847,Expense
+2008,Infrastructure,8903992,Expense
+2010,Tax Revenue,14816421,Revenue
+2013,Social Welfare,27850840,Expense
+2020,Grants,24266043,Revenue
+2003,Tax Revenue,24659335,Revenue
+2022,Defense,35648341,Expense
+2009,Natural Resources,49706117,Revenue
+2008,Social Welfare,39342617,Expense
+2012,Tax Revenue,19398733,Revenue
+2018,Defense,26708303,Expense
+2004,Foreign Aid,24428512,Revenue
+2012,Education,33681697,Expense
+2008,Healthcare,11327484,Expense
+2011,Education,33022977,Expense
+2017,Healthcare,36613485,Expense
+2009,Healthcare,17032216,Expense
+2006,Natural Resources,1649023,Revenue
+2004,Social Welfare,31817806,Expense
+2004,Defense,33067395,Expense
+2002,Education,18245315,Expense
+2004,Tax Revenue,20126316,Revenue
+2008,Defense,45133018,Expense
+2010,Infrastructure,17117047,Expense
+2015,Tax Revenue,28980336,Revenue
+2020,Defense,46018455,Expense
+2004,Natural Resources,46136071,Revenue
+2004,Tax Revenue,15158495,Revenue
+2015,Healthcare,20630922,Expense
+2000,Education,43927299,Expense
+2015,Healthcare,48046969,Expense
+2007,Healthcare,3893124,Expense
+2010,Social Welfare,9786759,Expense
+2008,Healthcare,45144817,Expense
+2017,Healthcare,3723009,Expense
+2017,Defense,37745163,Expense
+2000,Education,46295789,Expense
+2023,Healthcare,41688487,Expense
+2023,Foreign Aid,48020401,Revenue
+2015,Healthcare,26685895,Expense
+2020,Healthcare,35892316,Expense
+2020,Foreign Aid,46401873,Revenue
+2021,Natural Resources,21437039,Revenue
+2002,Infrastructure,47520306,Expense
+2016,Defense,36681722,Expense
+2003,Foreign Aid,18644507,Revenue
+2003,Foreign Aid,26666788,Revenue
+2008,Tax Revenue,47044325,Revenue
+2016,Grants,37195541,Revenue
+2007,Infrastructure,39814250,Expense
+2021,Natural Resources,35064024,Revenue
+2015,Healthcare,11444922,Expense
+2023,Natural Resources,34822736,Revenue
+2005,Defense,42186033,Expense
+2015,Infrastructure,8346043,Expense
+2022,Infrastructure,37851591,Expense
+2014,Grants,38489303,Revenue
+2014,Education,43841147,Expense
+2017,Foreign Aid,38890453,Revenue
+2007,Social Welfare,37884748,Expense
+2009,Education,7424309,Expense
+2017,Infrastructure,7706833,Expense
+2018,Tax Revenue,22832302,Revenue
+2016,Social Welfare,23232156,Expense
+2001,Natural Resources,5420607,Revenue
+2019,Defense,22186650,Expense
+2009,Healthcare,27751822,Expense
+2010,Foreign Aid,48658022,Revenue
+2010,Foreign Aid,21679174,Revenue
+2023,Natural Resources,49390890,Revenue
+2002,Healthcare,2815153,Expense
+2022,Education,11510744,Expense
+2019,Natural Resources,27783965,Revenue
+2019,Tax Revenue,41082536,Revenue
+2018,Foreign Aid,29776076,Revenue
+2010,Grants,34239171,Revenue
+2010,Infrastructure,27243019,Expense
+2006,Infrastructure,20290889,Expense
+2015,Healthcare,22811096,Expense
+2006,Tax Revenue,23515425,Revenue
+2005,Grants,15677023,Revenue
+2018,Foreign Aid,35012974,Revenue
+2021,Natural Resources,18218641,Revenue
+2019,Natural Resources,24204703,Revenue
+2018,Infrastructure,29138200,Expense
+2008,Grants,3950422,Revenue
+2001,Foreign Aid,39966027,Revenue
+2004,Tax Revenue,42721579,Revenue
+2000,Social Welfare,40160115,Expense
+2019,Natural Resources,46639428,Revenue
+2007,Natural Resources,48701701,Revenue
+2021,Social Welfare,40787968,Expense
+2019,Natural Resources,1443252,Revenue
+2017,Infrastructure,26105211,Expense
+2020,Foreign Aid,45679527,Revenue
+2012,Healthcare,27540851,Expense
+2004,Infrastructure,43623470,Expense
+2002,Natural Resources,42243126,Revenue
+2017,Healthcare,22091350,Expense
+2007,Education,30369324,Expense
+2014,Grants,42164314,Revenue
+2021,Foreign Aid,49241924,Revenue
+2001,Natural Resources,20047751,Revenue
+2018,Education,44257632,Expense
+2004,Social Welfare,28182054,Expense
+2001,Natural Resources,27268228,Revenue
+2006,Tax Revenue,3398448,Revenue
+2006,Foreign Aid,49304993,Revenue
+2016,Infrastructure,38058444,Expense
+2021,Education,31601954,Expense
+2016,Foreign Aid,28797378,Revenue
+2023,Natural Resources,45171319,Revenue
+2006,Healthcare,47374782,Expense
+2016,Grants,45507631,Revenue
+2018,Foreign Aid,21639675,Revenue
+2004,Education,48539791,Expense
+2007,Natural Resources,10913596,Revenue
+2002,Defense,21922765,Expense
+2004,Healthcare,49255726,Expense
+2004,Tax Revenue,2630061,Revenue
+2002,Natural Resources,17293965,Revenue
+2020,Natural Resources,17885849,Revenue
+2016,Infrastructure,5360355,Expense
+2016,Infrastructure,10914068,Expense
+2008,Education,26042772,Expense
+2011,Education,30099316,Expense
+2023,Tax Revenue,9080158,Revenue
+2009,Natural Resources,29102271,Revenue
+2015,Foreign Aid,9142624,Revenue
+2002,Healthcare,34555527,Expense
+2014,Tax Revenue,36254660,Revenue
+2011,Grants,36132978,Revenue
+2008,Infrastructure,47217163,Expense
+2015,Social Welfare,37577030,Expense
+2005,Defense,18607939,Expense
+2022,Grants,28275433,Revenue
+2019,Healthcare,47009403,Expense
+2010,Grants,46332179,Revenue
+2003,Defense,32731565,Expense
+2000,Defense,3315924,Expense
+2021,Grants,31068162,Revenue
+2014,Education,38784569,Expense
+2013,Grants,16254748,Revenue
+2013,Infrastructure,38383225,Expense
+2006,Natural Resources,21415217,Revenue
+2014,Defense,25408953,Expense
+2019,Healthcare,44233754,Expense
+2021,Foreign Aid,45833615,Revenue
+2005,Tax Revenue,40533669,Revenue
+2019,Grants,26513812,Revenue
+2015,Tax Revenue,15409127,Revenue
+2013,Tax Revenue,9886846,Revenue
+2015,Grants,19520703,Revenue
+2010,Education,5130048,Expense
+2004,Social Welfare,24052920,Expense
+2002,Natural Resources,31865660,Revenue
+2022,Infrastructure,33048258,Expense
+2004,Grants,26824770,Revenue
+2007,Education,41889174,Expense
+2004,Natural Resources,31135466,Revenue
+2011,Defense,43836173,Expense
+2018,Education,42297351,Expense
+2001,Defense,38200471,Expense
+2010,Grants,23214259,Revenue
+2014,Natural Resources,8552930,Revenue
+2016,Defense,24426243,Expense
+2019,Infrastructure,41264032,Expense
+2006,Social Welfare,22290111,Expense
+2008,Social Welfare,23659129,Expense
+2008,Infrastructure,8465104,Expense
+2020,Education,23754099,Expense
+2011,Social Welfare,20158178,Expense
+2005,Defense,39660810,Expense
+2006,Education,16721873,Expense
+2003,Defense,37072697,Expense
+2007,Defense,1682904,Expense
+2000,Education,46328926,Expense
+2022,Healthcare,12643502,Expense
+2018,Defense,30115666,Expense
+2019,Social Welfare,35980579,Expense
+2017,Infrastructure,11899319,Expense
+2009,Healthcare,2839620,Expense
+2015,Defense,48646166,Expense
+2013,Foreign Aid,49801100,Revenue
+2002,Infrastructure,7314233,Expense
+2006,Healthcare,26336250,Expense
+2020,Healthcare,32145397,Expense
+2010,Natural Resources,35248164,Revenue
+2017,Grants,29809466,Revenue
+2011,Tax Revenue,36410817,Revenue
+2009,Healthcare,30210827,Expense
+2019,Natural Resources,27398643,Revenue
+2001,Tax Revenue,47999270,Revenue
+2012,Education,2997960,Expense
+2016,Tax Revenue,3543466,Revenue
+2012,Tax Revenue,35050631,Revenue
+2008,Grants,14672789,Revenue
+2013,Tax Revenue,31467109,Revenue
+2009,Infrastructure,33114887,Expense
+2009,Natural Resources,29978884,Revenue
+2000,Education,19194839,Expense
+2012,Grants,42986444,Revenue
+2013,Education,45374305,Expense
+2018,Social Welfare,16795015,Expense
+2019,Social Welfare,18445332,Expense
+2009,Social Welfare,28303551,Expense
+2001,Foreign Aid,17462531,Revenue
+2009,Healthcare,28442800,Expense
+2008,Social Welfare,41447474,Expense
+2011,Defense,28304999,Expense
+2008,Tax Revenue,48702068,Revenue
+2005,Education,3515208,Expense
+2021,Social Welfare,27356909,Expense
+2017,Social Welfare,2527945,Expense
+2013,Defense,34309057,Expense
+2014,Natural Resources,20313072,Revenue
+2011,Tax Revenue,26650868,Revenue
+2018,Grants,4514975,Revenue
+2010,Grants,4395031,Revenue
+2023,Foreign Aid,26932833,Revenue
+2022,Natural Resources,23431695,Revenue
+2005,Social Welfare,38966517,Expense
+2023,Defense,10194008,Expense
+2004,Education,37524342,Expense
+2020,Foreign Aid,14727130,Revenue
+2003,Defense,33344021,Expense
+2020,Natural Resources,1941684,Revenue
+2012,Healthcare,30502119,Expense
+2013,Defense,8316013,Expense
+2022,Tax Revenue,14328938,Revenue
+2000,Grants,21098898,Revenue
+2013,Healthcare,16569140,Expense
+2009,Grants,11904062,Revenue
+2004,Healthcare,24698463,Expense
+2007,Natural Resources,2529114,Revenue
+2005,Tax Revenue,28797267,Revenue
+2005,Defense,2551575,Expense
+2022,Defense,13055170,Expense
+2017,Healthcare,19332133,Expense
+2000,Infrastructure,18890291,Expense
+2021,Education,49056484,Expense
+2011,Infrastructure,11510642,Expense
+2022,Healthcare,45088561,Expense
+2001,Grants,24235849,Revenue
+2006,Tax Revenue,45242863,Revenue
+2000,Natural Resources,31376853,Revenue
+2016,Infrastructure,10603110,Expense
+2022,Grants,32457452,Revenue
+2015,Defense,11862417,Expense
+2021,Healthcare,49071409,Expense
+2017,Defense,15790599,Expense
+2017,Tax Revenue,25474805,Revenue
+2003,Education,4180898,Expense
+2001,Foreign Aid,25095030,Revenue
+2004,Natural Resources,47307551,Revenue
+2015,Natural Resources,5254846,Revenue
+2008,Infrastructure,5952101,Expense
+2004,Natural Resources,43677935,Revenue
+2021,Social Welfare,33000200,Expense
+2014,Social Welfare,7896142,Expense
+2001,Social Welfare,37518004,Expense
+2007,Tax Revenue,22028998,Revenue
+2023,Education,48378850,Expense
+2008,Infrastructure,21595883,Expense
+2014,Social Welfare,7555762,Expense
+2019,Infrastructure,21107604,Expense
+2009,Grants,21892159,Revenue
+2014,Education,28639070,Expense
+2018,Natural Resources,46173982,Revenue
+2009,Defense,11902949,Expense
+2009,Grants,1251092,Revenue
+2021,Defense,5863867,Expense
+2002,Healthcare,5912257,Expense
+2003,Grants,5987620,Revenue
+2010,Foreign Aid,28610690,Revenue
+2004,Foreign Aid,44089236,Revenue
+2021,Grants,23108014,Revenue
+2019,Infrastructure,15980003,Expense
+2016,Foreign Aid,10753000,Revenue
+2021,Defense,9026251,Expense
+2014,Foreign Aid,6584233,Revenue
+2010,Infrastructure,2575005,Expense
+2013,Social Welfare,9498354,Expense
+2010,Foreign Aid,37919177,Revenue
+2011,Tax Revenue,32726684,Revenue
+2000,Tax Revenue,44527886,Revenue
+2022,Healthcare,14897665,Expense
+2020,Healthcare,39196576,Expense
+2022,Grants,44951752,Revenue
+2023,Defense,45113471,Expense
+2015,Natural Resources,6820219,Revenue
+2022,Natural Resources,49944549,Revenue
+2002,Infrastructure,43539827,Expense
+2016,Foreign Aid,39726679,Revenue
+2000,Tax Revenue,29148654,Revenue
+2007,Tax Revenue,18535357,Revenue
+2011,Healthcare,8039508,Expense
+2018,Healthcare,34680856,Expense
+2009,Healthcare,30369256,Expense
+2007,Social Welfare,1092305,Expense
+2015,Education,15735172,Expense
+2015,Defense,31040712,Expense
+2017,Grants,10714849,Revenue
+2008,Natural Resources,12319404,Revenue
+2019,Natural Resources,11483021,Revenue
+2003,Education,27587421,Expense
+2006,Social Welfare,9032094,Expense
+2011,Foreign Aid,36352726,Revenue
+2002,Social Welfare,2791389,Expense
+2011,Natural Resources,8078197,Revenue
+2016,Healthcare,21156983,Expense
+2007,Grants,33734518,Revenue
+2006,Defense,45019237,Expense
+2018,Infrastructure,26910535,Expense
+2011,Tax Revenue,47232418,Revenue
+2008,Foreign Aid,21181922,Revenue
+2021,Social Welfare,26346543,Expense
+2020,Infrastructure,35900026,Expense
+2008,Education,7934419,Expense
+2014,Healthcare,18585613,Expense
+2013,Defense,31536201,Expense
+2016,Natural Resources,6357143,Revenue
+2018,Foreign Aid,23316512,Revenue
+2010,Foreign Aid,40619422,Revenue
+2014,Grants,33058255,Revenue
+2018,Tax Revenue,33484404,Revenue
+2021,Foreign Aid,40953737,Revenue
+2015,Grants,4130399,Revenue
+2007,Grants,39492298,Revenue
+2016,Natural Resources,49582386,Revenue
+2020,Natural Resources,43163910,Revenue
+2022,Infrastructure,38733672,Expense
+2002,Tax Revenue,29586589,Revenue
+2010,Healthcare,6122587,Expense
+2015,Defense,39562543,Expense
+2005,Grants,7148193,Revenue
+2008,Grants,27450098,Revenue
+2018,Healthcare,37056357,Expense
+2003,Defense,48189957,Expense
+2006,Grants,23693818,Revenue
+2017,Foreign Aid,9574086,Revenue
+2021,Grants,21635170,Revenue
+2015,Defense,6420640,Expense
+2006,Education,2334068,Expense
+2020,Social Welfare,16202071,Expense
+2019,Social Welfare,3127354,Expense
+2019,Tax Revenue,41402200,Revenue
+2011,Grants,9886184,Revenue
+2001,Education,21257383,Expense
+2004,Healthcare,49021898,Expense
+2009,Healthcare,21710543,Expense
+2015,Social Welfare,38535941,Expense
+2007,Infrastructure,36632794,Expense
+2014,Foreign Aid,28532996,Revenue
+2009,Natural Resources,45667336,Revenue
+2001,Foreign Aid,48936424,Revenue
+2004,Education,8229522,Expense
+2004,Social Welfare,34306540,Expense
+2004,Defense,20710077,Expense
+2002,Grants,5846683,Revenue
+2012,Tax Revenue,40714810,Revenue
+2019,Foreign Aid,12620226,Revenue
+2013,Foreign Aid,43007148,Revenue
+2021,Education,49304766,Expense
+2005,Social Welfare,43807550,Expense
+2019,Foreign Aid,47677421,Revenue
+2019,Tax Revenue,46397421,Revenue
+2015,Tax Revenue,17563635,Revenue
+2017,Defense,2196639,Expense
+2017,Tax Revenue,28903937,Revenue
+2010,Education,33860866,Expense
+2005,Foreign Aid,10287843,Revenue
+2009,Healthcare,15702615,Expense
+2009,Infrastructure,9774213,Expense
+2021,Foreign Aid,47288320,Revenue
+2022,Tax Revenue,36759054,Revenue
+2003,Defense,10985736,Expense
+2011,Foreign Aid,18659163,Revenue
+2014,Defense,30141887,Expense
+2012,Defense,12101781,Expense
+2017,Infrastructure,3806342,Expense
+2023,Social Welfare,39159263,Expense
+2009,Social Welfare,27365096,Expense
+2020,Healthcare,31704364,Expense
+2017,Education,18769397,Expense
+2010,Infrastructure,26784859,Expense
+2016,Education,12616652,Expense
+2007,Infrastructure,20199808,Expense
+2005,Social Welfare,15594178,Expense
+2002,Grants,11092808,Revenue
+2003,Education,26664314,Expense
+2013,Infrastructure,5650620,Expense
+2012,Natural Resources,17893450,Revenue
+2022,Infrastructure,26548530,Expense
+2021,Natural Resources,23997212,Revenue
+2016,Natural Resources,7432080,Revenue
+2012,Grants,31821711,Revenue
+2019,Tax Revenue,32211735,Revenue
+2017,Education,35680235,Expense
+2008,Natural Resources,36267756,Revenue
+2021,Defense,36469108,Expense
+2009,Grants,40234148,Revenue
+2003,Social Welfare,13892614,Expense
+2010,Social Welfare,13932048,Expense
+2023,Natural Resources,21793724,Revenue
+2000,Healthcare,34505113,Expense
+2003,Natural Resources,33530023,Revenue
+2020,Defense,2724461,Expense
+2011,Infrastructure,4833832,Expense
+2013,Education,2785865,Expense
+2020,Healthcare,33669496,Expense
+2016,Grants,9505980,Revenue
+2015,Infrastructure,26925331,Expense
+2011,Defense,47569974,Expense
+2012,Defense,7375135,Expense
+2023,Grants,11392314,Revenue
+2009,Tax Revenue,35205981,Revenue
+2021,Tax Revenue,23574496,Revenue
+2007,Education,3045899,Expense
+2011,Foreign Aid,9595933,Revenue
+2021,Grants,15430145,Revenue
+2013,Grants,30165556,Revenue
+2020,Defense,27200857,Expense
+2001,Tax Revenue,34637848,Revenue
+2016,Healthcare,35591780,Expense
+2015,Foreign Aid,5674050,Revenue
+2018,Grants,11249802,Revenue
+2014,Natural Resources,31884978,Revenue
+2012,Social Welfare,25110453,Expense
+2011,Defense,39693131,Expense
+2008,Natural Resources,15356582,Revenue
+2006,Defense,45439650,Expense
+2022,Grants,48592392,Revenue
+2001,Natural Resources,6897308,Revenue
+2007,Defense,17197563,Expense
+2008,Education,13415974,Expense
+2009,Grants,8530222,Revenue
+2009,Social Welfare,32649746,Expense
+2013,Infrastructure,36716317,Expense
+2023,Education,48637101,Expense
+2003,Defense,1171284,Expense
+2021,Grants,9581141,Revenue
+2023,Infrastructure,19099555,Expense
+2012,Grants,4574316,Revenue
+2007,Foreign Aid,19940634,Revenue
+2013,Defense,44913944,Expense
+2002,Grants,27977662,Revenue
+2000,Healthcare,10624951,Expense
+2022,Foreign Aid,32943015,Revenue
+2005,Tax Revenue,5303438,Revenue
+2022,Social Welfare,5856068,Expense
+2015,Defense,37554421,Expense
+2001,Tax Revenue,25095453,Revenue
+2019,Education,45581249,Expense
+2012,Tax Revenue,4245556,Revenue
+2023,Social Welfare,14261792,Expense
+2010,Tax Revenue,5457664,Revenue
+2003,Social Welfare,48320534,Expense
+2007,Infrastructure,19798453,Expense
+2012,Healthcare,11542189,Expense
+2007,Infrastructure,24939188,Expense
+2015,Education,44531702,Expense
+2009,Defense,15351796,Expense
+2004,Education,3359282,Expense
+2017,Foreign Aid,32994486,Revenue
+2002,Foreign Aid,19065078,Revenue
+2009,Social Welfare,22936695,Expense
+2008,Defense,43292464,Expense
+2014,Grants,20948200,Revenue
+2019,Healthcare,29502649,Expense
+2016,Foreign Aid,26161906,Revenue
+2000,Natural Resources,29998554,Revenue
+2018,Infrastructure,26702684,Expense
+2013,Grants,11260374,Revenue
+2008,Natural Resources,36723239,Revenue
+2021,Foreign Aid,3969809,Revenue
+2018,Tax Revenue,39994229,Revenue
+2009,Healthcare,26812487,Expense
+2003,Foreign Aid,21718613,Revenue
+2015,Infrastructure,6611975,Expense
+2009,Defense,4845946,Expense
+2008,Natural Resources,6766866,Revenue
+2011,Infrastructure,25483866,Expense
+2012,Tax Revenue,26014486,Revenue
+2009,Foreign Aid,24371831,Revenue
+2001,Healthcare,28934618,Expense
+2000,Defense,40240346,Expense
+2001,Social Welfare,41933947,Expense
+2006,Social Welfare,27539444,Expense
+2001,Foreign Aid,18291936,Revenue
+2019,Social Welfare,21186385,Expense
+2022,Tax Revenue,38603167,Revenue
+2019,Social Welfare,4003928,Expense
+2022,Infrastructure,15659397,Expense
+2004,Grants,42987401,Revenue
+2016,Grants,46779417,Revenue
+2009,Defense,48293725,Expense
+2020,Grants,39877313,Revenue
+2002,Foreign Aid,33704220,Revenue
+2005,Grants,30042902,Revenue
+2022,Defense,44459494,Expense
+2015,Social Welfare,16664933,Expense
+2022,Infrastructure,11118748,Expense
+2022,Foreign Aid,41225801,Revenue
+2016,Tax Revenue,29198929,Revenue
+2016,Foreign Aid,19967902,Revenue
+2006,Healthcare,3941419,Expense
+2014,Infrastructure,24532244,Expense
+2016,Natural Resources,11688039,Revenue
+2010,Social Welfare,43820386,Expense
+2016,Foreign Aid,21781699,Revenue
+2008,Foreign Aid,32678581,Revenue
+2020,Natural Resources,21819144,Revenue
+2023,Infrastructure,31555616,Expense
+2004,Grants,32300747,Revenue
+2013,Healthcare,9135001,Expense
+2012,Grants,33363705,Revenue
+2017,Infrastructure,48710659,Expense
+2001,Tax Revenue,20074019,Revenue
+2007,Natural Resources,23782717,Revenue
+2012,Education,30892023,Expense
+2021,Grants,18486242,Revenue
+2022,Defense,19881276,Expense
+2005,Tax Revenue,35180647,Revenue
+2022,Healthcare,13482241,Expense
+2000,Infrastructure,5493537,Expense
+2012,Defense,13495248,Expense
+2011,Grants,4930901,Revenue
+2022,Healthcare,24560881,Expense
+2010,Infrastructure,42402453,Expense
+2022,Social Welfare,8272634,Expense
+2008,Grants,48555893,Revenue
+2020,Grants,11989454,Revenue
+2018,Foreign Aid,28497674,Revenue
+2016,Defense,31431004,Expense
+2003,Natural Resources,48172032,Revenue
+2005,Infrastructure,24942634,Expense
+2004,Infrastructure,19362587,Expense
+2009,Healthcare,3185783,Expense
+2016,Infrastructure,28212611,Expense
+2013,Healthcare,36388396,Expense
+2013,Infrastructure,22513053,Expense
+2020,Healthcare,16422843,Expense
+2020,Grants,28419415,Revenue
+2010,Tax Revenue,34663172,Revenue
+2020,Tax Revenue,5586201,Revenue
+2008,Natural Resources,8764667,Revenue
+2014,Social Welfare,12340424,Expense
+2005,Healthcare,46289015,Expense
+2016,Foreign Aid,43374483,Revenue
+2019,Foreign Aid,7471484,Revenue
+2000,Foreign Aid,47340290,Revenue
+2005,Infrastructure,9385651,Expense
+2022,Natural Resources,32071363,Revenue
+2011,Healthcare,4347201,Expense
+2015,Foreign Aid,10408588,Revenue
+2017,Foreign Aid,5839208,Revenue
+2001,Natural Resources,41715277,Revenue
+2005,Natural Resources,8818050,Revenue
+2010,Defense,27333114,Expense
+2008,Defense,26786720,Expense
+2001,Grants,32369297,Revenue
+2021,Foreign Aid,23213812,Revenue
+2010,Natural Resources,21416880,Revenue
+2004,Infrastructure,36403340,Expense
+2018,Foreign Aid,10144730,Revenue
+2008,Natural Resources,26165653,Revenue
+2006,Infrastructure,19273081,Expense
+2018,Social Welfare,40268172,Expense
+2022,Natural Resources,36008320,Revenue
+2021,Infrastructure,32991909,Expense
+2021,Social Welfare,10787774,Expense
+2018,Defense,18302225,Expense
+2023,Foreign Aid,12091370,Revenue
+2009,Education,39610011,Expense
+2016,Defense,13789499,Expense
+2011,Education,11090996,Expense
+2013,Healthcare,2383379,Expense
+2014,Foreign Aid,6311993,Revenue
+2003,Infrastructure,29278839,Expense
+2018,Healthcare,3880945,Expense
+2016,Foreign Aid,5280156,Revenue
+2005,Education,40121497,Expense
+2014,Natural Resources,18058448,Revenue
+2019,Natural Resources,24494045,Revenue
+2021,Defense,24054725,Expense
+2018,Infrastructure,2001869,Expense
+2001,Natural Resources,19218965,Revenue
+2002,Natural Resources,13892443,Revenue
+2007,Social Welfare,17672347,Expense
+2005,Natural Resources,17125698,Revenue
+2005,Defense,28908324,Expense
+2008,Infrastructure,22128839,Expense
+2022,Grants,12975788,Revenue
+2020,Social Welfare,43913095,Expense
+2005,Social Welfare,15351464,Expense
+2022,Social Welfare,22276691,Expense
+2015,Natural Resources,5977881,Revenue
+2001,Healthcare,45608949,Expense
+2005,Social Welfare,21568506,Expense
+2005,Foreign Aid,29893433,Revenue
+2019,Foreign Aid,14809688,Revenue
+2021,Defense,37214650,Expense
+2008,Foreign Aid,21196067,Revenue
+2019,Education,36511473,Expense
+2023,Social Welfare,33761354,Expense
+2006,Defense,19781285,Expense
+2021,Tax Revenue,15351483,Revenue
+2017,Grants,1450252,Revenue
+2016,Tax Revenue,23093244,Revenue
+2012,Tax Revenue,38532722,Revenue
+2001,Grants,40216176,Revenue
+2005,Social Welfare,42564405,Expense
+2017,Grants,24994218,Revenue
+2020,Education,39218219,Expense
+2009,Infrastructure,28856667,Expense
+2012,Natural Resources,45875306,Revenue
+2021,Defense,21593430,Expense
+2013,Foreign Aid,8968052,Revenue
+2016,Social Welfare,26233469,Expense
+2015,Healthcare,27220497,Expense
+2003,Education,46253550,Expense
+2001,Social Welfare,27253829,Expense
+2008,Foreign Aid,1402648,Revenue
+2010,Social Welfare,9795958,Expense
+2001,Natural Resources,5701893,Revenue
+2014,Natural Resources,20390616,Revenue
+2014,Social Welfare,1200297,Expense
+2012,Social Welfare,2955625,Expense
+2000,Foreign Aid,47381677,Revenue
+2002,Social Welfare,1773172,Expense
+2021,Education,29356408,Expense
+2007,Grants,42881645,Revenue
+2004,Infrastructure,10909628,Expense
+2017,Defense,19136056,Expense
+2014,Healthcare,38397825,Expense
+2012,Healthcare,14745775,Expense
+2021,Grants,45329659,Revenue
+2005,Grants,46635117,Revenue
+2014,Education,1250721,Expense
+2006,Defense,17833763,Expense
+2006,Education,43665244,Expense
+2013,Tax Revenue,41959681,Revenue
+2023,Defense,12719323,Expense
+2004,Defense,37341350,Expense
+2012,Natural Resources,46188642,Revenue
+2003,Grants,6659278,Revenue
+2021,Natural Resources,39643266,Revenue
+2023,Foreign Aid,29089295,Revenue
+2009,Defense,36861303,Expense
+2009,Healthcare,45966094,Expense
+2008,Infrastructure,28418373,Expense
+2000,Natural Resources,33640977,Revenue
+2019,Infrastructure,24154178,Expense
+2007,Natural Resources,17822193,Revenue
+2023,Education,28826677,Expense
+2023,Social Welfare,27282634,Expense
+2015,Defense,19383853,Expense
+2009,Foreign Aid,16943737,Revenue
+2022,Healthcare,3954399,Expense
+2003,Social Welfare,37594158,Expense
+2014,Healthcare,6466555,Expense
+2015,Foreign Aid,38028599,Revenue
+2016,Education,34196064,Expense
+2003,Healthcare,30860687,Expense
+2004,Social Welfare,9446042,Expense
+2002,Grants,39135460,Revenue
+2007,Tax Revenue,33341739,Revenue
+2016,Foreign Aid,8970592,Revenue
+2011,Social Welfare,33457225,Expense
+2010,Infrastructure,49785341,Expense
+2019,Healthcare,43289625,Expense
+2007,Healthcare,43160727,Expense
+2018,Healthcare,13451820,Expense
+2015,Defense,12158383,Expense
+2018,Grants,13778745,Revenue
+2013,Defense,38778736,Expense
+2000,Social Welfare,9586201,Expense
+2008,Education,21313762,Expense
+2023,Education,20674214,Expense
+2019,Healthcare,39023635,Expense
+2008,Social Welfare,12269770,Expense
+2008,Defense,27536574,Expense
+2012,Social Welfare,3212588,Expense
